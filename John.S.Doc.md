@@ -36,17 +36,6 @@
         iTunes  
             Podcast  
         Quotes  
-h1 {
-    text-indent: -9999px;                 /* sends the text off-screen */
-    background-image: url(/the_img.png);  /* shows image */
-    height: 100px;                        /* be sure to set height & width */
-    width: 600px;
-    white-space: nowrap;            /* because only the first line is indented */
-}
-
-h1 a {
-    outline: none;  /* prevents dotted line when link is active */
-}
         Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
 ---
         >! During an impassioned sermon about death & final judgement, the pastor said forcefully, "Each member of this church is going to die & face judgement." Glancing down at the front pew, he noticed a man with a big smile on his face.   
