@@ -35,7 +35,31 @@
             (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
         iTunes  
             Podcast  
-        Quotes  
+        <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<p>dr. Suess Quote:</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<div id="myDIV">
+Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.
+</div>
+
+
         Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
 ---
         >! During an impassioned sermon about death & final judgement, the pastor said forcefully, "Each member of this church is going to die & face judgement." Glancing down at the front pew, he noticed a man with a big smile on his face.   
