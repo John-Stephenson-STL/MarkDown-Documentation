@@ -35,7 +35,9 @@
             (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
         iTunes  
             Podcast  
-        <!DOCTYPE html>
+        Quotes  
+
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -51,13 +53,31 @@
 </head>
 <body>
 
-<p>dr. Suess Quote:</p>
+<p>Click the "Try it" button to toggle between hiding and showing the DIV element:</p>
 
 <button onclick="myFunction()">Try it</button>
 
 <div id="myDIV">
-Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.
+This is my DIV element.
 </div>
+
+<p><b>Note:</b> The element will not take up any space when the display property 
+is set to "none".</p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
+  
 
 
         Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
