@@ -36,6 +36,8 @@
         iTunes  
             Podcast  
         Quotes  
+> [!question]- How are you?
+> I'm good
         Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
 ---
         >!During an impassioned sermon about death & final judgement, the pastor said forcefully, "Each member of this church is going to die & face judgement." Glancing down at the front pew, he noticed a man with a big smile on his face.   
