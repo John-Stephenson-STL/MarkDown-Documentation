@@ -36,7 +36,18 @@
         iTunes  
             Podcast  
         Quotes  
-        > Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
+h1 {
+    text-indent: -9999px;                 /* sends the text off-screen */
+    background-image: url(/the_img.png);  /* shows image */
+    height: 100px;                        /* be sure to set height & width */
+    width: 600px;
+    white-space: nowrap;            /* because only the first line is indented */
+}
+
+h1 a {
+    outline: none;  /* prevents dotted line when link is active */
+}
+        Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
 ---
         >! During an impassioned sermon about death & final judgement, the pastor said forcefully, "Each member of this church is going to die & face judgement." Glancing down at the front pew, he noticed a man with a big smile on his face.   
         The minister repeated his point louder. "Each member of this church is going to die & face judgement!" The man nodded & smiled even more. This really got the preacher wound up. He pounded the pulpit emphatically when he came to the ultimatum: "Each member of this church is going to die & face judgement!!!" Though everyone else in the congregation was looking somber, the man in front continued to smile. Finally the preacher stepped off the platform, stood in front of the man & shouted, "I said each member of this church is going to die!"   
