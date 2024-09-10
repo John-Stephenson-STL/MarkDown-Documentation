@@ -19,7 +19,11 @@
    [MarkDown](https://www.markdowntoolbox.com/blog/markdown-vscode-extension-a-comprehensive-guide/)  
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
    [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
+
+Svelte Blog
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
+
+HTML
    [HomePage with Curves](https://m.youtube.com/watch?v=lPJVi797Uy0)  
    [HTML Login Form](https://m.youtube.com/watch?v=H8ThscWsQV8)  
       PNPM  
@@ -31,6 +35,7 @@
     [Responsive Website](https://m.youtube.com/watch?v=HVyct9EUNP8)  
     [Add DarkMode to Next.js](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27)  
     Github Pages  
+     [Tips](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     CSS  
