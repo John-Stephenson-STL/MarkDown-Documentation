@@ -15,7 +15,7 @@
     PROGRAMMING
    [MarkDown](https://www.markdowntoolbox.com/blog/markdown-vscode-extension-a-comprehensive-guide/)  
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
-   [write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
+   [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
    [HomePage with Curves](https://m.youtube.com/watch?v=lPJVi797Uy0)  
    [HTML Login Form](https://m.youtube.com/watch?v=H8ThscWsQV8)  
@@ -58,10 +58,10 @@ After the service was over, the preacher made a beeline for the man.
   
 </details>  
         PC  
-        Smart Home  
-            Beginning  
-                Take Inventory  
-                    Monitor  
+<details>
+<summary>My Inventory</summary>
+
+Monitor  
                       1 Dell  
                       1 Samsung  
                     PC Towers  
@@ -79,7 +79,13 @@ After the service was over, the preacher made a beeline for the man.
                       1 ?  
                     USB  
                       to HDD  
-                      to Wireless Charger  
+                      to Wireless Charger 
+
+</details>
+        Smart Home  
+            Beginning  
+                Take Inventory  
+                     
                     Smart Plugs  
                       TUTORIAL  
                       Configuration  
