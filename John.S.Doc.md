@@ -60,8 +60,10 @@ https://m.youtube.com/watch?v=S0psMcHw0LM
 </details>
 ---  
 
-
-[Amazon emahtskcblvdt](https://m.youtube.com/watch?v=t0om43cmYP8)  
+<details>
+<summary>Amazon emahtskcblvdt</summary>
+https://m.youtube.com/watch?v=t0om43cmYP8
+</details>
 
 
 
