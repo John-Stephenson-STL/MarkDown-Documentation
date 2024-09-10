@@ -14,8 +14,7 @@
             Password
 ## TECHNICAL
     PROGRAMMING 
-   [2004 Markdown Guide](
-). 
+   [2004 Markdown Guide](https://daringfireball.net/2004/03/introducing_markdown)  
    [MarDown Tutorial Guide](https://m.youtube.com/watch?v=pTCROLZLhDM)  
    [MarkDown](https://www.markdowntoolbox.com/blog/markdown-vscode-extension-a-comprehensive-guide/)  
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
