@@ -58,7 +58,7 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 ---  
 
 <details>  
-<summary>YouTube 4thof July</summary>
+<summary>YouTube 4th of July</summary>
 
 https://m.youtube.com/watch?v=HLC1pURhfYc
 </details>
@@ -71,6 +71,16 @@ https://m.youtube.com/watch?v=S0psMcHw0LM
 
 </details>
 ---  
+<details>
+<summary>Muppets Devil Went Down to Georgia</summary>
+https://m.youtube.com/watch?v=FC9X8Xf3XRc
+</details>
+___
+<details>  
+<summary>Muppets Devil went Down to Jamaica</summary>
+https://m.youtube.com/watch?v=ip5e9NUvX6A
+</details>  
+___
 
 <details>
 <summary>Amazon emahtskcblvdt</summary>
