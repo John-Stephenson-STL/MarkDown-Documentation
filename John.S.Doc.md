@@ -86,7 +86,7 @@ After the service was over, the preacher made a beeline for the man.
 "I'm not a member of this church," the man replied.
   
 </details>  
-        PC  
+
 <details>
 <summary>My Inventory</summary>
 
@@ -110,7 +110,8 @@ Monitor
                       to HDD  
                       to Wireless Charger 
 
-</details>
+</details>  
+        PC  
         Smart Home  
             Beginning  
                 Take Inventory  
