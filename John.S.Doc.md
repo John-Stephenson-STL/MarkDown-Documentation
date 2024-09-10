@@ -1,4 +1,4 @@
-% John Stephenson Documentation  
+% Documentation  
 % John Stephenson  
 % September 10, 2024  
 ## Informational
