@@ -54,7 +54,7 @@ The man just grinned from ear to ear.
 After the service was over, the preacher made a beeline for the man.   
 "I don't get it," the preacher said in frustration. "Whenever I said, 'Each member of this church is going to die,' your smile got bigger. Why?"   
 "I'm not a member of this church," the man replied.
-
+  
 </details>  
         PC  
         Smart Home  
