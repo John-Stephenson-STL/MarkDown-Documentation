@@ -52,7 +52,7 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 </details>
 ---  
 
-<summary>Muppets Ringing the Bells </summary>
+<summary>Muppets Ringing the Bells</summary>
 
 https://m.youtube.com/watch?v=S0psMcHw0LM
 
