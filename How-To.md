@@ -14,4 +14,13 @@ Say something along the lines of: "Excuse me, I hate to change your thought patt
 <summary>Lesson 2</summary>
   
 offer to assist any way you can.  Even if it means you send the individual to someone more knowledgeable than you.
+</details>  
+
+<details> 
+<summary>Lesson 3</summary>
+Don't lie.  Not even a little lie.  
+
+you don't know what the other person(s) knows.  
+
+You may get exposed in your own deception.  
 </details>
