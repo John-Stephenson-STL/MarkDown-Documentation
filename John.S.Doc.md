@@ -1,5 +1,6 @@
-# John Stephenson Documentation  
-
+% John Stephenson Documentation  
+% John Stephenson  
+% September 10, 2024  
 ## Informational
 ###	HOW TO
     Organize my File Folders
