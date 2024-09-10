@@ -37,17 +37,14 @@
             Podcast  
         Quotes  
 <details>
-<summary>Section Header</summary>
+<summary>Dr. Seuss</summary>
 
-Section body text.
-
-- hello
-- test
+Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.
 
 </details>
 
 ---  
-        Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
+        Dr. Seuss: ``  
 ---
 ---
         During an impassioned sermon about death & final judgement, the pastor said forcefully, "Each member of this church is going to die & face judgement." Glancing down at the front pew, he noticed a man with a big smile on his face.   
