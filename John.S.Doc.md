@@ -125,6 +125,9 @@ Monitor
                       Light  
                           Switch  
         iPhone  
+      MagSafe 
+       
+[CreDream][https://www.amazon.com/CreaDream-Aluminum-Accessories-Compatible-Included-Silver/dp/B08X4G9RQ2)  
         [iPhone MD40 Dock](https://m.youtube.com/watch?v=L3nWw8qSYgk)  
 [iPhone Standby Mode Dock](https://makerworld.com/en/models/615378#profileId-538769)  
         [iPhone as a Computer](https://www.ipodhacks142.com/how-to-install-full-mac-os-x-on-the-iphone-or-ipad-using-utm-no-jailbreak/)  
