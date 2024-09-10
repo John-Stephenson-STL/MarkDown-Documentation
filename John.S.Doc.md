@@ -28,7 +28,8 @@
     [Responsive Website](https://m.youtube.com/watch?v=HVyct9EUNP8)  
     [Add DarkMode to Next.js](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27)  
     Github Pages  
-    [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)
+    [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
+    [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     CSS  
       [WindiCSS](https://windicss.org/guide/)  
     SASS  
