@@ -38,16 +38,10 @@
         Quotes  
 ---  
 <details>  
-    <summary>Section Header<\summary>  
-   
-    Section Body Text
-<\details>  
-<details>  
-    <summary>Dr Seuss<\summary>. 
+    <summary>Dr Seuss<\summary>  
 
     Unless some like you cares a whole awful lot, nothing is going to get better.  It's not.
-<\details>. 
-
+<\details>  
         Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
 ---
 ---
