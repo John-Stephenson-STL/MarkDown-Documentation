@@ -37,8 +37,6 @@
             Podcast  
         Quotes  
 ---  
-Dr. Seuss
-<div style="display:none;">Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.</div>
         Dr. Seuss: `Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.`  
 ---
 ---
