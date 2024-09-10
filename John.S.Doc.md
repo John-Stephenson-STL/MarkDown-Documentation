@@ -7,6 +7,7 @@
     Open Cereal
     Open Milk
     Open Orange Juice
+    [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 ### SETUP
     Login
         Choose
