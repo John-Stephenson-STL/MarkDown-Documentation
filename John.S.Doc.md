@@ -14,7 +14,7 @@
 ## TECHNICAL
     PROGRAMMING
    [MarkDown](https://www.markdowntoolbox.com/blog/markdown-vscode-extension-a-comprehensive-guide/)  
-    [MarkDown Example]{https://raw.githubusercontent.com/faraday-academy/django-setup-wiki/main/GraphQL.md}  
+   [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
    [HomePage with Curves](https://m.youtube.com/watch?v=lPJVi797Uy0)  
    [HTML Login Form](https://m.youtube.com/watch?v=H8ThscWsQV8)  
