@@ -121,12 +121,12 @@ Monitor
 https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
 </details>. 
 ---  
-        PC  
-        Smart Home  
-            Beginning  
-                Take Inventory  
-                    Smart Plugs  
-                      TUTORIAL  
+PC  
+    Smart Home  
+        Beginning  
+        Take Inventory  
+        Smart Plugs  
+          TUTORIAL  
                       Configuration  
                       Connections  
                           OLD PLUGS  
