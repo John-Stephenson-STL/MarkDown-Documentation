@@ -85,7 +85,6 @@ Monitor
         Smart Home  
             Beginning  
                 Take Inventory  
-                     
                     Smart Plugs  
                       TUTORIAL  
                       Configuration  
