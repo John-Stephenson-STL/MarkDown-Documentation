@@ -115,11 +115,11 @@ Monitor
 
 </details>  
 ---  
-<details>. 
+<details>  
    <summary>DogTown Pizza</summary>  
    
 https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
-</details>. 
+</details>  
 ---  
 PC  
     Smart Home  
