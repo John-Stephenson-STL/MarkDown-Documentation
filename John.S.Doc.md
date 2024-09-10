@@ -52,8 +52,13 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 </details>
 ---  
 
-  
-[Muppets Ringing the Bells](https://m.youtube.com/watch?v=S0psMcHw0LM)  
+<summary>Muppets Ringing the Bells </summary>
+
+https://m.youtube.com/watch?v=S0psMcHw0LM
+
+</details>
+---  
+
 
 [Amazon emahtskcblvdt](https://m.youtube.com/watch?v=t0om43cmYP8)  
 
