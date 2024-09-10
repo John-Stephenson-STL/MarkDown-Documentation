@@ -31,6 +31,8 @@ HTML
       PNPM  
       [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
     NEXT.js  
+    [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
+
     [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
     [Portfolio Blog](https://vercel.com/templates/next.js/nextjs-portfolio)  
     [Vercel/ Next Portfolio Starter Kit](https://vercel.com/new/templates/next.js/portfolio-starter-kit)  
