@@ -102,4 +102,5 @@ Monitor
         [iPhone as a Computer](https://www.ipodhacks142.com/how-to-install-full-mac-os-x-on-the-iphone-or-ipad-using-utm-no-jailbreak/)  
         [iPhone as a Computer No JailBreak](https://www.ipodhacks142.com/how-to-install-any-tweaked-hacked-app-ipa-on-ios-13-using-altstore-no-revoke-no-jailbreak/)  
         [MagSafe or Qi2](https://www.macworld.com/article/2128673/what-is-qi2-is-qi2-iphone-wireless-charging-better-than-magsafe.html)  
-        [Remaker](https://remarkable.com/)
+        [Remaker](https://remarkable.com/)  
+      [Ideas](https://m.youtube.com/watch?v=HLC1pURhfYc)  
