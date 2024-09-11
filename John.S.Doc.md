@@ -39,6 +39,7 @@ HTML
     [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
     [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
+
     [Portfolio Blog](https://vercel.com/templates/next.js/nextjs-portfolio)  
     [Vercel/ Next Portfolio Starter Kit](https://vercel.com/new/templates/next.js/portfolio-starter-kit)  
     [Responsive Website](https://m.youtube.com/watch?v=HVyct9EUNP8)  
@@ -48,6 +49,8 @@ HTML
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     CSS  
+      [3 Lines to make Footer at Bottom of Page](https://m.youtube.com/watch?v=AVPR_WuDw8o)  
+
       [Make Footer at Bottom of Page](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/#:~:text=You%20can%20use%20flexbox%20to,and%20flex%2Ddirection%3A%20column%20.)  
       [WindiCSS](https://windicss.org/guide/)  
     SASS  
