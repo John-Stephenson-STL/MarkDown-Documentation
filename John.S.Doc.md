@@ -21,6 +21,7 @@ date created: September 7, 2024
     PROGRAMMING 
       MarkDown  
 
+   [GitHub MarkDown Guide](https://github.com/im-luka/markdown-cheatsheet)  
    [Crash Course](https://m.youtube.com/watch?v=HUBNt18RFbo)  
    [2004 Markdown Guide](https://daringfireball.net/2004/03/introducing_markdown)  
    [MarDown Tutorial Guide](https://m.youtube.com/watch?v=pTCROLZLhDM)  
