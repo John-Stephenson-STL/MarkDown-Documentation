@@ -51,9 +51,9 @@ HTML
     NEXT.js  
     [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
-    [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
+   [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
 
-    [Portfolio Blog](https://vercel.com/templates/next.js/nextjs-portfolio)  
+   [Portfolio Blog](https://vercel.com/templates/next.js/nextjs-portfolio)  
     [Vercel/ Next Portfolio Starter Kit](https://vercel.com/new/templates/next.js/portfolio-starter-kit)  
     [Responsive Website](https://m.youtube.com/watch?v=HVyct9EUNP8)  
     [Add DarkMode to Next.js](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27)  
