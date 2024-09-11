@@ -187,12 +187,11 @@ PC
         [MagSafe or Qi2](https://www.macworld.com/article/2128673/what-is-qi2-is-qi2-iphone-wireless-charging-better-than-magsafe.html)  
         [Remaker](https://remarkable.com/)  
       [Ideas](https://m.youtube.com/watch?v=HLC1pURhfYc)  
-  DIY 
+  DIY  
     [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)
   
-  [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o) 
-    [Statue of Liberty Building Instructions](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4183855.pdf)
-  
+  [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o)  
+    [Statue of Liberty Building Instructions](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4183855.pdf)  
   Food
   
   Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)
