@@ -188,6 +188,7 @@ PC
         [Remaker](https://remarkable.com/)  
       [Ideas](https://m.youtube.com/watch?v=HLC1pURhfYc)  
   DIY 
+    [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)
   
     [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o) 
   
