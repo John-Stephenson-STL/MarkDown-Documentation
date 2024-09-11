@@ -15,6 +15,7 @@
             Password
 ## TECHNICAL  
    [Windows 11](https://m.youtube.com/watch?v=VapEEf4k7Eo)  
+   [Custom Windows 10/ 11 ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
 
     PROGRAMMING 
    [2004 Markdown Guide](https://daringfireball.net/2004/03/introducing_markdown)  
