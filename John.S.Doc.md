@@ -1,6 +1,6 @@
-title: Documentation  
-author: John Stephenson  
-date created: September 7, 2024  
+| title | author | date created
+| -------- | ------- | -------|
+| Documentation | John Stephenson | September 7, 2024 |  
   
 ## Informational
 ###	HOW TO
