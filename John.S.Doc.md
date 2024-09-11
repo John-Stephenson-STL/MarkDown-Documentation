@@ -38,6 +38,7 @@ Svelte Blog
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
 HTML 
+   [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
    [collapsible Menu](https://m.youtube.com/watch?v=HGeqO_8BlvY)
   
