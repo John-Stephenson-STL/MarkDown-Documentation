@@ -190,7 +190,8 @@ PC
   DIY 
     [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)
   
-    [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o) 
+  [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o) 
+    [Statue of Liberty Building Instructions](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4183855.pdf)
   
   Food
   
