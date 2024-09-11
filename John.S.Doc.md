@@ -1,8 +1,7 @@
----
-title: Documentation  
-author: John Stephenson  
-date: September 7, 2024  
----
+title-Documentation  
+author-John Stephenson  
+date-September 7, 2024  
+  
 ## Informational
 ###	HOW TO
     Organize my File Folders
