@@ -37,7 +37,10 @@ date created: September 7, 2024
 Svelte Blog
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
-HTML
+HTML 
+  
+   [collapsible Menu](https://m.youtube.com/watch?v=HGeqO_8BlvY)
+  
    [HomePage with Curves](https://m.youtube.com/watch?v=lPJVi797Uy0)  
    [HTML Login Form](https://m.youtube.com/watch?v=H8ThscWsQV8)  
       PNPM  
