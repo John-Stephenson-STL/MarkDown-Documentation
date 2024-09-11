@@ -21,7 +21,8 @@ date created: September 7, 2024
    [Amazon Search](https://www.amazon.com/Achoro-Ports-USB-3-0-High-Speed/dp/B07PYHBKWJ/ref=asc_df_B07PYHBKWJ/?tag=hyprod-20&linkCode=df0&hvadid=693535620612&hvpos=&hvnetw=g&hvrand=18132658606510315003&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-813253721517&psc=1&mcid=702c02645d74309faf7eee41f67b310e&gad_source=1) 
   
    [Windows 11](https://m.youtube.com/watch?v=VapEEf4k7Eo)  
-   [Custom Windows 10/ 11 ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
+   [DeBloat Windows 10/11 custom ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
+    [Custom Windows 10/ 11 ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
 
     PROGRAMMING 
       MarkDown  
