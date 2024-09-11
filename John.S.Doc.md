@@ -176,3 +176,7 @@ PC
         [MagSafe or Qi2](https://www.macworld.com/article/2128673/what-is-qi2-is-qi2-iphone-wireless-charging-better-than-magsafe.html)  
         [Remaker](https://remarkable.com/)  
       [Ideas](https://m.youtube.com/watch?v=HLC1pURhfYc)  
+  Food
+  
+    [Grilled Cheese](https://m.youtube.com/watch?v=AL4kqAi-0jc)
+  
