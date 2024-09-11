@@ -62,6 +62,7 @@ HTML
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     CSS  
+    [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
       [DarkMode Toggle](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
       [3 Lines to make Footer at Bottom of Page](https://m.youtube.com/watch?v=AVPR_WuDw8o)  
