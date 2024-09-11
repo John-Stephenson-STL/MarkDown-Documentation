@@ -1,6 +1,6 @@
 % Documentation  
 % John Stephenson  
-% September 10, 2024  
+% September 7, 2024  
 ## Informational
 ###	HOW TO
     Organize my File Folders
@@ -15,6 +15,7 @@
             Password
 ## TECHNICAL  
    [Windows 11](https://m.youtube.com/watch?v=VapEEf4k7Eo)  
+
     PROGRAMMING 
    [2004 Markdown Guide](https://daringfireball.net/2004/03/introducing_markdown)  
    [MarDown Tutorial Guide](https://m.youtube.com/watch?v=pTCROLZLhDM)  
@@ -136,20 +137,20 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
 </details>  
 ---  
 PC  
-    Smart Home  
-        Beginning  
-        Take Inventory  
-        Smart Plugs  
-          TUTORIAL  
-                      Configuration  
-                      Connections  
-                          OLD PLUGS  
-                              Configuration  
-                      Ceiling Fan  
-                      Light  
-                          Switch  
-        iPhone  
-      MagSafe 
+  Smart Home  
+    Beginning  
+    Take Inventory  
+    Smart Plugs  
+      TUTORIAL  
+      Configuration  
+      Connections  
+      OLD PLUGS  
+        Configuration  
+      Ceiling Fan  
+      Light  
+        Switch  
+  iPhone  
+    MagSafe 
       
   
 [Make device MagSafe](https://www.instagram.com/reel/C5Tr8aPxygr/?utm_source=ig_web_copy_link)
