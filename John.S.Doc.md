@@ -34,13 +34,13 @@ IDE
       [Zed](https://zed.dev)   
   Extensions Needed  
       1. gitLens  
-      1. BetterComments  
-      1. Prettier  
-      1. Live Server  
-      1. BookMarks  
-      1. Peacock  
-      1. vscode pets  
-    PROGRAMMING 
+      2. BetterComments  
+      3. Prettier  
+      4. Live Server  
+      5. BookMarks  
+      6. Peacock  
+      7. vscode pets  
+    PROGRAMMING  
       MarkDown  
 
    [GitHub MarkDown Guide](https://github.com/im-luka/markdown-cheatsheet)  
