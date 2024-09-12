@@ -36,7 +36,7 @@
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
    [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
 
-Svelte Blog
+Svelte Blog  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
 HTML 
