@@ -32,6 +32,7 @@ LibreOffice
 
 IDE  
       [Zed](https://zed.dev)   
+  Extensions Needed
       gitLens  
       BetterComments  
       Prettier  
