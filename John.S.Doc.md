@@ -32,7 +32,13 @@ LibreOffice
 
 IDE  
       [Zed](https://zed.dev)   
-
+      gitLens  
+      BetterComments  
+      Prettier  
+      Live Server  
+      BookMarks  
+      Peacock  
+      vscode pets  
     PROGRAMMING 
       MarkDown  
 
