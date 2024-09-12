@@ -4,4 +4,4 @@
   
 # Accomplishments 
     1. Easy to get along with  
-    1. Able to comprehend complex topics  
+    2. Able to comprehend complex topics  
