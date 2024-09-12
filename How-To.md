@@ -2,9 +2,15 @@
 | -------- | ------- | -------|
 | Documentation | John Stephenson | September 7, 2024 
 
+# Table of Contents  
+[How To](#how_to)  
+[Writing Style](#writing_style)  
+    [Standards](#standards)  
+[Earn Respect from Others](#earn_respect_from_others)  
+
 # How To  
 
-## Writing Documents  
+## Writing Style  
 ### Standards  
 
 1. Every section needs a linkable label 
