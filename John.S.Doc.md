@@ -40,6 +40,8 @@ IDE
       5. BookMarks  
       6. Peacock  
       7. vscode pets  
+NAS  
+  [N100 NAS 2 Bay](https://www.amazon.com/Healuck-Storage-Router-System-Support/dp/B0D5VLGV9Z?th=1&psc=1)  
     PROGRAMMING  
       MarkDown  
 
