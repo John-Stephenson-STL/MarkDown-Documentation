@@ -33,13 +33,13 @@ LibreOffice
 IDE  
       [Zed](https://zed.dev)   
   Extensions Needed  
-      gitLens  
-      BetterComments  
-      Prettier  
-      Live Server  
-      BookMarks  
-      Peacock  
-      vscode pets  
+      1. gitLens  
+      1. BetterComments  
+      1. Prettier  
+      1. Live Server  
+      1. BookMarks  
+      1. Peacock  
+      1. vscode pets  
     PROGRAMMING 
       MarkDown  
 
