@@ -91,7 +91,7 @@ HTML
 
 Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.
 
-</details>
+</details>  
 ---  
 
 <details>  
@@ -106,23 +106,23 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
 https://m.youtube.com/watch?v=S0psMcHw0LM
 
-</details>
+</details>  
 ---  
 <details>
 <summary>Muppets Devil Went Down to Georgia</summary>
 https://m.youtube.com/watch?v=FC9X8Xf3XRc
-</details>
-___
+</details>  
+___  
 <details>  
 <summary>Muppets Devil went Down to Jamaica</summary>
 https://m.youtube.com/watch?v=ip5e9NUvX6A
 </details>  
-___
+___   
 
 <details>
 <summary>Amazon emahtskcblvdt</summary>
 https://m.youtube.com/watch?v=t0om43cmYP8
-</details>
+</details>  
 
 ---  
 <details>
@@ -136,7 +136,7 @@ After the service was over, the preacher made a beeline for the man.
 "I'm not a member of this church," the man replied.
   
 </details>  
----
+---  
 <details>
 <summary>My Inventory</summary>
 
