@@ -40,8 +40,10 @@ IDE
       5. BookMarks  
       6. Peacock  
       7. vscode pets  
+
 NAS  
   [N100 NAS 2 Bay](https://www.amazon.com/Healuck-Storage-Router-System-Support/dp/B0D5VLGV9Z?th=1&psc=1)  
+
     PROGRAMMING  
       MarkDown  
 
@@ -79,6 +81,7 @@ HTML
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     CSS  
+    [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
     [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
       [DarkMode Toggle](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
