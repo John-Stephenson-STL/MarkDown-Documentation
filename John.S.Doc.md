@@ -25,7 +25,7 @@
    [DeBloat Windows 10/11 custom ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
    [Custom Windows 10/ 11 ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
 
-    IDE  
+IDE  
       [Zed](https://zed.dev)   
 
     PROGRAMMING 
