@@ -25,6 +25,9 @@
    [DeBloat Windows 10/11 custom ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
    [Custom Windows 10/ 11 ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
 
+LibreOffice
+  [LibreOffice]https://m.youtube.com/watch?v=q-PoKzTlJY8)  
+  [LibreOffice Official](https://www.libreoffice.org)  
 IDE  
       [Zed](https://zed.dev)   
 
