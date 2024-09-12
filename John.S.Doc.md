@@ -47,6 +47,7 @@ NAS
     PROGRAMMING  
       MarkDown  
 
+   [MarkDown details tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details).  
    [GitHub MarkDown Guide](https://github.com/im-luka/markdown-cheatsheet)  
    [Crash Course](https://m.youtube.com/watch?v=HUBNt18RFbo)  
    [2004 Markdown Guide](https://daringfireball.net/2004/03/introducing_markdown)  
