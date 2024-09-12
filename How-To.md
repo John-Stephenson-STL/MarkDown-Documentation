@@ -1,4 +1,11 @@
+| title | author | date created
+| -------- | ------- | -------|
+| Documentation | John Stephenson | September 7, 2024 
+
 # How To  
+
+## Writing Documents  
+###Standards  
 
 ## Earn Respect from others.  
 
