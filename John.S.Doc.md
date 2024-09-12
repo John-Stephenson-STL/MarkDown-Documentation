@@ -28,6 +28,8 @@
 LibreOffice  
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
   [LibreOffice Official](https://www.libreoffice.org)  
+  [Upgrade LibreOffice](https://help.libreoffice.org/latest/en-US/text/shared/01/online_update.html?DbPAR=SHARED)  
+
 IDE  
       [Zed](https://zed.dev)   
 
