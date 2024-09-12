@@ -4,9 +4,10 @@
   
 # Table of Contents  
 
-[Introduction](#introduction).
-
-
+[Informational](#informational)  
+[How To](#how_to)  
+[Setup](#setup)  
+[Technical](#technical)  
 
 ## Informational
 ###	HOW TO
