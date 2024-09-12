@@ -5,7 +5,13 @@
 # How To  
 
 ## Writing Documents  
-###Standards  
+### Standards  
+
+1. Every section needs a linkable label 
+  * How to make  
+    1. Examples   
+2. hide content when irrelevant to readers.
+
 
 ## Earn Respect from others.  
 
