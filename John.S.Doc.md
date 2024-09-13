@@ -10,10 +10,15 @@
 [Setup](#setup)  
 [Technical](#technical)  
 [LibreOffice](#libreoffice)  
-[IDE](#ide) 
+[IDE](#ide)  
 [NAS](#nas)   
 [Programming](#programming)  
 [Markdown](#markdown)  
+[Svelte Blog](#svelteblog)  
+[HTML](#html)  
+[PNPM](#pnpm)  
+[Next.js](#nextjs)  
+[Github Pages](#github-pages)  
 </details>  
 
 ## Informational
