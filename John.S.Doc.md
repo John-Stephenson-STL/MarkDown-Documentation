@@ -3,7 +3,7 @@
 | Documentation | John Stephenson | September 7, 2024 |  
   
 <details>  
-<summary># Table of Contents</summary>  
+<summary>Table of Contents</summary>  
 
 [Informational](#informational)  
 [How To](#how_to)  
