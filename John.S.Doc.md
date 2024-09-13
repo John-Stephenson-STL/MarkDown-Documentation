@@ -199,7 +199,7 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
   ### TUTORIAL  
   ### Configuration  
   ### Connections  
-  ###. OLD PLUGS  
+  ### OLD PLUGS  
   #### Configuration  
   ### Ceiling Fan  
   ### Light  
