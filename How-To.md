@@ -1,13 +1,13 @@
 | title | author | date created
 | -------- | ------- | -------|
 | Documentation | John Stephenson | September 7, 2024 
-
-# Table of Contents  
+<details>
+<summary>Table of Contents</summary>  
 [How To](#how_to)  
 [Writing Style](#writing_style)  
 [Standards](#standards)  
 [Earn Respect of Others](#earn_respect_from_others)    
-
+</details>  
 # How To  
 
 ## Writing Style  
