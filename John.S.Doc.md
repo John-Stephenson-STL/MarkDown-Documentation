@@ -19,6 +19,20 @@
 [PNPM](#pnpm)  
 [Next.js](#nextjs)  
 [Github Pages](#github-pages)  
+[CSS](#css)  
+[SASS](#sass) 
+[How To](#how-to)   
+[Setup](#setup)  
+[iTunes](#itunes)  
+[Podcast](#podcast)  
+[Quotes](#quotes)  
+[P.C.](#pc)  
+[Songs](#songs)  
+[iPhone](#iphone)  
+[MagSafe](#magsafe)  
+[EyeGlasses](#eyeglasses)  
+[D.I.Y.](#diy)  
+[Food](#food)  
 </details>  
 
 ## Informational
