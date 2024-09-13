@@ -2,6 +2,8 @@
 | -------- | ------- | -------|
 | Documentation | John Stephenson | September 7, 2024 |  
   
+# Documentation  
+
 <details>
 <summary>Table of Contents</summary>  
 
@@ -256,4 +258,4 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
   [Snickers Popcorn Recipe](https://www.u-createcrafts.com/snickers-popcorn-recipe-only-3/)  
   [Oreo Cookie Popcorn Recipe](https://www.u-createcrafts.com/oreo-cookie-popcorn-recipe/)  
   [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)
-  
+  [Goto Top](#documentation)  
