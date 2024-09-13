@@ -33,12 +33,12 @@
    [DeBloat Windows 10/11 custom ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
    [Custom Windows 10/ 11 ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
 
-LibreOffice  
+## LibreOffice  
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
   [LibreOffice Official](https://www.libreoffice.org)  
   [Upgrade LibreOffice](https://help.libreoffice.org/latest/en-US/text/shared/01/online_update.html?DbPAR=SHARED)  
 
-IDE  
+## IDE  
       [Zed](https://zed.dev)   
   Extensions Needed  
       1. gitLens  
@@ -49,11 +49,11 @@ IDE
       6. Peacock  
       7. vscode pets  
 
-NAS  
+## NAS  
   [N100 NAS 2 Bay](https://www.amazon.com/Healuck-Storage-Router-System-Support/dp/B0D5VLGV9Z?th=1&psc=1)  
 
-    PROGRAMMING  
-      MarkDown  
+# PROGRAMMING  
+## MarkDown  
 
    [MarkDown TOC](https://markdowntohtmlgenius.com/blog/how-to-create-a-table-of-contents-in-markdown/ )
    [MarkDown details tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details).  
@@ -65,19 +65,19 @@ NAS
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
    [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
 
-Svelte Blog  
+# Svelte Blog  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
-HTML  
+# HTML  
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
    [collapsible Menu](https://m.youtube.com/watch?v=HGeqO_8BlvY)
   
    [HomePage with Curves](https://m.youtube.com/watch?v=lPJVi797Uy0)  
    [HTML Login Form](https://m.youtube.com/watch?v=H8ThscWsQV8)  
-      PNPM  
+# PNPM  
       [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
-    NEXT.js  
+# NEXT.js  
     [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
    [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
@@ -86,11 +86,11 @@ HTML
     [Vercel/ Next Portfolio Starter Kit](https://vercel.com/new/templates/next.js/portfolio-starter-kit)  
     [Responsive Website](https://m.youtube.com/watch?v=HVyct9EUNP8)  
     [Add DarkMode to Next.js](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27)  
-    Github Pages  
+# Github Pages  
      [Tips](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
-    CSS  
+# CSS  
     [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
     [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
       [DarkMode Toggle](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
@@ -99,15 +99,15 @@ HTML
 
   [Make Footer at Bottom of Page](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/#:~:text=You%20can%20use%20flexbox%20to,and%20flex%2Ddirection%3A%20column%20.)  
       [WindiCSS](https://windicss.org/guide/)  
-    SASS  
+# SASS  
       [Cody Fayock Guide](https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/)  
-    HOW TO  
-    SETUP  
+# HOW TO  
+## SETUP  
         WRITING TECHNICAL DOCUMENTATION -   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
             (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
-        iTunes  
-            Podcast  
-        Quotes  
+# iTunes  
+## Podcast  
+#Quotes  
 <details>
 <summary>Dr. Seuss</summary>
 
