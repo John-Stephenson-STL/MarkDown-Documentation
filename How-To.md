@@ -2,17 +2,11 @@
 | -------- | ------- | -------|
 | Documentation | John Stephenson | September 7, 2024 
 
-
-<div style="display::none">  
-
 # Table of Contents  
 [How To](#how_to)  
-# Markdown heading styles {#identifier .how_to}  
-# Markdown heading styles {#identifier .writing_style}  
 [Writing Style](#writing_style)  
-# Markdown heading styles {#identifier .standards}  
-# Markdown heading styles {#identifier .earn_respect_from_others}    
-</div>  
+[Standards](#standards)  
+[Earn Respect of Others](#earn_respect_from_others)    
 
 # How To  
 
