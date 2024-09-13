@@ -12,7 +12,7 @@
 - [How To](#how-to)  
 - [Setup](#setup)
 
-<1--
+<!--
 [Informational](#informational)  
 [How To](#how_to)  
 [Setup](#setup)  
