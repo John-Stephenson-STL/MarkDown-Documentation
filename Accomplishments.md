@@ -10,6 +10,6 @@
 
 [Accomplishments](#accomplishments)  
 </details>  
-# Accomplishments 
+<h1>Accomplishments</h1> 
     1. Easy to get along with  
     2. Able to comprehend complex topics  
