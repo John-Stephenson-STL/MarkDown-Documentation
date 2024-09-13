@@ -2,13 +2,14 @@
 | -------- | ------- | -------|
 | Documentation | John Stephenson | September 7, 2024 |  
   
-# Table of Contents  
+<details>  
+<summary># Table of Contents</summary>  
 
 [Informational](#informational)  
 [How To](#how_to)  
 [Setup](#setup)  
 [Technical](#technical)  
-
+</details>
 ## Informational
 ###	HOW TO
     Organize my File Folders
