@@ -11,6 +11,6 @@
 [Accomplishments](#accomplishments)  
 </details>  
 <h1>Accomplishments</h1> 
-    1. Easy to get along with  
+    <h4>1. Easy to get along with</h4>  
 
-    2. Able to comprehend complex topics  
+    <h4>2. Able to comprehend complex topics</h4  
