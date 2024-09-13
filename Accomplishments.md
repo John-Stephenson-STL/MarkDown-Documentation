@@ -2,10 +2,12 @@
 | -------- | ------- | -------|
 | Documentation | John Stephenson | September 12, 2024 |  
    
-<details>  
-<summary>
+<!--
 # Table of Contents  
-</summary>
+-->
+<details>  
+<summary>Table of Contents</summary>
+
 [Accomplishments](#accomplishments)  
 </details>  
 # Accomplishments 
