@@ -6,7 +6,7 @@
 # Table of Contents  
 -->
 <details>  
-<summary>Table of Contents</summary>
+<summary>Table of Contents</summary>  
 
 [Accomplishments](#accomplishments)  
 </details>  
