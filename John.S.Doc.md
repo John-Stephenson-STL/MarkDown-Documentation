@@ -221,9 +221,9 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
         [Remaker](https://remarkable.com/)  
       [Ideas](https://m.youtube.com/watch?v=HLC1pURhfYc)  
 # EyeGlasses  
-    [Duduma EyeGlasses](https://www.amazon.com/Duduma-Polarized-Sunglasses-Running-Unbreakable/dp/B015T1199K/ref=mp_s_a_1_3?adgrpid=1345802795096478&dib=eyJ2IjoiMSJ9.F1rlLqOeFp-lVkqzH9b-LLj5wUdF28FOctAXznBQnmsAuTkskK2Z7sB_NfORsDhbpbaAwU3gGUqVKwoThmZ9WWvKTGLMTl1MuGCyLC1-kDJGPffG6xiCliPi2W5TmdRzW8RLd3ClI227OqZlJMQyWoSjNbpUOnrUPwkL9qs8dMzeUyr7oyTEPzT58lGYxF8TnzabTkitPuFOaGT8rqNc4FotFYFFfOovlnOKP5YXknLWA1_5rpL2opTYMIpcyjv1BeT1ZjllYn-797b7M581E2dNUGHPhdlSC_e5ytGKm0U.HQ0owO4bgf7uC3zsJqbii_WV20jf3Z3LjPnLyooqLyk&dib_tag=se&hvadid=84112889576671&hvbmt=be&hvdev=m&hvlocphy=90315&hvnetw=o&hvqmt=e&hvtargid=kwd-84113015252572%3Aloc-190&hydadcr=11806_13276027&keywords=duduma+sunglasses&qid=1726097881&sr=8-3)  
+  [Duduma EyeGlasses](https://www.amazon.com/Duduma-Polarized-Sunglasses-Running-Unbreakable/dp/B015T1199K/ref=mp_s_a_1_3?adgrpid=1345802795096478&dib=eyJ2IjoiMSJ9.F1rlLqOeFp-lVkqzH9b-LLj5wUdF28FOctAXznBQnmsAuTkskK2Z7sB_NfORsDhbpbaAwU3gGUqVKwoThmZ9WWvKTGLMTl1MuGCyLC1-kDJGPffG6xiCliPi2W5TmdRzW8RLd3ClI227OqZlJMQyWoSjNbpUOnrUPwkL9qs8dMzeUyr7oyTEPzT58lGYxF8TnzabTkitPuFOaGT8rqNc4FotFYFFfOovlnOKP5YXknLWA1_5rpL2opTYMIpcyjv1BeT1ZjllYn-797b7M581E2dNUGHPhdlSC_e5ytGKm0U.HQ0owO4bgf7uC3zsJqbii_WV20jf3Z3LjPnLyooqLyk&dib_tag=se&hvadid=84112889576671&hvbmt=be&hvdev=m&hvlocphy=90315&hvnetw=o&hvqmt=e&hvtargid=kwd-84113015252572%3Aloc-190&hydadcr=11806_13276027&keywords=duduma+sunglasses&qid=1726097881&sr=8-3)  
 # DIY  
-    [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)
+  [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)  
   
   [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o)  
     [Statue of Liberty Building Instructions](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4183855.pdf)  
