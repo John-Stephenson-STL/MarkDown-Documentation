@@ -7,9 +7,11 @@
 
 # Table of Contents  
 [How To](#how_to)  
+# Markdown heading styles {#identifier .how_to}  
+# Markdown heading styles {#identifier .writing_style}  
 [Writing Style](#writing_style)  
-    [Standards](#standards)  
-[Earn Respect from Others](#earn_respect_from_others)  
+# Markdown heading styles {#identifier .standards}  
+# Markdown heading styles {#identifier .earn_respect_from_others}    
 </div>  
 
 # How To  
