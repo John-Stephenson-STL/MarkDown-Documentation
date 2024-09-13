@@ -10,6 +10,9 @@
 [Informational](#informational)  
 [How To](#how_to)  
 [Setup](#setup)  
+### Login
+### [User Id](#user-id)  
+### [Password](#password)  
 *   [Login](#login)  
     [Choose](#choose)  
     *   [User Id](#user-id)  
