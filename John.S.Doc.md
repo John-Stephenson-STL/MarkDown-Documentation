@@ -44,11 +44,17 @@
     Open Milk
     Open Orange Juice
     [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
+
+  [Goto Top](#documentation)  
+
 ### SETUP
     Login
         Choose
             User ID
             Password
+
+  [Goto Top](#documentation)  
+
 ## TECHNICAL  
    Gadgets  
    [Google Search](https://www.google.com/search?q=satechi+usb+c+combo+hub&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)  
@@ -60,10 +66,14 @@
    [DeBloat Windows 10/11 custom ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
    [Custom Windows 10/ 11 ISO](https://m.youtube.com/watch?v=_gMJNQ3yWNE)  
 
+  [Goto Top](#documentation)  
+
 ## LibreOffice  
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
   [LibreOffice Official](https://www.libreoffice.org)  
   [Upgrade LibreOffice](https://help.libreoffice.org/latest/en-US/text/shared/01/online_update.html?DbPAR=SHARED)  
+
+  [Goto Top](#documentation)  
 
 ## IDE  
       [Zed](https://zed.dev)   
@@ -76,8 +86,12 @@
       6. Peacock  
       7. vscode pets  
 
+  [Goto Top](#documentation)  
+
 ## NAS  
   [N100 NAS 2 Bay](https://www.amazon.com/Healuck-Storage-Router-System-Support/dp/B0D5VLGV9Z?th=1&psc=1)  
+
+  [Goto Top](#documentation)  
 
 # PROGRAMMING  
 ## MarkDown  
@@ -92,8 +106,12 @@
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
    [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
 
+  [Goto Top](#documentation)  
+
 # Svelte Blog  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
+
+  [Goto Top](#documentation)  
 
 # HTML  
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
@@ -102,8 +120,14 @@
   
    [HomePage with Curves](https://m.youtube.com/watch?v=lPJVi797Uy0)  
    [HTML Login Form](https://m.youtube.com/watch?v=H8ThscWsQV8)  
+
+  [Goto Top](#documentation)  
+
 # PNPM  
       [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
+
+  [Goto Top](#documentation)  
+
 # NEXT.js  
     [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
@@ -113,10 +137,16 @@
     [Vercel/ Next Portfolio Starter Kit](https://vercel.com/new/templates/next.js/portfolio-starter-kit)  
     [Responsive Website](https://m.youtube.com/watch?v=HVyct9EUNP8)  
     [Add DarkMode to Next.js](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27)  
+
+  [Goto Top](#documentation)  
+
 # Github Pages  
      [Tips](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
+
+  [Goto Top](#documentation)  
+
 # CSS  
     [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
     [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
@@ -126,14 +156,24 @@
 
   [Make Footer at Bottom of Page](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/#:~:text=You%20can%20use%20flexbox%20to,and%20flex%2Ddirection%3A%20column%20.)  
       [WindiCSS](https://windicss.org/guide/)  
+  [Goto Top](#documentation)  
+
 # SASS  
       [Cody Fayock Guide](https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/)  
+
+  [Goto Top](#documentation)  
+
 # HOW TO  
 ## SETUP  
         WRITING TECHNICAL DOCUMENTATION -   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
             (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
+  [Goto Top](#documentation)  
+
 # iTunes  
 ## Podcast  
+
+  [Goto Top](#documentation)  
+
 # Quotes  
 <details>
 <summary>Dr. Seuss</summary>
@@ -217,6 +257,7 @@ Monitor
 https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
 </details>  
 ---  
+  [Goto Top](#documentation)  
   
 # PC  
   ## Smart Home  
@@ -231,8 +272,12 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
   ### Ceiling Fan  
   ### Light  
   #### Switch  
+  [Goto Top](#documentation)  
+
 # Songs  
     [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
+  [Goto Top](#documentation)  
+
 # iPhone  
 ## MagSafe 
       
@@ -247,15 +292,21 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
         [MagSafe or Qi2](https://www.macworld.com/article/2128673/what-is-qi2-is-qi2-iphone-wireless-charging-better-than-magsafe.html)  
         [Remaker](https://remarkable.com/)  
       [Ideas](https://m.youtube.com/watch?v=HLC1pURhfYc)  
+  [Goto Top](#documentation)  
+
 # EyeGlasses  
   [Duduma EyeGlasses](https://www.amazon.com/Duduma-Polarized-Sunglasses-Running-Unbreakable/dp/B015T1199K/ref=mp_s_a_1_3?adgrpid=1345802795096478&dib=eyJ2IjoiMSJ9.F1rlLqOeFp-lVkqzH9b-LLj5wUdF28FOctAXznBQnmsAuTkskK2Z7sB_NfORsDhbpbaAwU3gGUqVKwoThmZ9WWvKTGLMTl1MuGCyLC1-kDJGPffG6xiCliPi2W5TmdRzW8RLd3ClI227OqZlJMQyWoSjNbpUOnrUPwkL9qs8dMzeUyr7oyTEPzT58lGYxF8TnzabTkitPuFOaGT8rqNc4FotFYFFfOovlnOKP5YXknLWA1_5rpL2opTYMIpcyjv1BeT1ZjllYn-797b7M581E2dNUGHPhdlSC_e5ytGKm0U.HQ0owO4bgf7uC3zsJqbii_WV20jf3Z3LjPnLyooqLyk&dib_tag=se&hvadid=84112889576671&hvbmt=be&hvdev=m&hvlocphy=90315&hvnetw=o&hvqmt=e&hvtargid=kwd-84113015252572%3Aloc-190&hydadcr=11806_13276027&keywords=duduma+sunglasses&qid=1726097881&sr=8-3)  
+  [Goto Top](#documentation)  
+
 # DIY  
   [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)  
   
   [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o)  
     [Statue of Liberty Building Instructions](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4183855.pdf)  
+  [Goto Top](#documentation)  
+
 # Food  
   [Snickers Popcorn Recipe](https://www.u-createcrafts.com/snickers-popcorn-recipe-only-3/)  
   [Oreo Cookie Popcorn Recipe](https://www.u-createcrafts.com/oreo-cookie-popcorn-recipe/)  
-  [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)
+  [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)  
   [Goto Top](#documentation)  
