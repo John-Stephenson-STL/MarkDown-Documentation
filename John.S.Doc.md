@@ -9,6 +9,11 @@
 [How To](#how_to)  
 [Setup](#setup)  
 [Technical](#technical)  
+[LibreOffice](#libreoffice)  
+[IDE](#ide) 
+[NAS](#nas)   
+[Programming](#programming)  
+[Markdown](#markdown)  
 </details>  
 
 ## Informational
