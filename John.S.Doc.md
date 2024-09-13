@@ -7,9 +7,16 @@
 <details>
 <summary>Table of Contents</summary>  
 
+
+- [Informational](#informationa)  
+- [How To](#how-to)  
+- [Setup](#setup)
+
+<1--
 [Informational](#informational)  
 [How To](#how_to)  
 [Setup](#setup)  
+-->
 ### Login
 ##### [User Id](#user-id)  
 ##### [Password](#password)  
