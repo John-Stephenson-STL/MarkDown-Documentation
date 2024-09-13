@@ -2,11 +2,15 @@
 | -------- | ------- | -------|
 | Documentation | John Stephenson | September 7, 2024 
 
+
+<div style="display::none">  
+
 # Table of Contents  
 [How To](#how_to)  
 [Writing Style](#writing_style)  
     [Standards](#standards)  
 [Earn Respect from Others](#earn_respect_from_others)  
+</div>  
 
 # How To  
 
