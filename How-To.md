@@ -7,7 +7,7 @@
 [How To](#how_to)  
 [Writing Style](#writing_style)  
 [Standards](#standards)  
-[Earn Respect of Others](#earn_respect_from_others)    
+[Earn Respect from Others](#earn_respect_from_others)    
 </details>   
 
 # How To  
