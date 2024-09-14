@@ -16,6 +16,7 @@
 
 <summary>John's Repositories</summary>   
 
+
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
 [Next.js DarkMode](https://github.com/John-Stephenson-STL/nextjs-darkmode-toggle-css-variables-seo)  
@@ -37,6 +38,7 @@
 <details>
 
 <summary>Documentation</summary>   
+
 
 [How To](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/How-To.md)  
 
