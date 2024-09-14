@@ -32,3 +32,6 @@
 </details>  
 
 ## Documentation  
+
+[How To](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/How-To.md)  
+
