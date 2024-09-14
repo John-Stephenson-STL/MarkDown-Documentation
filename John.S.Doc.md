@@ -179,22 +179,23 @@
 [5 Minutes of React](https://podcasts.apple.com/us/podcast/5-minutes-of-react/id1232187990)  
 [AppleInsider](https://podcasts.apple.com/us/podcast/appleinsider-podcast/id963144241). 
 [APWU](https://podcasts.apple.com/us/podcast/apwu-podcast/id1704861836)   
+[babel](https://podcasts.apple.com/us/podcast/the-babel-podcast/id1470143101)  
+[Best of CarTalk](https://podcasts.apple.com/us/podcast/the-best-of-car-talk/id253191823)  
+[CellPhone Junkie Podcast](https://podcasts.apple.com/us/podcast/the-cell-phone-junkie/id171273849)  
 [Complete Developer Podcast](https://podcasts.apple.com/us/podcast/complete-developer-podcast/id1039210992)   
 [Crutchfield](https://podcasts.apple.com/us/podcast/crutchfield-the-podcast/id1504137196)  
+[Food That Built America](https://podcasts.apple.com/us/podcast/the-food-that-built-america/id1551644089)  
 [Hackable](https://podcasts.apple.com/us/podcast/hackable/id1257232208)   
 [HDTV Guys](https://podcasts.apple.com/us/podcast/hdtv-and-home-theater-podcast/id73799860)  
 [History this Week](https://podcasts.apple.com/us/podcast/history-this-week/id1493453604)  
 [Intego Mac Podcast](https://podcasts.apple.com/us/podcast/intego-mac-podcast/id1293834627)  
 [Learn to Code](https://podcasts.apple.com/us/podcast/learn-to-code-in-one-month/id1460397186)  
-
-
-
-
-
-
-
-
-
+[MacWorld](https://podcasts.apple.com/us/podcast/macworld-podcast/id563933198)  
+[NodeUp](https://podcasts.apple.com/us/podcast/nodeup/id447667314)  
+[React Podcast](https://podcasts.apple.com/us/podcast/react-podcast/id1341969432)  
+[Syntax Web Development](https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678)  
+[Web Platform Podcast](https://podcasts.apple.com/us/podcast/the-web-platform-podcast/id899384794)  
+[Windows Insider Podcast](https://podcasts.apple.com/us/podcast/windows-insider-podcast/id1218970459)  
 
   [Goto Top](#documentation)  
 
