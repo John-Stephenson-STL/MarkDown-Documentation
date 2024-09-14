@@ -63,7 +63,7 @@ You may get exposed in your own deception.
 
 <details>
 
-<summary>Programming</summary>  
+<summary>John's Repositories</summary>  
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
