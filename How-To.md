@@ -14,6 +14,9 @@
 
 # How To  
 
+## Samsung TV
+>> [Model](#UN55TU850DFXZA)  
+
 ## Writing Style  
 ### Standards  
 
