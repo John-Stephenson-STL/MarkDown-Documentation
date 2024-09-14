@@ -11,7 +11,7 @@
 [How To](#how_to)  
 [Setup](#setup)  
 [Login](#login)  
-[User Id](#user-id)  
+&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
 [Password](#password)  
 [Technical](#technical)  
 [LibreOffice](#libreoffice)  
