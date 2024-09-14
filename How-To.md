@@ -1,6 +1,7 @@
-| title | author | date created
-| -------- | ------- | -------|
-| Documentation | John Stephenson | September 7, 2024 
+| date | Author | Revision |
+| ------- |--------------- |------- |
+| 2-13-2024 | John Stephenson | 1.0 |  
+
 <details>
 <summary>Table of Contents</summary>  
 [How To](#how_to)  
