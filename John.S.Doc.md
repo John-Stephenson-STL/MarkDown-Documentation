@@ -134,7 +134,7 @@
   [Goto Top](#documentation)  
 
 ### NEXT.js  
-    [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
+  [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
    [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
 
@@ -175,6 +175,12 @@
   WRITING TECHNICAL DOCUMENTATION -   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
             (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
   [Goto Top](#documentation)  
+
+## Send anonymous email  
+
+[Anonymous E-mail](#https://privacysavvy.com/email/guides/send-an-anonymous-email/)   
+
+[How to Send - guide](#https://privacysavvy.com/email/guides/send-an-anonymous-email/#h-3-startmail)  
 
 ## iTunes  
 
