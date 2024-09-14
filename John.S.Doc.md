@@ -50,17 +50,13 @@
 
   [Goto Top](#documentation)  
 
-<details>  
-
-<summary>Setup</summary>  
+> ## Setup  
   > ### Login  
   > #### choose  
   > ##### User ID
   > ##### Password
 
   [Goto Top](#documentation)  
-
-</details>  
 
 ## TECHNICAL  
   ### Gadgets  
