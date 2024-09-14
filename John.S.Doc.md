@@ -179,9 +179,9 @@
 
 ## Send anonymous email  
 
-[Anonymous E-mail](#https://privacysavvy.com/email/guides/send-an-anonymous-email/)   
+[Anonymous E-mail](https://privacysavvy.com/email/guides/send-an-anonymous-email/)   
 
-[How to Send - guide](#https://privacysavvy.com/email/guides/send-an-anonymous-email/#h-3-startmail)  
+[How to Send - guide](https://privacysavvy.com/email/guides/send-an-anonymous-email/#h-3-startmail)  
 
 ## iTunes  
 
