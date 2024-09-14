@@ -300,20 +300,24 @@ Monitor
   [Goto Top](#documentation)  
   
 ## PC  
-  ## Smart Home  
-  ### Beginning  
-  ### Take Inventory  
-  ### Smart Plugs  
-  ### TUTORIAL  
-  ### Configuration  
-  ### Connections  
-  ### OLD PLUGS  
-  #### Configuration  
-  ### Ceiling Fan  
-  ### Light  
-  #### Switch  
+  <device>  
+
+  summary>Smart Home</summary>  
+  [Beginning](#beginning)  
+  [Take Inventory](#take-inventory)  
+  [Smart Plugs](#smart-plugs)  
+  [TUTORIAL](#tutorial)  
+  [Configuration](#configuration)  
+  [Connections](#connections)  
+  [OLD PLUGS](#old-plugs)  
+  [Configuration Old Plugs](#configuration-old-plugs)  
+  [Ceiling Fan](#ceiling-fan)  
+  [Light](#light)  
+  [Switches](#switches)  
 
   [Goto Top](#documentation)  
+
+  </devices>
 
 ## Songs  
     [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
