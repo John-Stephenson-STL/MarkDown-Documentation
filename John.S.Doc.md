@@ -178,7 +178,7 @@
 
 <details>
 <!-- ### <a name="podcast"></a>Postcast  -->
-[summary>[Podcast](#podcast)</summary>  
+<summary>[Podcast](#podcast)</summary>  
 
 [5 Minutes of React](https://podcasts.apple.com/us/podcast/5-minutes-of-react/id1232187990)  
 [AppleInsider](https://podcasts.apple.com/us/podcast/appleinsider-podcast/id963144241). 
