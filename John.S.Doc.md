@@ -12,8 +12,8 @@
 [Setup](#setup)  
 
 ### Login
-##### [User Id](#user-id)  
-##### [Password](#password)  
+#### [User Id](#user-id)  
+#### [Password](#password)  
 [Technical](#technical)  
 [LibreOffice](#libreoffice)  
 [IDE](#ide)  
@@ -72,14 +72,14 @@
 
   [Goto Top](#documentation)  
 
-## LibreOffice  
+### LibreOffice  
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
   [LibreOffice Official](https://www.libreoffice.org)  
   [Upgrade LibreOffice](https://help.libreoffice.org/latest/en-US/text/shared/01/online_update.html?DbPAR=SHARED)  
 
   [Goto Top](#documentation)  
 
-## IDE  
+### IDE  
       [Zed](https://zed.dev)   
   Extensions Needed  
       1. gitLens  
@@ -92,13 +92,13 @@
 
   [Goto Top](#documentation)  
 
-## NAS  
+### NAS  
   [N100 NAS 2 Bay](https://www.amazon.com/Healuck-Storage-Router-System-Support/dp/B0D5VLGV9Z?th=1&psc=1)  
 
   [Goto Top](#documentation)  
 
-# PROGRAMMING  
-## MarkDown  
+## PROGRAMMING  
+### MarkDown  
    [Github Readme](https://readme.so)  
    [MarkDown TOC](https://markdowntohtmlgenius.com/blog/how-to-create-a-table-of-contents-in-markdown/ )
    [MarkDown details tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details).  
@@ -112,12 +112,12 @@
 
   [Goto Top](#documentation)  
 
-# Svelte Blog  
+### Svelte Blog  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
   [Goto Top](#documentation)  
 
-# HTML  
+### HTML  
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
    [collapsible Menu](https://m.youtube.com/watch?v=HGeqO_8BlvY)
@@ -127,12 +127,12 @@
 
   [Goto Top](#documentation)  
 
-# PNPM  
+### PNPM  
       [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
 
   [Goto Top](#documentation)  
 
-# NEXT.js  
+### NEXT.js  
     [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
    [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
@@ -144,14 +144,14 @@
 
   [Goto Top](#documentation)  
 
-# Github Pages  
+### Github Pages  
   [Tips](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
 
   [Goto Top](#documentation)  
 
-# CSS  
+### CSS  
    [Learn CSS Grid](https://m.youtube.com/watch?v=rg7Fvvl3taU)  
    [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
     [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
@@ -164,23 +164,23 @@
 
   [Goto Top](#documentation)  
 
-# SASS  
+### SASS  
       [Cody Fayock Guide](https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/)  
 
   [Goto Top](#documentation)  
 
-# HOW TO  
-## SETUP  
+## HOW TO  
+### SETUP  
         WRITING TECHNICAL DOCUMENTATION -   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
             (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
   [Goto Top](#documentation)  
 
-# iTunes  
-## Podcast  
+## iTunes  
+### Podcast  
 
   [Goto Top](#documentation)  
 
-# Quotes  
+## Quotes  
 <details>
 <summary>Dr. Seuss</summary>
 
@@ -271,7 +271,7 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
 
   [Goto Top](#documentation)  
   
-# PC  
+## PC  
   ## Smart Home  
   ### Beginning  
   ### Take Inventory  
@@ -287,12 +287,12 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
 
   [Goto Top](#documentation)  
 
-# Songs  
+## Songs  
     [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
   [Goto Top](#documentation)  
 
-# iPhone  
-## MagSafe  
+## iPhone  
+### MagSafe  
   
 [Apple MagSafe 2Meter](https://www.apple.com/shop/product/MX6Y3LL/A/magsafe-charger-2-m?fnode=8f06300c0da2398fe251a67bb460f0fdc4fa6bd46b5b27a26cc893dede2c453767276299c978aa4f099ebcc648d03d5ea13a8d77b990a38994cd3af9d5627be70226e3a65dadbd57913f4d4d09b2a470419292b915af58751c094760c6481da6707558e7b0f51d100901b11c49732590)  
 
@@ -309,12 +309,12 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
 
   [Goto Top](#documentation)  
 
-# EyeGlasses  
+## EyeGlasses  
   [Duduma EyeGlasses](https://www.amazon.com/Duduma-Polarized-Sunglasses-Running-Unbreakable/dp/B015T1199K/ref=mp_s_a_1_3?adgrpid=1345802795096478&dib=eyJ2IjoiMSJ9.F1rlLqOeFp-lVkqzH9b-LLj5wUdF28FOctAXznBQnmsAuTkskK2Z7sB_NfORsDhbpbaAwU3gGUqVKwoThmZ9WWvKTGLMTl1MuGCyLC1-kDJGPffG6xiCliPi2W5TmdRzW8RLd3ClI227OqZlJMQyWoSjNbpUOnrUPwkL9qs8dMzeUyr7oyTEPzT58lGYxF8TnzabTkitPuFOaGT8rqNc4FotFYFFfOovlnOKP5YXknLWA1_5rpL2opTYMIpcyjv1BeT1ZjllYn-797b7M581E2dNUGHPhdlSC_e5ytGKm0U.HQ0owO4bgf7uC3zsJqbii_WV20jf3Z3LjPnLyooqLyk&dib_tag=se&hvadid=84112889576671&hvbmt=be&hvdev=m&hvlocphy=90315&hvnetw=o&hvqmt=e&hvtargid=kwd-84113015252572%3Aloc-190&hydadcr=11806_13276027&keywords=duduma+sunglasses&qid=1726097881&sr=8-3)  
 
   [Goto Top](#documentation)  
 
-# DIY  
+## DIY  
   [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)  
   
   [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o)  
@@ -322,7 +322,7 @@ https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/
 
   [Goto Top](#documentation)  
 
-# Food  
+## Food  
   [Snickers Popcorn Recipe](https://www.u-createcrafts.com/snickers-popcorn-recipe-only-3/)  
   [Oreo Cookie Popcorn Recipe](https://www.u-createcrafts.com/oreo-cookie-popcorn-recipe/)  
   [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)  
