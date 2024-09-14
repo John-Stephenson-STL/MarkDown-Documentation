@@ -9,6 +9,7 @@
 [Writing Style](#writing_style)  
 [Standards](#standards)  
 [Earn Respect from Others](#earn_respect_from_others)    
+[Computers](#computers)  
 </details>   
 
 # How To  
@@ -48,10 +49,11 @@ You may get exposed in your own deception.
 </details>  
 
 
+## Computers  
 
 <details>
 
-<summary>[Programming](#programming)</summary>  
+<summary>Programming</summary>  
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
