@@ -28,6 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass) 
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
+[Anonymous E-mail](#send-anonymous-email)  
 [iTunes](#itunes)  
 [Quotes](#quotes)  
 [P.C.](#pc)  
@@ -129,7 +130,7 @@
   [Goto Top](#documentation)  
 
 ### PNPM  
-      [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
+  [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
 
   [Goto Top](#documentation)  
 
