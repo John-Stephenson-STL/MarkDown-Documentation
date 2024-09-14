@@ -49,7 +49,7 @@ You may get exposed in your own deception.
 
 
 
-[Next.js DarkMode](</https://github.com/John-Stephenson-STL/nextjs-darkmode-toggle-css-variables-seo)  
+[Next.js DarkMode](https://github.com/John-Stephenson-STL/nextjs-darkmode-toggle-css-variables-seo)  
 
 
 
