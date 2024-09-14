@@ -13,3 +13,5 @@
 <h1>Accomplishments</h1> 
     <h4>1. Easy to get along with</h4>  
     <h4>2. Able to comprehend complex topics</h4>  
+    <h4>3. Figured outhow to setup, document and configured how to create my own profile page.
+   
