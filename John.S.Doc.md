@@ -320,7 +320,7 @@ Monitor
 [Make device MagSafe](https://www.instagram.com/reel/C5Tr8aPxygr/?utm_source=ig_web_copy_link)
   
    [CreDream](https://www.amazon.com/CreaDream-Aluminum-Accessories-Compatible-Included-Silver/dp/B08X4G9RQ2)  
-        [iPhone MD40 Dock](https://m.youtube.com/watch?v=L3nWw8qSYgk)  
+        [iPhone Stand-by Mode Dock - Youtube](https://m.youtube.com/watch?v=L3nWw8qSYgk)  
         [iPhone Standby Mode Dock](https://makerworld.com/en/models/615378#profileId-538769)  
         [iPhone as a Computer](https://www.ipodhacks142.com/how-to-install-full-mac-os-x-on-the-iphone-or-ipad-using-utm-no-jailbreak/)  
         [iPhone as a Computer No JailBreak](https://www.ipodhacks142.com/how-to-install-any-tweaked-hacked-app-ipa-on-ios-13-using-altstore-no-revoke-no-jailbreak/)  
