@@ -29,7 +29,6 @@
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
 [iTunes](#itunes)  
-[Podcast](#podcast)  
 [Quotes](#quotes)  
 [P.C.](#pc)  
 [Songs](#songs)  
@@ -177,8 +176,7 @@
 ## iTunes  
 
 <details>
-<!-- ### <a name="podcast"></a>Postcast  -->
-<summary>[Podcast](#podcast)</summary>  
+<summary>Podcast</summary>  
 
 [5 Minutes of React](https://podcasts.apple.com/us/podcast/5-minutes-of-react/id1232187990)  
 [AppleInsider](https://podcasts.apple.com/us/podcast/appleinsider-podcast/id963144241). 
