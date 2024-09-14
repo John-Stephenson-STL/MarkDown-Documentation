@@ -9,10 +9,10 @@
 
 [Informational](#informational)  
 [How To](#how_to)  
-[Setup](#setup)  
-[Login](#login)  
-&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Password](#password)  
+[Setup](#setup]  
+&nbsp;&nbsp;&nbsp;&nbsp;[Login](#login)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Password](#password)  
 [Technical](#technical)  
 [LibreOffice](#libreoffice)  
 [IDE](#ide)  
