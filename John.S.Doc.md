@@ -180,7 +180,7 @@
 ## iTunes  
 
 <details>
-<summary>Podcast</summary>  
+<summary>Podcast I listen/ listened to</summary>  
 
 [5 Minutes of React](https://podcasts.apple.com/us/podcast/5-minutes-of-react/id1232187990)  
 [AppleInsider](https://podcasts.apple.com/us/podcast/appleinsider-podcast/id963144241). 
