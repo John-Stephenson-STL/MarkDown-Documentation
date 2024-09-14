@@ -6,8 +6,8 @@
 <summary>Table of Contents</summary>  
 
 [How To](#how_to)  
-[Links](#writing-atyle)  
-[Writing Style](#writing_style)  
+[Writings Style](#writing-atyle)  
+<!-- [Writing Style](#writing_style)  -->
 [Standards](#standards)  
 [Earn Respect from Others](#earn_respect_from_others)    
 [Computers](#computers)  
