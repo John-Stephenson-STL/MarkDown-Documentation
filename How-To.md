@@ -5,17 +5,8 @@
 <details>  
 <summary>Table of Contents</summary>  
 
-[Accomplishments](#accomplishments)  
 [How To](#how_to)  
 [Writing Style](#writing_style)  
-</details>  
-
-
-
-
-<details>
-<summary>Table of Contents</summary>  
-
 [Standards](#standards)  
 [Earn Respect from Others](#earn_respect_from_others)    
 </details>   
