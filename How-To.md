@@ -45,4 +45,15 @@ Don't lie.  Not even a little lie.
 you don't know what the other person(s) knows.  
 
 You may get exposed in your own deception.  
-</details>
+</details>  
+
+
+
+[Next.js DarkMode](</https://github.com/John-Stephenson-STL/nextjs-darkmode-toggle-css-variables-seo)  
+
+
+
+
+
+
+
