@@ -8,7 +8,8 @@
 [Writing Style](#writing_style)  
 [Standards](#standards)  
 [Earn Respect of Others](#earn_respect_from_others)    
-</details>  
+</details>   
+
 # How To  
 
 ## Writing Style  
