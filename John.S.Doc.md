@@ -180,6 +180,21 @@
 [AppleInsider](https://podcasts.apple.com/us/podcast/appleinsider-podcast/id963144241). 
 [APWU](https://podcasts.apple.com/us/podcast/apwu-podcast/id1704861836)   
 [Complete Developer Podcast](https://podcasts.apple.com/us/podcast/complete-developer-podcast/id1039210992)   
+[Crutchfield](https://podcasts.apple.com/us/podcast/crutchfield-the-podcast/id1504137196)  
+[Hackable](https://podcasts.apple.com/us/podcast/hackable/id1257232208)   
+[HDTV Guys](https://podcasts.apple.com/us/podcast/hdtv-and-home-theater-podcast/id73799860)  
+[History this Week](https://podcasts.apple.com/us/podcast/history-this-week/id1493453604)  
+
+
+
+
+
+
+
+
+
+
+
 
   [Goto Top](#documentation)  
 
