@@ -1,6 +1,8 @@
 | date | Author | Revision |
 | ------- |--------------- |------- |
 | 2-13-2024 | John Stephenson | 1.0 |  
+
+# How to Information  
   
 <details>  
 <summary>Table of Contents</summary>  
@@ -26,7 +28,7 @@
     1. Examples   
 2. hide content when irrelevant to readers.
 
-[Goto Top](#documentation)  
+[Goto Top](#how-to-information)  
 
 ## Earn Respect from others.  
 
@@ -36,7 +38,7 @@
 when you see someone looking at their mobile phone, don't interrupt.  
 Say something along the lines of: "Excuse me, I hate to change your thought pattern.  I'd like to talk with you when you're free or not as busy.  
 
-[Goto Top](#documentation)  
+[Goto Top](#how-to-information)  
 
 </details>
 
@@ -45,7 +47,7 @@ Say something along the lines of: "Excuse me, I hate to change your thought patt
   
 offer to assist any way you can.  Even if it means you send the individual to someone more knowledgeable than you.  
 
-[Goto Top](#documentation)  
+[Goto Top](#how-to-information)  
 
 </details>  
 
@@ -57,6 +59,6 @@ you don't know what the other person(s) knows.
 
 You may get exposed in your own deception.   
 
-[Goto Top](#documentation)  
+[Goto Top](#how-to-information)  
 
 </details>  
