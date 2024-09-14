@@ -152,7 +152,7 @@
   [Goto Top](#documentation)  
 
 # CSS  
-    [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
+   [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
     [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
       [DarkMode Toggle](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
