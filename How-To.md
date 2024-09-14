@@ -73,6 +73,8 @@ You may get exposed in your own deception.
 
 [React.js CSS Variable Dark Mode Toggle](https://github.com/John-Stephenson-STL/reactjs-darkmode-toggle-css-variables-seo-starter)  
 
+[React CSS Modules](https://github.com/John-Stephenson-STL/React-Hooks-CSS-Module)  
+
 [Goto Top](#documentation)  
 
 </details>  
