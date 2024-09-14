@@ -184,8 +184,8 @@
 [Hackable](https://podcasts.apple.com/us/podcast/hackable/id1257232208)   
 [HDTV Guys](https://podcasts.apple.com/us/podcast/hdtv-and-home-theater-podcast/id73799860)  
 [History this Week](https://podcasts.apple.com/us/podcast/history-this-week/id1493453604)  
-
-
+[Intego Mac Podcast](https://podcasts.apple.com/us/podcast/intego-mac-podcast/id1293834627)  
+[Learn to Code](https://podcasts.apple.com/us/podcast/learn-to-code-in-one-month/id1460397186)  
 
 
 
