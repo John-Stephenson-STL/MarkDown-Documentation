@@ -40,9 +40,6 @@
 </details>  
 
 ## Informational  
-### [Accomplishments](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/Accomplishments.md)  
-
-
 
 ###	HOW TO
     Organize my File Folders
