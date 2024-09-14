@@ -75,6 +75,8 @@ You may get exposed in your own deception.
 
 [React CSS Modules](https://github.com/John-Stephenson-STL/React-Hooks-CSS-Module)  
 
+[React Hook Router](https://github.com/John-Stephenson-STL/React-Hook_Router)  
+
 [Goto Top](#documentation)  
 
 </details>  
