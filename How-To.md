@@ -6,11 +6,12 @@
 <summary>Table of Contents</summary>  
 
 [How To](#how_to)  
-[Writings Style](#writing-atyle)  
-<!-- [Writing Style](#writing_style)  -->
+[Writing Style](#writing_style)  
 [Standards](#standards)  
 [Earn Respect from Others](#earn_respect_from_others)    
 [Computers](#computers)  
+
+<!-- Computers](#computers)  -->
 </details>   
 
 # How To  
