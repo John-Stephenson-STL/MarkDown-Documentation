@@ -145,7 +145,7 @@
   [Goto Top](#documentation)  
 
 # Github Pages  
-     [Tips](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
+  [Tips](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
 
