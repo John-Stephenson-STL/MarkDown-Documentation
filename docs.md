@@ -7,7 +7,7 @@
 ## Table of Contents  
 ---  
 [My Repositories](#repositories)  
-[My Documentation](#documentation)  
+[My Documentation](#docs)  
 
 ## Repositories  
 
@@ -31,7 +31,12 @@
 
 </details>  
 
-## Documentation  
+## Docs  
+
+<details>
+
+<summary>Documentation</summary>  
 
 [How To](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/How-To.md)  
 
+</details>
