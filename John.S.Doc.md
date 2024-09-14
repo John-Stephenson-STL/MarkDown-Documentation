@@ -12,7 +12,7 @@
 [Setup](#setup)  
 [Login](#login)  
 &nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
-[Password](#password)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Password](#password)  
 [Technical](#technical)  
 [LibreOffice](#libreoffice)  
 [IDE](#ide)  
@@ -51,30 +51,8 @@
   [Goto Top](#documentation)  
 
 ### SETUP  
-
-<ul>  
-
-<li>  
-
   ### Login  
-
-</li>  
-
-</ul>  
-
-</li>  
-
-</ul>  
-
-
-
   #### choose  
-
-</li>  
-
-</ul>  
-
-
   ##### User ID
   ##### Password
 
