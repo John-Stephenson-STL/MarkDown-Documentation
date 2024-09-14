@@ -4,7 +4,7 @@
 
 # John Stephenson's Profile Page
 
-## Tableof Contents  
+## Table of Contents  
 ---  
 [My Repositories](#repositories)  
 [My Documentation](#documentation)  
