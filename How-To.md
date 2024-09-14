@@ -26,18 +26,23 @@
 
 ## Earn Respect from others.  
 
-
 <details>
 <summary>Lesson 1</summary>
 
 when you see someone looking at their mobile phone, don't interrupt.  
-Say something along the lines of: "Excuse me, I hate to change your thought pattern.  I'd like to talk with you when you're free or not as busy.
+Say something along the lines of: "Excuse me, I hate to change your thought pattern.  I'd like to talk with you when you're free or not as busy.  
+
+[Goto Top](#documentation)  
+
 </details>
 
 <details>  
 <summary>Lesson 2</summary>
   
-offer to assist any way you can.  Even if it means you send the individual to someone more knowledgeable than you.
+offer to assist any way you can.  Even if it means you send the individual to someone more knowledgeable than you.  
+
+[Goto Top](#documentation)  
+
 </details>  
 
 <details> 
@@ -46,10 +51,13 @@ Don't lie.  Not even a little lie.
 
 you don't know what the other person(s) knows.  
 
-You may get exposed in your own deception.  
-</details>  
+You may get exposed in your own deception.   
 
 [Goto Top](#documentation)  
+
+</details>  
+
+
 
 ## Computers  
 
@@ -65,6 +73,6 @@ You may get exposed in your own deception.
 
 [React.js CSS Variable Dark Mode Toggle](https://github.com/John-Stephenson-STL/reactjs-darkmode-toggle-css-variables-seo-starter)  
 
-</details>  
-
 [Goto Top](#documentation)  
+
+</details>  
