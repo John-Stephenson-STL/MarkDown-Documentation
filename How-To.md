@@ -47,6 +47,10 @@ you don't know what the other person(s) knows.
 You may get exposed in your own deception.  
 </details>  
 
+<details>
+
+<summary>Programming</summary>
+
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
 [Next.js DarkMode](https://github.com/John-Stephenson-STL/nextjs-darkmode-toggle-css-variables-seo)  
@@ -55,5 +59,4 @@ You may get exposed in your own deception.
 
 [React.js CSS Variable Dark Mode Toggle](https://github.com/John-Stephenson-STL/reactjs-darkmode-toggle-css-variables-seo-starter)  
 
-
-
+</details>
