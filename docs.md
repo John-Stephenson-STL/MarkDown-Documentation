@@ -14,7 +14,7 @@
 
 <details>
 
-<summary>John's Repositories</summary>  
+<summary>John's Repositories</summary>   
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>Documentation</summary>  
+<summary>Documentation</summary>   
 
 [How To](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/How-To.md)  
 
