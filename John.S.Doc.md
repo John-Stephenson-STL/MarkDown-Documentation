@@ -10,10 +10,9 @@
 [Informational](#informational)  
 [How To](#how_to)  
 [Setup](#setup)  
-
-### Login
-#### [User Id](#user-id)  
-#### [Password](#password)  
+ Login
+* [User Id](#user-id)  
+* [Password](#password)  
 [Technical](#technical)  
 [LibreOffice](#libreoffice)  
 [IDE](#ide)  
