@@ -22,6 +22,7 @@
     1. Examples   
 2. hide content when irrelevant to readers.
 
+[Goto Top](#documentation)  
 
 ## Earn Respect from others.  
 
@@ -48,6 +49,7 @@ you don't know what the other person(s) knows.
 You may get exposed in your own deception.  
 </details>  
 
+[Goto Top](#documentation)  
 
 ## Computers  
 
@@ -63,4 +65,6 @@ You may get exposed in your own deception.
 
 [React.js CSS Variable Dark Mode Toggle](https://github.com/John-Stephenson-STL/reactjs-darkmode-toggle-css-variables-seo-starter)  
 
-</details>
+</details>  
+
+[Goto Top](#documentation)  
