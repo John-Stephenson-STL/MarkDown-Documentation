@@ -47,9 +47,17 @@ you don't know what the other person(s) knows.
 You may get exposed in your own deception.  
 </details>  
 
+
+
 <details>
 
-<summary>Programming</summary>
+### <a name="orogramming">Programming</a>
+
+
+
+
+
+<!-- summary>Programming</summary -->
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
