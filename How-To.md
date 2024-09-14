@@ -51,13 +51,8 @@ You may get exposed in your own deception.
 
 <details>
 
-### <a name="orogramming">Programming</a>
-
-
-
-
-
-<!-- summary>Programming</summary -->
+<summary>
+### <a name="orogramming">Programming</a></summary>  
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
