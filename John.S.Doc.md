@@ -27,7 +27,7 @@
 [CSS](#css)  
 [SASS](#sass) 
 [How To](#how-to)   
-[Setup](#setup)  
+[Setup Writing ](#setup-writing)  
 [iTunes](#itunes)  
 [Podcast](#podcast)  
 [Quotes](#quotes)  
@@ -164,13 +164,13 @@
   [Goto Top](#documentation)  
 
 ### SASS  
-      [Cody Fayock Guide](https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/)  
+   [Cody Fayock Guide](https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/)  
 
   [Goto Top](#documentation)  
 
 ## HOW TO  
-### SETUP  
-        WRITING TECHNICAL DOCUMENTATION -   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
+### SETUP Writing  
+  WRITING TECHNICAL DOCUMENTATION -   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
             (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
   [Goto Top](#documentation)  
 
