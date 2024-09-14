@@ -302,7 +302,7 @@ Monitor
 ## PC  
   <device>  
 
-  summary>Smart Home</summary>  
+  <summary>Smart Home</summary>  
   [Beginning](#beginning)  
   [Take Inventory](#take-inventory)  
   [Smart Plugs](#smart-plugs)  
