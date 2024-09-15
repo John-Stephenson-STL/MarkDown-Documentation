@@ -313,21 +313,6 @@ Beginning
     Light  
     Switches  
 
-<!--
-  <summary>Smart Home</summary>  
-  [Beginning](beginning)  
-  [Take Inventory](take-inventory)  
-  [Smart Plugs](smart-plugs)  
-  [TUTORIAL](tutorial)  
-  [Configuration](configuration)  
-  [Connections](connections)  
-  [OLD PLUGS](old-plugs)  
-  [Configuration Old Plugs](configuration-old-plugs)  
-  [Ceiling Fan](ceiling-fan)  
-  [Light](light)  
-  [Switches](switches)  
--->
-
   [Goto Top](#documentation)  
 
   </devices>
