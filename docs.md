@@ -9,6 +9,7 @@
 [My Repositories](#repositories)  
 [My Documentation](#docs)  
 [Accomplishments](#accomplishments)  
+[What I'm Working On](#what-im-working-on)  
 
 ## Repositories  
 
@@ -53,3 +54,7 @@
 [Accomplishments](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/Accomplishments.md)  
 
 [GoTo Top](#profile-page)  
+
+## What I'm Working On
+
+[My Projects](
