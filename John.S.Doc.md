@@ -209,7 +209,7 @@
 ## iTunes  
 
 <details>
-<summary>Podcast I listen/ listened to</summary>  
+<summary>Podcast I listen/ listened to</summary><br/ >  
 
 [5 Minutes of React](https://podcasts.apple.com/us/podcast/5-minutes-of-react/id1232187990)  
 [AppleInsider](https://podcasts.apple.com/us/podcast/appleinsider-podcast/id963144241). 
