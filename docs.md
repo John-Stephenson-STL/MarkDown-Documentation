@@ -16,8 +16,8 @@
 <details>
 
 <summary>John's Repositories</summary>   
-
-<details><br/ >
+##
+<details>
 
 <summary>Next.js</summary>
 
