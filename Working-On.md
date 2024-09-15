@@ -12,7 +12,7 @@
 [Writing](#writing)  
 [Technical](#technical)  
 [Electronic](#electronic)  
-[Gift List](#gift-list)  
+[ist](#list)  
 
 </details>   
 
@@ -21,5 +21,15 @@
 ## Technical  
 
 ## Electronic  
+  ### TV
+    * Figure out how to add Google Assistant to 2019 Samsung TV
 
-## Gift List
+
+
+## List
+  ### Grocery  
+  ### Christmas  
+  ### Birthday 
+
+
+
