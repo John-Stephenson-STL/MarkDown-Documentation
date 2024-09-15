@@ -53,7 +53,7 @@
 
 [Goto Top](#projects)  
 
-<\details>
+</details>   
 
 ## Electronic  
   ### TV
