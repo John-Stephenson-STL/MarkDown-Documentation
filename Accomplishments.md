@@ -1,6 +1,6 @@
 | title | author | date created
 | -------- | ------- | -------|
-| Documentation | John Stephenson | September 12, 2024 |  
+| Documentation | John Stephenson | 9-12-2024 |  
    
 <!--
 # Table of Contents  
