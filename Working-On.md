@@ -12,7 +12,7 @@
 [Writing](#writing)  
 [Technical](#technical)  
 [Electronic](#electronic)  
-[ist](#list)  
+[List](#list)  
 
 </details>   
 
