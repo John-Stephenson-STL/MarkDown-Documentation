@@ -15,7 +15,7 @@
 
 <details>
 
-<summary>John's Repositories</summary>/   
+<summary>John's Repositories</summary><br />   
 
 <details>
 
