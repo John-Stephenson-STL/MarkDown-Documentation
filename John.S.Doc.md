@@ -31,7 +31,6 @@
 [Anonymous E-mail](#send-anonymous-email)  
 [iTunes](#itunes)  
 [Quotes](#quotes)  
-[P.C.](#pc)  
 [Songs](#songs)  
 [iPhone](#iphone)  
 [MagSafe](#magsafe)  
