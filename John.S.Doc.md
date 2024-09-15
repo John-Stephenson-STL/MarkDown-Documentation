@@ -80,7 +80,7 @@
   [Goto Top](#documentation)  
 
 ### IDE  
-      [Zed](https://zed.dev)   
+   [Zed](https://zed.dev)   
   Extensions Needed  
       1. gitLens  
       2. BetterComments  
