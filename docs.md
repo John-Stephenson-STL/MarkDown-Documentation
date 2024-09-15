@@ -9,6 +9,7 @@
 <details>  
 <summary>Table of Contents</summary>  
 
+
 [My Repositories](#repositories)  
 [Documentation](#docs)  
 [Accomplishments](#accomplishments)  
@@ -29,6 +30,10 @@
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
 [Next.js DarkMode](https://github.com/John-Stephenson-STL/nextjs-darkmode-toggle-css-variables-seo)  
+
+
+[Goto Top](#profile-page)  
+
 
 </details>
 
