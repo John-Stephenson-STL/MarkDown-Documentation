@@ -291,14 +291,13 @@ Monitor
                       1 ?  
                     USB  
                       to HDD  
-                      to Wireless Charger 
+                      to Wireless Charger
+
+   [Goto Top](#documentation)  
 
 </details>  
 ---  
-
-
-  [Goto Top](#documentation)  
-  
+<!--
 ## PC  
 
 <details>
@@ -316,7 +315,7 @@ Beginning
   [Goto Top](#documentation)  
 
   </devices>
-
+-->
 ## Songs  
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
 
