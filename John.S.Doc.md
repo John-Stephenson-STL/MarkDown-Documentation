@@ -300,10 +300,11 @@ Monitor
   [Goto Top](#documentation)  
   
 ## PC  
-  <device>  
 
-  <summary>Smart Home Gadgets</summary>
-    Beginning  
+<details>
+<summary>Smatt Home Gadgets</summary>
+
+Beginning  
     Take Inventory  
     Smart Plugs 
     Tutorial  
