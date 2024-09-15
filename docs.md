@@ -19,7 +19,7 @@
 
 <details>
 
-<summary>Nextbns</summary>
+<summary>Next.js</summary>
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
