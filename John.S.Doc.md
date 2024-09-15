@@ -238,42 +238,42 @@
 
 ## Quotes  
 <details>
-<summary>Dr. Seuss</summary>
+<summary>Dr. Seuss</summary><br/ >
 
 Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.
 
 </details>  
 
 <details>  
-<summary>YouTube 4th of July</summary>
+<summary>YouTube 4th of July</summary><br/ >
 
 https://m.youtube.com/watch?v=HLC1pURhfYc
 </details>
   
 <details>
-<summary>Muppets Ringing the Bells</summary>
+<summary>Muppets Ringing the Bells</summary><br/ >
 
 https://m.youtube.com/watch?v=S0psMcHw0LM
 
 </details>  
 
 <details>
-<summary>Muppets Devil Went Down to Georgia</summary>
+<summary>Muppets Devil Went Down to Georgia</summary><br/ >
 https://m.youtube.com/watch?v=FC9X8Xf3XRc
 </details>  
 
 <details>  
-<summary>Muppets Devil went Down to Jamaica</summary>
+<summary>Muppets Devil went Down to Jamaica</summary><br/ >
 https://m.youtube.com/watch?v=ip5e9NUvX6A
 </details>  
 
 <details>
-<summary>Amazon emahtskcblvdt</summary>
+<summary>Amazon emahtskcblvdt</summary><br/ >
 https://m.youtube.com/watch?v=t0om43cmYP8
 </details>  
 
 <details>
-<summary>Church Jokes</summary>
+<summary>Church Jokes</summary><br/ >
 
 > During an impassioned sermon about death & final judgement, the pastor said forcefully, "Each member of this church is going to die & face judgement." Glancing down at the front pew, he noticed a man with a big smile on his face.   
 >>
@@ -290,7 +290,7 @@ https://m.youtube.com/watch?v=t0om43cmYP8
 </details>  
 
 <details>
-<summary>My Inventory</summary>
+<summary>My Inventory</summary><br/ >
 
 Monitor  
                       1 Dell  
@@ -317,7 +317,7 @@ Monitor
 </details>  
 
 <details>
-<summary>Smart Home Gadgets</summary>
+<summary>Smart Home Gadgets</summary><br/ >
 
   Tutorial  
   Beginning   
