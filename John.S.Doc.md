@@ -302,6 +302,16 @@ Monitor
 ## PC  
   <device>  
 
+  <summary>Smart Home Gadgets</summary>
+    * Beginning  
+    * Take Inventory  
+    * Smart Plugs 
+    * Tutorial  
+    * Configuration  
+    * Ceiling Fan  
+    * Light  
+    * Switches  
+<!--
   <summary>Smart Home</summary>  
   [Beginning](beginning)  
   [Take Inventory](take-inventory)  
@@ -314,6 +324,7 @@ Monitor
   [Ceiling Fan](ceiling-fan)  
   [Light](light)  
   [Switches](switches)  
+-->
 
   [Goto Top](#documentation)  
 
