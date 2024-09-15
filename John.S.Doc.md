@@ -52,14 +52,14 @@
 
 ## Setup  
 <details>
-  <summary>Login</summary>
+  <summary>Choices</summary>
   
   [Goto Top](#documentation)  
 
-</details>  
 
-</<details>
-  <summary>Choices</summary>
+
+<details>
+  <summary>Login</summary>
   
   [Goto Top](#documentation)  
 
@@ -77,7 +77,10 @@
   
   [Goto Top](#documentation)  
 
-</details> 
+</details>  
+
+
+</details>  
 
 ## TECHNICAL  
   ### Gadgets  
