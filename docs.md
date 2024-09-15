@@ -2,14 +2,19 @@
 | :-------: |:---------------: |-------: |
 | 9-r14-2024 | John Stephenson | 1.0 |  
 
-# Profile Page
+# Profile 
 
-## Table of Contents  
----  
-[My Repositories](#repositories)  
-[My Documentation](#docs)  
+
+
+<details>  
+<summary>Table of Contents</summary>  
+
+[My Repositories](#my-repositories)  
+[Documentation](#docs)  
 [Accomplishments](#accomplishments)  
-[What I'm Working On](#what-im-working-on)  
+[What I'm Working On](#what-i'm-working-on)    
+
+</details>   
 
 ## Repositories  
 
