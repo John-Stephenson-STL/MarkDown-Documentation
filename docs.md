@@ -9,7 +9,7 @@
 <details>  
 <summary>Table of Contents</summary>  
 
-[My Repositories](#my-repositories)  
+[My Repositories](#repositories)  
 [Documentation](#docs)  
 [Accomplishments](#accomplishments)  
 [What I'm Working On](#what-i'm-working-on)    
