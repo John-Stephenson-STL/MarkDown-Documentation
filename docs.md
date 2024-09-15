@@ -27,6 +27,10 @@
 
 </details>
 
+<details>
+
+<summary>React.js</summary>
+
 [React Hooks](https://github.com/John-Stephenson-STL/React-todo-with-hooks)  
 
 [React.js CSS Variable Dark Mode Toggle](https://github.com/John-Stephenson-STL/reactjs-darkmode-toggle-css-variables-seo-starter)  
@@ -36,6 +40,8 @@
 [React Hook Router](https://github.com/John-Stephenson-STL/React-Hook_Router)  
 
 [Goto Top](#profile-page)  
+
+</details>
 
 </details>  
 
