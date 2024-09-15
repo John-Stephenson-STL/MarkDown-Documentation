@@ -46,7 +46,9 @@
 
    [Make device MagSafe](https://www.instagram.com/reel/C5Tr8aPxygr/?utm_source=ig_web_copy_link)
   
-  
+   [iPhone Stand-by Mode Dock - Youtube](https://m.youtube.com/watch?v=L3nWw8qSYgk)  
+   [iPhone Standby Mode Dock](https://makerworld.com/en/models/615378#profileId-538769)  
+
   ### Birthday 
 
 
