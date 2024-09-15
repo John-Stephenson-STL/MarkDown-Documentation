@@ -42,6 +42,11 @@
 ## List
   ### Grocery  
   ### Christmas  
+   [Apple MagSafe 2Meter](https://www.apple.com/shop/product/MX6Y3LL/A/magsafe-charger-2-m?fnode=8f06300c0da2398fe251a67bb460f0fdc4fa6bd46b5b27a26cc893dede2c453767276299c978aa4f099ebcc648d03d5ea13a8d77b990a38994cd3af9d5627be70226e3a65dadbd57913f4d4d09b2a470419292b915af58751c094760c6481da6707558e7b0f51d100901b11c49732590)  
+
+   [Make device MagSafe](https://www.instagram.com/reel/C5Tr8aPxygr/?utm_source=ig_web_copy_link)
+  
+  
   ### Birthday 
 
 
