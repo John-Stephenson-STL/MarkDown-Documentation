@@ -45,11 +45,11 @@
 
 </details>  
 
-## Docs<br/ >  
+## Docs  
 
 <details>
 
-<summary>Documentation</summary>   
+<summary>Documentation</summary><br/ >   
 
 
 [How To](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/How-To.md)  
