@@ -303,14 +303,14 @@ Monitor
   <device>  
 
   <summary>Smart Home Gadgets</summary>
-    * Beginning  
-    * Take Inventory  
-    * Smart Plugs 
-    * Tutorial  
-    * Configuration  
-    * Ceiling Fan  
-    * Light  
-    * Switches  
+    Beginning  
+    Take Inventory  
+    Smart Plugs 
+    Tutorial  
+    Configuration  
+    Ceiling Fan  
+    Light  
+    Switches  
 
 <!--
   <summary>Smart Home</summary>  
