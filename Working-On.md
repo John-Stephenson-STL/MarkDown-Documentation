@@ -27,7 +27,7 @@
 
 ## Technical  
 
-## My Equipment  <br/ >
+## My Equipment  
   iPhone 13
 
   Monitor  
