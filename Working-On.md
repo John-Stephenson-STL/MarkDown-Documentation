@@ -30,8 +30,8 @@
 ## Equipment  
 <details>
   <summary>My List</summary><br/ >
-  <ol>
-    iPhone 13
+  <ol>  
+    iPhone 13  
     Monitor  
       1 Dell  
       1 Samsung  
@@ -54,7 +54,7 @@
 
 [Goto Top](#projects)  
 
-<\ol>
+</ol>
 
 </details>   
 
