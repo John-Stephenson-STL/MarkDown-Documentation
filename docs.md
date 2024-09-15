@@ -17,10 +17,15 @@
 
 <summary>John's Repositories</summary>   
 
+<details>
+
+<summary>Nextbns</summary>
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
 [Next.js DarkMode](https://github.com/John-Stephenson-STL/nextjs-darkmode-toggle-css-variables-seo)  
+
+</details>
 
 [React Hooks](https://github.com/John-Stephenson-STL/React-todo-with-hooks)  
 
