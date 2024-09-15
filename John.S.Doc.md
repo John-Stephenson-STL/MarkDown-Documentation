@@ -293,6 +293,18 @@ Monitor
 
 </details>  
 
+<details>
+<summary>Smart Home Gadgets</summary>
+
+  Tutorial  
+  Beginning   
+  Take Inventory  
+  Smart Plugs  
+  Ceiling Fans  
+  Lights  
+  Switches  
+
+</details>  
 <!--
 ## PC  
 
