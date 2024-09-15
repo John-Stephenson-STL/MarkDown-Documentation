@@ -50,13 +50,34 @@
 
   [Goto Top](#documentation)  
 
-> ## Setup  
-  > ### Login  
-  > #### choose  
-  > ##### User ID
-  > ##### Password
-
+## Setup  
+<details>
+  <summary>Login</summary>
+  
   [Goto Top](#documentation)  
+
+</details>  
+
+</<details>
+  <summary>Choices</summary>
+  
+  [Goto Top](#documentation)  
+
+</details>  
+
+<details>
+  <summary>User ID</summary>
+  
+  [Goto Top](#documentation)  
+
+</details>   
+
+  <details>
+  <summary>Passwotd</summary>
+  
+  [Goto Top](#documentation)  
+
+</details> 
 
 ## TECHNICAL  
   ### Gadgets  
