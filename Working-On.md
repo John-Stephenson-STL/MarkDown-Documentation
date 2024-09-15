@@ -12,7 +12,7 @@
 [Writing](#writing)  
 [Technical](#technical)  
 [Electronic](#electronic)  
-[Gift List](#gift list)  
+[Gift List](#gift-list)  
 
 </details>   
 
