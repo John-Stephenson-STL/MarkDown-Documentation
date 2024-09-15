@@ -19,7 +19,7 @@
 
 <details>
 
-<summary>Next.js</summary>
+<summary>Next.js</summary><br/ >
 
 [Next.js CSS Variables](https://github.com/John-Stephenson-STL/nextjs-seo-navbar-css-variables-starter)  
 
@@ -29,7 +29,7 @@
 
 <details>
 
-<summary>React.js</summary>
+<summary>React.js</summary><br/ >
 
 [React Hooks](https://github.com/John-Stephenson-STL/React-todo-with-hooks)  
 
