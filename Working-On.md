@@ -27,9 +27,10 @@
 
 ## Technical  
 
-## My Equipment  
+## Equipment  
+<details>
+  <summary>My List</summary><br/ >
   iPhone 13
-
   Monitor  
     1 Dell  
     1 Samsung  
@@ -52,6 +53,7 @@
 
 [Goto Top](#projects)  
 
+<\details>
 
 ## Electronic  
   ### TV
