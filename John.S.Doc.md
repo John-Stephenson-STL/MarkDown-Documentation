@@ -54,9 +54,6 @@
 <details>
   <summary>Choices</summary>
   
-  [Goto Top](#documentation)  
-
-
 
 <details>
   <summary>Login</summary>
@@ -77,8 +74,11 @@
   
   [Goto Top](#documentation)  
 
+
 </details>  
 
+
+  [Goto Top](#documentation)  
 
 </details>  
 
