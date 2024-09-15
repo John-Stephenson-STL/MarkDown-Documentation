@@ -27,7 +27,8 @@
 
 ## Technical  
 
-
+## My Equipment  
+  iPhone 13
 
 
 [Goto Top](#projects)  
