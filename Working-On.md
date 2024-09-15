@@ -54,7 +54,7 @@
 
   ### Gift Cards   
    #### Ordering  
-   ###% Loading
+   ##% Loading
 
 [Goto Top](#projecte)  
 
