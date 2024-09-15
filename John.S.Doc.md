@@ -304,26 +304,10 @@ Monitor
   Lights  
   Switches  
 
-</details>  
-<!--
-## PC  
-
-<details>
-<summary>Smatt Home Gadgets</summary>
-
-Beginning  
-    Take Inventory  
-    Smart Plugs 
-    Tutorial  
-    Configuration  
-    Ceiling Fan  
-    Light  
-    Switches  
-
   [Goto Top](#documentation)  
 
-  </devices>
--->
+</details>  
+
 ## Songs  
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
 
