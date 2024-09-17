@@ -28,29 +28,29 @@
 ## Technical  
 
 ## Equipment  
-<details>
+<details> 
   <summary>My List</summary><br/ >
   <ol>  
-    iPhone 13  
-    Monitor  
-      1 Dell  
-      1 Samsung  
-    PC Towers  
-      1 Gateway  
-        SPECS  
-      1 Gateway  
-        SPECS  
-          HDD  
-            1 4 TB  
-            1 3 TB  
-            1 2 TB  
-            1 1 TB  
-            1 1 TB  
-            1 40 Gig  
-            1 ?  
-          USB  
-            to HDD  
-            to Wireless Charger. 
+    iPhone 13   
+    Monitor   
+      1 Dell   
+      1 Samsung   
+    PC Towers   
+      1 Gateway   
+        SPECS   
+      1 Gateway   
+        SPECS   
+          HDD   
+            1 4 TB   
+            1 3 TB   
+            1 2 TB   
+            1 1 TB   
+            1 1 TB   
+            1 40 Gig   
+            1 ?   
+          USB   
+            to HDD   
+            to Wireless Charger.  
 
 [Goto Top](#projects)  
 
