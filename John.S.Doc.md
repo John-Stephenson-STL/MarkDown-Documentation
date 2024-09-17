@@ -9,6 +9,7 @@
 
 [Informational](#informational)  
 [How To](#how_to)  
+[QR Codes](https://m.youtube.com/watch?v=-bbsXVfBMdI)  
 [Setup](#setup)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Login](#login)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
