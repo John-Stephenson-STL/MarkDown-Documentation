@@ -31,13 +31,14 @@
 <details> 
   <summary>My List</summary><br/ >
   <ol>  
-    iPhone 13   
-    Monitor   
-      1 Dell   
-      1 Samsung   
-    PC Towers   
-      1 Gateway   
-        SPECS   
+    <ol>
+      nbsp;nbsp;nbsp;nbsp;iPhone 13   
+nbsp;nbsp;nbsp;nbsp;Monitor   
+nbsp;nbsp;nbsp;nbsp;1 Dell   
+nbsp;nbsp;nbsp;nbsp;1 Samsung   
+nbsp;nbsp;nbsp;nbsp;PC Towers   
+nbsp;nbsp;nbsp;nbsp;1 Gateway   
+nbsp;nbsp;nbsp;nbsp;SPECS   
       1 Gateway   
         SPECS   
           HDD   
