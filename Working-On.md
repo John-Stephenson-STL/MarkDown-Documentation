@@ -95,21 +95,23 @@ nbsp;nbsp;nbsp;nbsp;SPECS
 >> - Sandy get a little John #1.
 >>> - this is the same sandwich that John and Jack get.
 >> - Amy get a Liitle John #4.
->>> - This is what she refers to as a liilt Turkey
+>>> - This is what she refers to as a little Turkey
+>> -Andrea get a Little John #1.
+>>> - add onions
 
-
-
-   <details>
-   <summary>Wednesday</summary>  
-  >  
-   > On Tuesday, I'll text/ call those who might be attending as to whether they'll attend or not.
-   >
   
-   </details>  
-  
-   <details>
-    <summary>Sunday</summary>  
-    On Sunday,
-     </details>  
+> #### Wednesday
+>
+> - on Sarurday, I'll send a text message to Steve & Taylor.
+>> - I send the following text:
+>>> - Lunch tomorrow Is at your Mother’s house ( Her Address goes here )
+>>>
+>>> - Are either or both of you going to join us?
+> - Also I send a text to Amy:
+>>> - Lunch tomorrow Is at your Mother’s house ( St. Charles ).
+>>> 
+>>> - I’ll be getting Subway.  Are you and/ or Steven going to join us?
+>>> 
+>>> - Do you want me to get you and / or Steven a sandwich?
   
 [Goto Top](#projects)  
