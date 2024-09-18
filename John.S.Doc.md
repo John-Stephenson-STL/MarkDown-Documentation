@@ -29,7 +29,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[CSS](#css)  
 &nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass) 
 
-
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
 [Anonymous E-mail](#send-anonymous-email)  
