@@ -82,6 +82,18 @@ nbsp;nbsp;nbsp;nbsp;SPECS
   ### Gift Cards   
    #### Ordering  
    #### Loading  
+
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+
+
+
    <details>
    <summary>Wednesday</summary>  
   >  
