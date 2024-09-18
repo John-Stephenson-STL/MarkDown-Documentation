@@ -74,6 +74,8 @@ nbsp;nbsp;nbsp;nbsp;SPECS
    [iPhone Stand-by Mode Dock - Youtube](https://m.youtube.com/watch?v=L3nWw8qSYgk)  
    [iPhone Standby Mode Dock](https://makerworld.com/en/models/615378#profileId-538769)  
 
+  [Levitating Moon Lamp](https://www.amazon.com/dp/B075WCXSJC/?_encoding=UTF8&pd_rd_i=B075WCXSJC&ref_=sxts_sparkle_sbv&qid=1726669448&pd_rd_w=0Pk5M&content-id=amzn1.sym.4870a952-0dfa-4beb-9d2a-7a52537f019d%3Aamzn1.sym.4870a952-0dfa-4beb-9d2a-7a52537f019d&pf_rd_p=4870a952-0dfa-4beb-9d2a-7a52537f019d&pf_rd_r=JNTNXWR2NQ1CBRWWC28G&pd_rd_wg=Ul2Zx&pd_rd_r=81e5eb35-8f22-4823-8ba1-346f844540ec&pd_rd_plhdr=t)   
+
   ### Birthday 
 
 
