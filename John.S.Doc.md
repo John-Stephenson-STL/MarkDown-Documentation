@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Svelte Blog](#svelteblog)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Svelte](#svelte)  
 &nbsp;&nbsp;&nbsp;&nbsp;[HTML](#html)  
 &nbsp;&nbsp;&nbsp;&nbsp;[PNPM](#pnpm)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Next.js](#nextjs)  
@@ -142,7 +142,7 @@
 
   [Goto Top](#documentation)  
 
-### Svelte Blog  
+### Svelte  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
   [Goto Top](#documentation)  
