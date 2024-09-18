@@ -9,7 +9,7 @@
 
 [Informational](#informational)  
 [How To](#how_to)  
-[QR Codes](https://m.youtube.com/watch?v=-bbsXVfBMdI)  
+[Warnings](#warnings)  
 [Setup](#setup)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Login](#login)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
@@ -50,6 +50,10 @@
     [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
   [Goto Top](#documentation)  
+
+## Warnings
+
+  [QR Codes](https://m.youtube.com/watch?v=-bbsXVfBMdI)  
 
 ## Setup  
 <details>
