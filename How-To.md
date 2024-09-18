@@ -11,7 +11,7 @@
 [Samsung Tv](#samsung)  
 [Writing Style](#writing_style)  
 [Standards](#standards)  
-[Earn Respect from Others](#earn-respect-from-other)    
+[Earn Respect from Others](#earn-respect-from-others)    
 
 </details>   
 
