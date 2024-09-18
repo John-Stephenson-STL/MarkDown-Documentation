@@ -81,6 +81,7 @@ nbsp;nbsp;nbsp;nbsp;SPECS
 
   ### Gift Cards   
    #### Ordering  
-   #### Loading
-
+   #### Loading  
+   ### Wednesday  
+   ### Sunday  
 [Goto Top](#projects)  
