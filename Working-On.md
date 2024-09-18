@@ -88,9 +88,14 @@ nbsp;nbsp;nbsp;nbsp;SPECS
 >
 > - on Tuesday, I'll send a text message or make a phone call to Amy, Ste ve, Andrea, Sandy.
 > - This is to ask them if they're planning to eat with us on Wednesday.
->
->  
-
+> - I'll then bring up the JimmyJohns app on my iPhone and place the order.
+>> - Steve gets a Garguntuan
+>>> - Remove Tomatoes.
+>>> - Remove Onions.
+>> - Sandy get a little John #1.
+>>> - this is the same sandwich that John and Jack get.
+>> - Amy get a Liitle John #4.
+>>> - This is what she refers to as a liilt Turkey
 
 
 
@@ -99,7 +104,7 @@ nbsp;nbsp;nbsp;nbsp;SPECS
   >  
    > On Tuesday, I'll text/ call those who might be attending as to whether they'll attend or not.
    >
-   > I'll then bring up the JimmyJohns app on my iPhone and place the order.
+  
    </details>  
   
    <details>
