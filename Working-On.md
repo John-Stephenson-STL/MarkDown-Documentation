@@ -100,7 +100,7 @@ nbsp;nbsp;nbsp;nbsp;SPECS
 >>> - add onions
 
   
-> #### Wednesday
+> #### Sunday
 >
 > - on Sarurday, I'll send a text message to Steve & Taylor.
 >> - I send the following text:
