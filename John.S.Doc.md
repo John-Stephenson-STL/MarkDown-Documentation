@@ -27,8 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Next.js](#nextjs)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Github Pages](#github-pages)  
 &nbsp;&nbsp;&nbsp;&nbsp;[CSS](#css)  
-&nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass) 
-
+&nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass)  
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
 [Anonymous E-mail](#send-anonymous-email)  
