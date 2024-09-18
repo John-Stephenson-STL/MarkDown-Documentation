@@ -33,25 +33,44 @@
   <ol>  
     <ol>
       &nbsp;&nbsp;&nbsp;&nbsp;iPhone 13   
+      
 &nbsp;&nbsp;&nbsp;nbsp;Monitor   
+
 &nbsp;&nbsp;n&bsp;&nbsp;1 Dell   
+
 &nbsp;&nbsp;&nbsp;&nbsp;1 Samsung   
+
 nbsp;nbsp;nbsp;nbsp;PC Towers   
+
 nbsp;nbsp;nbsp;nbsp;1 Gateway   
+
 nbsp;nbsp;nbsp;nbsp;SPECS   
-      1 Gateway   
-        SPECS   
-          HDD   
-            1 4 TB   
-            1 3 TB   
-            1 2 TB   
-            1 1 TB   
-            1 1 TB   
-            1 40 Gig   
-            1 ?   
-          USB   
-            to HDD   
-            to Wireless Charger.  
+
+  1 Gateway   
+
+  SPECS   
+
+  HDD   
+
+  1 4 TB   
+
+  1 3 TB   
+
+  1 2 TB   
+
+  1 1 TB   
+
+  1 1 TB   
+
+  1 40 Gig   
+
+  1 ?   
+
+  USB   
+
+  to HDD   
+
+  to Wireless Charger.  
 
 [Goto Top](#projects)  
 
