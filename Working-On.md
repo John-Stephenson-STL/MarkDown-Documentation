@@ -84,12 +84,12 @@ nbsp;nbsp;nbsp;nbsp;SPECS
    #### Loading  
 
 
-> #### The quarterly results look great!
+> #### Wednesday
 >
-> - Revenue was off the chart.
-> - Profits were higher than ever.
+> - on Tuesday, I'll send a text message or make a phone call to Amy, Ste ve, Andrea, Sandy.
+> - This is to ask them if they're planning to eat with us on Wednesday.
 >
->  *Everything* is going according to **plan**.
+>  
 
 
 
