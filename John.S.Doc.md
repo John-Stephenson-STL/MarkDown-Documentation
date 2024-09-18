@@ -211,6 +211,8 @@
 
 [How to Send - guide](https://privacysavvy.com/email/guides/send-an-anonymous-email/#h-3-startmail)  
 
+  [Goto Top](#documentation)  
+
 ## iTunes  
 
 <details>
