@@ -88,6 +88,11 @@ nbsp;nbsp;nbsp;nbsp;SPECS
    > On Tuesday, I'll text/ call those who might be attending as to whether they'll attend or not.
    >
    > I'll then bring up the JimmyJohns app on my iPhone and place the order.
-   </details>
-   ### Sunday  
+   </details>  
+  
+   <details>
+    <summary>Sunday</summary>  
+    On Sunday,
+     </details>  
+  
 [Goto Top](#projects)  
