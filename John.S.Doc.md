@@ -15,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Password](#password)  
 [Technical](#technical)  
+[Gadgets](#gadgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;[LibreOffice](#libreoffice)  
 &nbsp;&nbsp;&nbsp;&nbsp;[IDE](#ide)  
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
@@ -27,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Github Pages](#github-pages)  
 &nbsp;&nbsp;&nbsp;&nbsp;[CSS](#css)  
 &nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass) 
+
+
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
 [Anonymous E-mail](#send-anonymous-email)  
