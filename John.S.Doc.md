@@ -212,8 +212,10 @@
 
 ## HOW TO  
 ### SETUP Writing  
-  WRITING TECHNICAL DOCUMENTATION - [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
-            (https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
+  
+  [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
+
+  [Atlassian Free](https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
 
   [Guide for Software Developers](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)  
 
