@@ -56,6 +56,11 @@
 
   [QR Codes](https://m.youtube.com/watch?v=-bbsXVfBMdI)  
 
+  [F.B.I. isseue new Warning](https://m.youtube.com/watch?v=DU_y85NlSeY)  
+
+  ### Report theft from QR scam
+  ic3.gov
+
 ## Setup  
 <details>
   <summary>Choices</summary>
