@@ -368,12 +368,13 @@ Monitor
 #### iPhone
 
 <details>
-<summary>How I optimized my iPhone 13 Pro Max</summary>
+<summary>How I optimized my iPhone 13 Pro Max</summary>  
 
 These steps are to get the most usage out of your iPhone.  
 
 I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.  
-&nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.
+
+&nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.  
 </details>
 
 ### MagSafe  
