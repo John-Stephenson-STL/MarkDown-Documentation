@@ -345,8 +345,10 @@ Monitor
 </details>  
 
 <details>
-  <summary>Funny Quote(s)</summary>
-![Funny Quote](https://share.icloud.com/photos/061_g05XX1RMb0mTdtDlMxoRQ)  
+  <summary>Funny Quote(s)</summary>  
+
+(https://share.icloud.com/photos/061_g05XX1RMb0mTdtDlMxoRQ)  
+
 
   [Goto Top](#documentation)  
 
