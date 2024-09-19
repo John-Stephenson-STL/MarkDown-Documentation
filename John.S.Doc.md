@@ -365,14 +365,15 @@ Monitor
 
   [Goto Top](#documentation)  
 
-## iPhone  
+> #### iPhone
+>
+> - >How I Setup my iPhone 13 Pro Max
+> 
+> - These steps are to get the most usage out of your iPhone.  
+> 
+>- I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.  
+> - &nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.
 
-<details>
-  <summary>How I Setup my iPhone 13 Pro Max</summary>
-  These steps are to get the most usage out of your iPhone.
-  I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.
-  &nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.
-</details>  
 
 ### MagSafe  
   
