@@ -121,6 +121,10 @@ nbsp;nbsp;nbsp;nbsp;SPECS
   
 > #### Sunday
 >
+>>> Subway 
+>>>> - Steve and Taylor get the same sandwich  
+>>>>> - FootLong Ham and Cheese
+>>>>> - Bread: Italian Herb and Cheese> 
 > - on Sarurday, I'll send a text message to Steve & Taylor.
 >> - I send the following text:
 >>> - Lunch tomorrow Is at your Mother’s house ( Her Address goes here )
