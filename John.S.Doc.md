@@ -61,6 +61,11 @@
   ### Report theft from QR scam
   ic3.gov
 
+  [identity Theft](https://m.youtube.com/watch?v=bh-oZTUgRns)  
+
+  Report fraud to: www.IdentityTheft.gov
+
+
 ## Setup  
 <details>
   <summary>Choices</summary>
