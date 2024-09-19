@@ -347,7 +347,7 @@ Monitor
 <details>
   <summary>Funny Quote(s)</summary>  
 
-(https://share.icloud.com/photos/061_g05XX1RMb0mTdtDlMxoRQ)  
+  https://share.icloud.com/photos/061_g05XX1RMb0mTdtDlMxoRQ  
 
 
   [Goto Top](#documentation)  
