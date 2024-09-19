@@ -127,7 +127,13 @@ nbsp;nbsp;nbsp;nbsp;SPECS
 >>>>> - Bread: Italian Herb and Cheese  
 >>>>> - Cheese: American  
 >>>>> - Add Lettuce and nothing else.  
->
+>  
+>>>> - John and Jack split a FootLong sandwich  
+>>>>> - FootLong Steak and Cheese  
+>>>>> - Bread: Toasted Artisan Italian
+>>>>> - One half gets picklles.  
+>>>>> -The other half gets Honey Mustard.  
+>  
 > - on Sarurday, I'll send a text message to Steve & Taylor.
 >> - I send the following text:
 >>> - Lunch tomorrow Is at your Mother’s house ( Her Address goes here )
