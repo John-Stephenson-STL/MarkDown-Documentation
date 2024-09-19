@@ -124,7 +124,10 @@ nbsp;nbsp;nbsp;nbsp;SPECS
 >>> Subway 
 >>>> - Steve and Taylor get the same sandwich  
 >>>>> - FootLong Ham and Cheese
->>>>> - Bread: Italian Herb and Cheese> 
+>>>>> - Bread: Italian Herb and Cheese  
+>>>>> - Cheese: American  
+>>>>> - Add Lettuce and nothing else.  
+>
 > - on Sarurday, I'll send a text message to Steve & Taylor.
 >> - I send the following text:
 >>> - Lunch tomorrow Is at your Mother’s house ( Her Address goes here )
