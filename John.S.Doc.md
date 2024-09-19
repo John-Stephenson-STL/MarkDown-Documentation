@@ -344,6 +344,15 @@ Monitor
 
 </details>  
 
+<details>
+  <summary>Funny Quote(s)</summary>
+![Funny Quote](https://share.icloud.com/photos/061_g05XX1RMb0mTdtDlMxoRQ)  
+
+  [Goto Top](#documentation)  
+
+  </details>
+
+
 ## Songs  
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
 
