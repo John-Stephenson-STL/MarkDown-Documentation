@@ -360,20 +360,21 @@ Monitor
   </details>
 
 
-## Songs  
+### Songs  
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
 
   [Goto Top](#documentation)  
 
-> #### iPhone
->
-> - >How I Setup my iPhone 13 Pro Max
-> 
-> - These steps are to get the most usage out of your iPhone.  
-> 
->- I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.  
-> - &nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.
+#### iPhone
 
+<details>
+<summary>How I optimized my iPhone 13 Pro Max</summary>
+
+These steps are to get the most usage out of your iPhone.  
+
+I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.  
+&nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.
+</details>
 
 ### MagSafe  
   
