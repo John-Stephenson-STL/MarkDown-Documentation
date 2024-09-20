@@ -35,8 +35,11 @@
 <details>
   <summary>Making Conversation</summary>  
 Do NOT say an individual's name and then keep walking away.  
+
 That's not being friendly or outgoing.  
+
 What you're doing is showing you're more important than the individual you just said their name.  
+
 if you want to acknowledge an individual's presence, say something as, 'Hi { name of individual} I would like to talk with you later when we're both not as busy'.  
 </details>  
 
