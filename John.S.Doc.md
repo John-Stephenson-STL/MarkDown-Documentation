@@ -373,6 +373,8 @@ Monitor
 
 #### iPhone
 
+[How to Change Lighting Port to UBC-C](https://m.youtube.com/watch?v=1yudWXta6dM)  
+
 <details>
 <summary>How I optimized my iPhone 13 Pro Max</summary>  
 
