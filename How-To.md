@@ -32,6 +32,8 @@
 
 ## Earn Respect from others.  
 
+> - [How to Earn Respect](https://m.youtube.com/watch?v=qJWlbuArNf4)  
+
 <details>
   <summary>Making Conversation</summary>  
 Do NOT say an individual's name and then keep walking away.  
