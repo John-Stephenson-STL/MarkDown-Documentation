@@ -33,7 +33,15 @@
 ## Earn Respect from others.  
 
 <details>
-<summary>Lesson 1</summary>
+  <summary>Making Conversation</summary>  
+Do NOT say an individual's name and then keep walking away.  
+That's not being friendly or outgoing.  
+What you're doing is showing you're more important than the individual you just said their name.  
+if you want to acknowledge an individual's presence, say something as, 'Hi { name of individual} I would like to talk with you later when we're both not as busy'.  
+</details>  
+
+<details>  
+<summary>Interrupting</summary>
 
 when you see someone looking at their mobile phone, don't interrupt.  
 Say something along the lines of: "Excuse me, I hate to change your thought pattern.  I'd like to talk with you when you're free or not as busy.  
@@ -43,7 +51,7 @@ Say something along the lines of: "Excuse me, I hate to change your thought patt
 </details>
 
 <details>  
-<summary>Lesson 2</summary>
+<summary>Offer Assistance</summary>
   
 offer to assist any way you can.  Even if it means you send the individual to someone more knowledgeable than you.  
 
@@ -52,7 +60,7 @@ offer to assist any way you can.  Even if it means you send the individual to so
 </details>  
 
 <details> 
-<summary>Lesson 3</summary>
+<summary>Lie Reasoning</summary>
 Don't lie.  Not even a little lie.  
 
 you don't know what the other person(s) knows.  
