@@ -22,9 +22,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](#github)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[React](#react)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next.js](#next)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Svelte](#svelte)  
 &nbsp;&nbsp;&nbsp;&nbsp;[HTML](#html)  
 &nbsp;&nbsp;&nbsp;&nbsp;[PNPM](#pnpm)  
@@ -168,11 +165,13 @@
 
 <details>
 <summary>React</summary>  
-   [Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
-   [Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
-   [Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
-   [Blog with React - part 4](https://m.youtube.com/watch?v=MGVrp1D2yT4)  
-   [Build MarkDown Blog with React](https://m.youtube.com/watch?v=Od-Uj5RSsuM)  
+
+  [Markdown Crash Course - Youtube](https://m.youtube.com/watch?v=ftOBvusMHjQ)  
+  [Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
+  [Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
+  [Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
+  [Blog with React - part 4](https://m.youtube.com/watch?v=MGVrp1D2yT4)  
+  [Build MarkDown Blog with React](https://m.youtube.com/watch?v=Od-Uj5RSsuM)  
   
   [Goto Top](#documentation)  
 
