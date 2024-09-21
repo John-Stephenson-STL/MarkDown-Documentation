@@ -9,6 +9,7 @@
 
 [Informational](#informational)  
 [How To](#how_to)  
+[Databases](#databases)  
 [Warnings](#warnings)  
 [Setup](#setup)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Login](#login)  
@@ -51,6 +52,10 @@
     [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
   [Goto Top](#documentation)  
+
+## Databases
+  [Free Hosting](https://m.youtube.com/watch?v=cYP0k_shdWc)  
+
 
 ## Warnings
 
