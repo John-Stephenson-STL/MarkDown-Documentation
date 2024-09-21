@@ -160,6 +160,8 @@
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
    [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
 
+  [Goto Top](#documentation)  
+
 >>  #### React  
 >>   [.md Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
 >>   [.md Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
