@@ -168,10 +168,10 @@
 
 <details>
 <summary>React</summary>  
-   [.md Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
-   [.md Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
-   [.md Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
-   [.md Blog with React - part 4](https://m.youtube.com/watch?v=MGVrp1D2yT4)  
+   [Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
+   [Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
+   [Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
+   [Blog with React - part 4](https://m.youtube.com/watch?v=MGVrp1D2yT4)  
    [Build MarkDown Blog with React](https://m.youtube.com/watch?v=Od-Uj5RSsuM)  
   
   [Goto Top](#documentation)  
