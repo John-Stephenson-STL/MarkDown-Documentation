@@ -166,7 +166,6 @@
 <details>
 <summary>React</summary>  
 
-  [Markdown Crash Course - Youtube](https://m.youtube.com/watch?v=ftOBvusMHjQ)  
   [Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
   [Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
   [Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
@@ -179,9 +178,10 @@
 
 <details>
 <summary>Next</summary>  
-   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
-   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
-   [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
+
+  [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
+  [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
+  [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
   
    [Goto Top](#documentation)  
 
