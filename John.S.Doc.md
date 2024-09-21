@@ -162,39 +162,31 @@
   [MarkDown](https://www.markdowntoolbox.com/blog/markdown-vscode-extension-a-comprehensive-guide/)  
   [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
   [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
+
+  [Goto Top](#documentation)  
 </details>
 
->>  ### GitHub
->>   [Markdown Crash Course - Youtube](https://m.youtube.com/watch?v=ftOBvusMHjQ)  
->>   [MarkDown Crash Course Update](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
->>   [Github Readme](https://readme.so)  
->>   [MarkDown TOC](https://markdowntohtmlgenius.com/blog/how-to-create-a-table-of-contents-in-markdown/ )
->>   [MarkDown details tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details).  
->>   [GitHub MarkDown Guide](https://github.com/im-luka/markdown-cheatsheet)  
->>   [Crash Course](https://m.youtube.com/watch?v=HUBNt18RFbo)  
->>   [2004 Markdown Guide](https://daringfireball.net/2004/03/introducing_markdown)  
->>   [MarDown Tutorial Guide](https://m.youtube.com/watch?v=pTCROLZLhDM)  
->>   [MarkDown](https://www.markdowntoolbox.com/blog/markdown-vscode-extension-a-comprehensive-guide/)  
->>   [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
->>   [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
->>
->>  [Goto Top](#documentation)  
+<details>
+<summary>React</summary>  
+   [.md Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
+   [.md Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
+   [.md Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
+   [.md Blog with React - part 4](https://m.youtube.com/watch?v=MGVrp1D2yT4)  
+   [Build MarkDown Blog with React](https://m.youtube.com/watch?v=Od-Uj5RSsuM)  
+  
+  [Goto Top](#documentation)  
 
->>  #### React  
->>   [.md Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
->>   [.md Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
->>   [.md Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
->>   [.md Blog with React - part 4](https://m.youtube.com/watch?v=MGVrp1D2yT4)  
->>.  [Build MarkDown Blog with React](https://m.youtube.com/watch?v=Od-Uj5RSsuM)  
->>  
->>  [Goto Top](#documentation)  
+</details>
 
->>  ### Next  
->>   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
->>   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
->>   [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
->>  
->>   [Goto Top](#documentation)  
+<details>
+<summary>Next</summary>  
+   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
+   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
+   [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
+  
+   [Goto Top](#documentation)  
+
+</details>  
 
 ### Svelte  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
