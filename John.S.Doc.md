@@ -22,6 +22,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](#github)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[React](#react)  
+
 &nbsp;&nbsp;&nbsp;&nbsp;[Svelte](#svelte)  
 &nbsp;&nbsp;&nbsp;&nbsp;[HTML](#html)  
 &nbsp;&nbsp;&nbsp;&nbsp;[PNPM](#pnpm)  
@@ -143,6 +146,7 @@
 
 ## PROGRAMMING  
 ### MarkDown  
+  ### GitHub
    [Markdown Crash Course - Youtube](https://m.youtube.com/watch?v=ftOBvusMHjQ)  
    [MarkDown Crash Course Update](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
    [Github Readme](https://readme.so)  
@@ -156,7 +160,7 @@
    [MarkDown Example](https://github.com/faraday-academy/django-setup-wiki/blob/main/GraphQL.md)  
    [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
 
->>  #### In React  
+>>  #### React  
 >>   [.md Blog with React - part 1](https://m.youtube.com/watch?v=gT1v33oA1gI)  
 >>   [.md Blog with React - part 2](https://m.youtube.com/watch?v=OH35UAqHLi0)  
 >>   [.md Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
