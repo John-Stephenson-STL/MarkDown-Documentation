@@ -172,7 +172,7 @@
 >>  [Goto Top](#documentation)  
 
 >>  ### Next  
->>.  [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
+>>   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
 >>   [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
 >>  
 >>   [Goto Top](#documentation)  
