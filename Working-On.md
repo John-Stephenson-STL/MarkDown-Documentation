@@ -30,6 +30,7 @@
 ## Equipment  
 <details> 
   <summary>My List</summary>  
+- 
 1 iPhone 13   
 2 Monitor   
 3 1 Dell   
