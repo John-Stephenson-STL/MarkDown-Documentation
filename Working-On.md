@@ -37,9 +37,7 @@
 - 1 Samsung   
 - PC Towers   
 - 1 Gateway   
-<!--   a SPECS   -->
 - 1 Gateway   
-<!--   a SPECS   -->
 - HDD   
 - 1 4 TB   
 - 1 3 TB   
