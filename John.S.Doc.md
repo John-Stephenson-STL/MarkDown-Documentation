@@ -48,8 +48,6 @@
 
  [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
-
-
     Organize my File Folders
     Open Cereal
     Open Milk
@@ -187,7 +185,9 @@
   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
   [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
-  
+  ![My Documentation](
+)  
+
    [Goto Top](#documentation)  
 
 </details>  
