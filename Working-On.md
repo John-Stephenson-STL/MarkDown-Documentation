@@ -31,13 +31,13 @@
 <details> 
   <summary>My List</summary>  
 
-- iPhone 13  
-- Monitor  
-- 1 Dell  
-- 1 Samsung  
-- PC Towers  
+- iPhone 13 
+- Monitor 
+- 1 Dell 
+- 1 Samsung 
+- PC Towers 
 - 1 Gateway 
- - SPECS 
+  - SPECS 
 - 1 Gateway 
   - SPECS 
 - HDD 
