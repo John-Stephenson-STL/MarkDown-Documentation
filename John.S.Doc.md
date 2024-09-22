@@ -45,7 +45,7 @@
 ## Informational  
 
 ###	HOW TO
-    Organize my File Folders
+  Organize my File Folders
     Open Cereal
     Open Milk
     Open Orange Juice
