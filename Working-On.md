@@ -31,7 +31,9 @@
 <details> 
   <summary>My List</summary><br/ >
   <ol>  
-    <ol>
+    <ol>  
+
+<so-cut label="[List]">  
 !>      &nbsp;&nbsp;&nbsp;&nbsp;iPhone 13   
 !>      &nbsp;&nbsp;&nbsp;&nbsp;Monitor   
 !>      &nbsp;&nbsp;&nbsp;&nbsp;1 Dell   
@@ -65,6 +67,10 @@
   to HDD   
 
   to Wireless Charger.  
+
+</so-cut >
+
+
 
 [Goto Top](#projects)  
 
