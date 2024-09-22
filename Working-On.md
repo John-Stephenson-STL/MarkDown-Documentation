@@ -30,7 +30,7 @@
 ## Equipment  
 <details> 
   <summary>My List</summary>  
-
+```
 - iPhone 13<br>
 - Monitor<br>
 - 1 Dell<br>
@@ -53,7 +53,7 @@
 - to Wireless Charger<br>
 
   [Goto Top](#projects)  
-
+```
 </details>   
 
 ## Electronic  
