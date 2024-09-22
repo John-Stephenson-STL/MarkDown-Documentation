@@ -45,11 +45,15 @@
 ## Informational  
 
 ###	HOW TO
-  Organize my File Folders
+
+ [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
+
+
+
+    Organize my File Folders
     Open Cereal
     Open Milk
     Open Orange Juice
-    [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
   [Goto Top](#documentation)  
 
