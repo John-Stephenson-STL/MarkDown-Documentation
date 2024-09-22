@@ -179,6 +179,7 @@
 <details>
 <summary>Next</summary>  
 
+  [Next 14 Sanity.io](https://m.youtube.com/watch?v=Lydgf-Hvla4)  
   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
   [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
