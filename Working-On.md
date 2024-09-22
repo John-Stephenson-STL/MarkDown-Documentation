@@ -30,27 +30,26 @@
 ## Equipment  
 <details> 
   <summary>My List</summary>  
-- 
-1 iPhone 13   
-2 Monitor   
-3 1 Dell   
-4 1 Samsung   
-5 PC Towers   
-6 1 Gateway   
+> - iPhone 13   
+> - Monitor   
+> - 1 Dell   
+> - 1 Samsung   
+> - PC Towers   
+> - 1 Gateway   
    a SPECS   
-7 1 Gateway   
+> - 1 Gateway   
    a SPECS   
-8 HDD   
-9 1 4 TB   
-10 1 3 TB   
-11 1 2 TB   
-12 1 1 TB   
-13 1 1 TB   
-14 1 40 Gig   
-15 1 ?   
-16 USB   
-17 to HDD   
-18 to Wireless Charger.  
+> - HDD   
+> - 1 4 TB   
+> - 1 3 TB   
+> - 2 TB   
+> - 1 1 TB   
+> - 1 1 TB   
+> - 1 40 Gig   
+> - 1 ?   
+> - USB   
+> - to HDD   
+> - to Wireless Charger.  
 
   [Goto Top](#projects)  
 
