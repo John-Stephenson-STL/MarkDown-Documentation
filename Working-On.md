@@ -32,47 +32,31 @@
   <summary>My List</summary><br/ >
   <ol>  
     <ol>  
+>      iPhone 13   
+>      Monitor   
+>      1 Dell   
+>      1 Samsung   
+>      PC Towers   
+>      1 Gateway   
+>      SPECS   
+>
+>  1 Gateway   
+>
+>  SPECS   
+>
+>  HDD   
+>  1 4 TB   
+>  1 3 TB   
+>  1 2 TB   
+>  1 1 TB   
+>  1 1 TB   
+>  1 40 Gig   
+>  1 ?   
+>  USB   
+>  to HDD   
+>  to Wireless Charger.  
 
-<so-cut label="[List]">  
-!>      &nbsp;&nbsp;&nbsp;&nbsp;iPhone 13   
-!>      &nbsp;&nbsp;&nbsp;&nbsp;Monitor   
-!>      &nbsp;&nbsp;&nbsp;&nbsp;1 Dell   
-!>      &nbsp;&nbsp;&nbsp;&nbsp;1 Samsung   
-!>      &nbsp;&nbsp;&nbsp;&nbsp;PC Towers   
-!>      &nbsp;&nbsp;&nbsp;&nbsp;1 Gateway   
-!>      &nbsp;&nbsp;&nbsp;&nbsp;SPECS   
-
-  1 Gateway   
-
-  SPECS   
-
-  HDD   
-
-  1 4 TB   
-
-  1 3 TB   
-
-  1 2 TB   
-
-  1 1 TB   
-
-  1 1 TB   
-
-  1 40 Gig   
-
-  1 ?   
-
-  USB   
-
-  to HDD   
-
-  to Wireless Charger.  
-
-</so-cut >
-
-
-
-[Goto Top](#projects)  
+  [Goto Top](#projects)  
 
 </ol>
 
