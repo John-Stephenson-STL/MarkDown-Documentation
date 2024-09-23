@@ -29,15 +29,15 @@
 
 ## Equipment  
 
+<details> 
+  <summary>My List</summary>  
+
     * iPhone 13 Pro Max<br>
     * Monitor
 
 
-<details> 
-  <summary>My List</summary>  
+
 ```
-- iPhone 13<br>
-- Monitor<br>
 - 1 Dell<br>
 - 1 Samsung<br>
 - PC Towers<br>
