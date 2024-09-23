@@ -31,24 +31,24 @@
 
     * iPhone 13 Pro Max<br>
     * Monitor
-* 1 Dell<br>
-* 1 Samsung<br>
-* PC Towers<br>
-* 1 Gateway<br>
-  * SPECS<br>
-* 1 Gateway<br>
-  * SPECS<br>
-* HDD<br>
-* 1 4 TB<br>
-* 1 3 TB<br>
-* 2 TB<br>
-* 1 1 TB<br>
-* 1 1 TB<br>
-* 1 40 Gig<br>
-* 1 ?<br>
-* USB<br>
-* to HDD<br>
-* to Wireless Charger<br>
+    * 1 Dell<br>
+    * 1 Samsung<br>
+    * PC Towers<br>
+    * 1 Gateway<br>
+      * SPECS<br>
+    * 1 Gateway<br>
+      * SPECS<br>
+    * HDD<br>
+    * 1 4 TB<br>
+    * 1 3 TB<br>
+    * 2 TB<br>
+    * 1 1 TB<br>
+    * 1 1 TB<br>
+    * 1 40 Gig<br>
+    * 1 ?<br>
+    * USB<br>
+    * to HDD<br>
+    * to Wireless Charger<br>
 
   [Goto Top](#projects)  
 
