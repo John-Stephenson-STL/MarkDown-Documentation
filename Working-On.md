@@ -28,6 +28,11 @@
 ## Technical  
 
 ## Equipment  
+
+    * iPhone 13 Pro Max<br>
+    * Monitor
+
+
 <details> 
   <summary>My List</summary>  
 ```
@@ -60,8 +65,6 @@
 ## Electronic  
   ### TV
     * Figure out how to add Google Assistant to 2019 Samsung TV
-
-
 
 ## List
   ### Christmas  
