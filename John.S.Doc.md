@@ -48,6 +48,16 @@
 
  [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
+#### hidden field with metadata 👇
+
+<div class="meta_for_parser tablespecs" style="visibility:hidden">{"dataname":"environment","colvar":"varname","colval":"value"}File Folder</div>
+
+#### hidden field with metadata 👆
+
+
+
+
+
     Organize my File Folders
     Open Cereal
     Open Milk
