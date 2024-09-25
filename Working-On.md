@@ -92,6 +92,7 @@
 >> -Andrea get a Little John #1.
 >>> - add onions
 
+>>> - NOTE: When the gift card doesn't have enough money to cover the cost of the meal, I will change the payment method from gift card to cash.  then I can pay all the window.
   
 > #### Sunday
 >
