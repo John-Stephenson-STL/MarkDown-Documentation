@@ -412,6 +412,10 @@ Monitor
 
 #### iPhone
 
+  [Make Your Volume Louder](https://m.youtube.com/watch?v=8bVnXilcAPc)  
+
+  [How to Add Your Name](https://m.youtube.com/watch?v=hchBGUEDh0c)  
+
   [Buy iPhone from](https://m.youtube.com/watch?v=6xWTbwgX_X4)  
 
 [How to Change Lighting Port to UBC-C](https://m.youtube.com/watch?v=1yudWXta6dM)  
