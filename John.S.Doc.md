@@ -352,6 +352,11 @@ https://m.youtube.com/watch?v=t0om43cmYP8
 </details>  
 
 <details>
+<summary>Funny Signs</summary>
+  https://m.youtube.com/watch?v=PVDDAH_KI0k
+</details>
+
+<details>
 <summary>Church Jokes</summary><br/ >
 
 > During an impassioned sermon about death & final judgement, the pastor said forcefully, "Each member of this church is going to die & face judgement." Glancing down at the front pew, he noticed a man with a big smile on his face.   
