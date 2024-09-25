@@ -61,11 +61,17 @@
 
 ## Warnings
 
-  [QR Codes](https://m.youtube.com/watch?v=-bbsXVfBMdI)  
+  ### JavaScript  
 
-  [F.B.I. isseue new Warning](https://m.youtube.com/watch?v=DU_y85NlSeY)  
+   [Dangers](https://www.gnu.org/philosophy/javascript-trap.html)  
 
-  ### Report theft from QR scam
+  ### QR Codes  
+
+   [QR Codes](https://m.youtube.com/watch?v=-bbsXVfBMdI)  
+
+   [F.B.I. isseue new Warning](https://m.youtube.com/watch?v=DU_y85NlSeY)  
+
+  #### To Report theft from QR scam
   ic3.gov
 
   [identity Theft](https://m.youtube.com/watch?v=bh-oZTUgRns)  
