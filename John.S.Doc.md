@@ -64,7 +64,7 @@
   ### FireFox Browser  
    [Mozilla and PPA](https://m.youtube.com/watch?v=mFOMBM48LNA)  
 
-   [Disable PPA Privacy-Preserving Attribution](https://support.mozilla.org/en-US/kb/privacy-preserving-attribution#w_how-can-i-disable-ppa)  
+   [Disable PPA ( Privacy-Preserving Attribution )](https://support.mozilla.org/en-US/kb/privacy-preserving-attribution#w_how-can-i-disable-ppa)  
 
   ### JavaScript  
 
