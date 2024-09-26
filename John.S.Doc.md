@@ -61,6 +61,9 @@
 
 ## Warnings
 
+  ### FireFox Browser  
+   [Mozilla and PPA](https://m.youtube.com/watch?v=mFOMBM48LNA)  
+
   ### JavaScript  
 
    [Dangers](https://www.gnu.org/philosophy/javascript-trap.html)  
