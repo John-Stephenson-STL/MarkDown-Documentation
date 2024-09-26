@@ -332,8 +332,14 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 <summary>YouTube 4th of July</summary><br/ >
 
 https://m.youtube.com/watch?v=HLC1pURhfYc
+</details>  
+
+<details>
+  <summary>Firestick Design</summary>
+
+   https://m.youtube.com/watch?v=QHSpYF5097M
 </details>
-  
+
 <details>
 <summary>Muppets Ringing the Bells</summary><br/ >
 
