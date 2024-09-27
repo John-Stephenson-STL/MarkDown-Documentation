@@ -194,7 +194,7 @@
 
 <details>
   <summary>SASS</summary>  
-   [Next.js with SASS](https://m.youtube.com/watch?v=C1-hmauMht0)  
+   [Next with SASS](https://m.youtube.com/watch?v=C1-hmauMht0)  
 
    [SASS Tutorial](https://m.youtube.com/watch?v=_a5j7KoflTs)  
 
