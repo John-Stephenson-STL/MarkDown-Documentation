@@ -93,8 +93,7 @@
 
 ## Setup  
 <details>
-  <summary>Choices</summary>
-  
+  <summary>Choices</summary>  
 
 <details>
   <summary>Login</summary>
@@ -267,7 +266,7 @@
 
   [Goto Top](#documentation)  
 
-### README.md
+### README
    [Create README file](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
 
   [Goto Top](#documentation)  
