@@ -8,6 +8,7 @@
 <summary>Table of Contents</summary>  
 
 [Informational](#informational)  
+[Farts](#farts)  
 [How To](#how_to)  
 [Databases](#databases)  
 [Warnings](#warnings)  
@@ -21,6 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[IDE](#ide)  
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Vite](#vite)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Svelte](#svelte)  
 &nbsp;&nbsp;&nbsp;&nbsp;[HTML](#html)  
@@ -43,6 +45,10 @@
 </details>  
 
 ## Informational  
+
+### Farts
+
+  [Why do people ___](https://m.youtube.com/watch?v=ccy-irqHwII)  
 
 ###	HOW TO
 
