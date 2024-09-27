@@ -51,6 +51,10 @@
 
   [Why do people ___](https://m.youtube.com/watch?v=ccy-irqHwII)  
 
+  [9 Surprising Facts about ](https://www.vox.com/2014/12/4/7332411/fart-flatulence)  
+
+  [Goto Top](#documentation)  
+
 ###	HOW TO
 
  [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
