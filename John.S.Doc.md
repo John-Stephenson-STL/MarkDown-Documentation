@@ -223,6 +223,9 @@
 
 </details>  
 
+## Vite
+  [Vite Main Page](https://vitejs.dev)  
+
 ### Svelte  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
