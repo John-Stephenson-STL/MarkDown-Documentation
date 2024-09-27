@@ -192,6 +192,15 @@
 <details>
 <summary>Next</summary>  
 
+<details>
+  <summary>SASS</summary>  
+   [Next.js with SASS](https://m.youtube.com/watch?v=C1-hmauMht0)  
+
+   [SASS Tutorial](https://m.youtube.com/watch?v=_a5j7KoflTs)  
+
+  [Goto Top](#documentation)  
+</details>  
+
   [Next 14 Sanity.io](https://m.youtube.com/watch?v=Lydgf-Hvla4)  
   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
