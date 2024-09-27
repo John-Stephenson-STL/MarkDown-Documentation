@@ -214,6 +214,7 @@
   [Next Blog](https://www.makeuseof.com/nextjs-markdown-blog-react/ ) 
   ![My Documentation](
 )  
+  [Next 13 Static Blog](https://m.youtube.com/watch?v=Hiabp1GY8fA)  
 
 <details>  
   
