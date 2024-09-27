@@ -208,6 +208,7 @@
   [Goto Top](#documentation)  
 </details>  
 
+  [AppRouting or Page Routing](https://dev.to/dcs_ink/nextjs-app-router-vs-pages-router-3p57)  
   [Next 14 Sanity.io](https://m.youtube.com/watch?v=Lydgf-Hvla4)  
   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
   [Step by Step guide](https://medium.com/stackanatomy/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour-29050226a2e)  
