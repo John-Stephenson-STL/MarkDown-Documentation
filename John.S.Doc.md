@@ -31,10 +31,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Github Pages](#github-pages)  
 &nbsp;&nbsp;&nbsp;&nbsp;[CSS](#css)  
 &nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass)  
-&nbsp;&nbsp;&nbsp;&nbsp;[README](#readme)  
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;[README bad](#readme)  
+&nbsp;&nbsp;&nbsp;&nbsp;[README](#readme.md)  
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
 [Anonymous E-mail](#send-anonymous-email)  
@@ -294,7 +291,7 @@
 
   [Goto Top](#documentation)  
 
-### README  
+### README.md  
    [Create README file](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
 
    [README with different Frameworks](https://draft.dev/learn/12-documentation-examples-every-developer-tool-can-learn-from)  
