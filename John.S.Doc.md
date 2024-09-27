@@ -212,6 +212,7 @@
   [Goto Top](#documentation)  
 </details>  
 
+  [Adding Dark-Mode](https://dev.to/riflan0ahmed/applying-dark-mode-in-nextjs-using-css-variables-1kgn)  
   [AppRouting or Page Routing](https://dev.to/dcs_ink/nextjs-app-router-vs-pages-router-3p57)  
   [Next 14 Sanity.io](https://m.youtube.com/watch?v=Lydgf-Hvla4)  
   [Next Blog with MDX](https://donis.dev/blog/post/markdown_blog)  
