@@ -170,8 +170,7 @@
 ## PROGRAMMING  
 ### MarkDown  
 
-# github <a name="github"></a>
-GitHub  
+# github <a name="github"></a>  
 
   [Markdown Crash Course - Youtube](https://m.youtube.com/watch?v=ftOBvusMHjQ)  
   [MarkDown Crash Course Update](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
