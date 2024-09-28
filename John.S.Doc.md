@@ -199,6 +199,8 @@
   [Blog with React - part 3](https://m.youtube.com/watch?v=1pd2xRd6d5E)  
   [Blog with React - part 4](https://m.youtube.com/watch?v=MGVrp1D2yT4)  
   [Build MarkDown Blog with React](https://m.youtube.com/watch?v=Od-Uj5RSsuM)  
+
+  [Dynamically Load Markdown Files](https://dev.to/anobjectisa/how-to-dynamically-load-markdown-files-in-react-markdown-to-jsx-53fl)  
   
   [Goto Top](#documentation)  
 
@@ -241,6 +243,8 @@
   [YouTube Follow along Setup](https://m.youtube.com/watch?v=XhoWXhyuW_I)  
 
   [Github Pages with Github Actions](https://m.youtube.com/watch?v=MKw-IriprJY)  
+
+  [Crash Course](https://m.youtube.com/watch?v=89NJdbYTgJ8)  
 
   [Goto Top](#documentation)  
 
