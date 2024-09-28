@@ -238,6 +238,8 @@
 
   [Vite Main Page](https://vitejs.dev)  
 
+  [YouTube Follow along Setup](https://m.youtube.com/watch?v=XhoWXhyuW_I)  
+
   [Github Pages with Github Actions](https://m.youtube.com/watch?v=MKw-IriprJY)  
 
   [Goto Top](#documentation)  
