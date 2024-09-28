@@ -222,13 +222,11 @@
 
 <details>  
   
-  <summary>Netlify</summary>  
-
-  [Next with Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/)  
-
-  [Goto Top](#documentation)  
-
-</details>
+>  ### Netlify <a name="netlify"></a>
+>  
+>>  [Next with Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/)  
+>
+>>  [Goto Top](#documentation)  
 
    [Goto Top](#documentation)  
 
