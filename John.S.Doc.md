@@ -201,8 +201,6 @@
 
 </details>
 
-<details>  
-  
 ## Next  
   
 >  ### SASS <a name="next-sass"></a>
@@ -232,7 +230,6 @@
 
    [Goto Top](#documentation)  
 
-</details>  
 
 ## Vite
   [Vite Main Page](https://vitejs.dev)  
