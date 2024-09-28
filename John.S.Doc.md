@@ -303,6 +303,7 @@
    [README with different Frameworks](https://draft.dev/learn/12-documentation-examples-every-developer-tool-can-learn-from)  
 
   [Goto Top](#documentation)  
+</details>  
 
 ## HOW TO  
 ### SETUP Writing  
