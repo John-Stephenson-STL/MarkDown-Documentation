@@ -12,7 +12,7 @@
 [How To](#how_to)  
 [Databases](#databases)  
 [Warnings](#warnings)  
-[Setup](#setup)  
+[Setup](#pc-setup)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Login](#login)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Password](#password)  
@@ -23,6 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Github](#github)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Next](#next)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Vite](#vite)  
@@ -97,7 +98,7 @@
   Report fraud to: www.IdentityTheft.gov
 
 
-## Setup  
+## P.C. Setup  
 <details>
   <summary>Choices</summary>  
 
@@ -169,8 +170,8 @@
 ## PROGRAMMING  
 ### MarkDown  
 
-<details>
-<summary>Github</summary>
+# github <a name="github"></a>
+GitHub  
 
   [Markdown Crash Course - Youtube](https://m.youtube.com/watch?v=ftOBvusMHjQ)  
   [MarkDown Crash Course Update](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
@@ -186,7 +187,7 @@
   [Write a Book in Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)  
 
   [Goto Top](#documentation)  
-</details>
+
 
 <details>
 <summary>React</summary>  
