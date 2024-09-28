@@ -202,8 +202,12 @@
 <details>
 <summary>Next</summary>  
 
-<details>
-  <summary>SASS</summary>  
+<details>  
+  
+  ### SASS <a name="sass"></a>  
+
+
+  <!-- summary>SASS</summary -->  
   
    [Next with SASS](https://m.youtube.com/watch?v=C1-hmauMht0)  
 
