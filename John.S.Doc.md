@@ -201,20 +201,14 @@
 
 <details>
 <summary>Next</summary>  
-
-<details>  
   
-  ### SASS <a name="sass"></a>  
-
-
-  <!-- summary>SASS</summary -->  
+  ### SASS <a name="sass"></a>
   
    [Next with SASS](https://m.youtube.com/watch?v=C1-hmauMht0)  
 
    [SASS Tutorial](https://m.youtube.com/watch?v=_a5j7KoflTs)  
 
-  [Goto Top](#documentation)  
-</details>  
+  [Goto Top](#documentation)   
 
   [Adding Dark-Mode](https://dev.to/riflan0ahmed/applying-dark-mode-in-nextjs-using-css-variables-1kgn)  
   [AppRouting or Page Routing](https://dev.to/dcs_ink/nextjs-app-router-vs-pages-router-3p57)  
