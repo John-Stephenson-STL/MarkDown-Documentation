@@ -24,6 +24,7 @@
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Next](#next)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Vite](#vite)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Svelte](#svelte)  
 &nbsp;&nbsp;&nbsp;&nbsp;[HTML](#html)  
@@ -222,8 +223,7 @@
 )  
   [Next 13 Static Blog](https://m.youtube.com/watch?v=Hiabp1GY8fA)  
 
-<details>  
-  
+
 >  ### Netlify <a name="netlify"></a>
 >  
 >>  [Next with Netlify](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/)  
