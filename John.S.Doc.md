@@ -280,6 +280,7 @@
 
   [Goto Top](#documentation)  
 </details>  
+
 ### NEXT.js  
   [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
