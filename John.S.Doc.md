@@ -29,7 +29,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Vite](#vite)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Svelte](#svelte)  
 &nbsp;&nbsp;&nbsp;&nbsp;[HTML](#html)  
-&nbsp;&nbsp;&nbsp;&nbsp;[PNPM](#pnpm)  
+&nbsp;&nbsp;&nbsp;&nbsp;[BuildTools](#buildtools)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Next.js](#nextjs)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Github Pages](#github-pages)  
 &nbsp;&nbsp;&nbsp;&nbsp;[CSS](#css)  
@@ -248,12 +248,15 @@
 
 </details>
 
-### Svelte  
-   [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
+<details>
+<summary>Svelte</summary>    
+  [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
   [Goto Top](#documentation)  
+</details>  
+<details>
+<summary>HTML</summary>  
 
-### HTML  
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
    [collapsible Menu](https://m.youtube.com/watch?v=HGeqO_8BlvY)
@@ -262,12 +265,21 @@
    [HTML Login Form](https://m.youtube.com/watch?v=H8ThscWsQV8)  
 
   [Goto Top](#documentation)  
+</details>
 
-### PNPM  
+## Buid Tools
+<details>
+  <summary>PNPM</summary>  
   [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
 
   [Goto Top](#documentation)  
+</details>  
+<details>  
+  <summary>Deno</summary>  
+    [Documentation](https://docs.deno.com/runtime/)  
 
+  [Goto Top](#documentation)  
+</details>  
 ### NEXT.js  
   [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
