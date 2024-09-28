@@ -202,9 +202,22 @@
   
   [Goto Top](#documentation)  
 
+## Vite  
+
+  [Vite Main Page](https://vitejs.dev)  
+
+  [YouTube Follow along Setup](https://m.youtube.com/watch?v=XhoWXhyuW_I)  
+
+  [Github Pages with Github Actions](https://m.youtube.com/watch?v=MKw-IriprJY)  
+
+  [Crash Course](https://m.youtube.com/watch?v=89NJdbYTgJ8)  
+
+  [Goto Top](#documentation)  
+
 </details>
 
-## Next  
+<details>
+<summary>Next</summary>  
   
 >  ### SASS <a name="next-sass"></a>
 >  
@@ -233,18 +246,7 @@
 
    [Goto Top](#documentation)  
 
-
-## Vite  
-
-  [Vite Main Page](https://vitejs.dev)  
-
-  [YouTube Follow along Setup](https://m.youtube.com/watch?v=XhoWXhyuW_I)  
-
-  [Github Pages with Github Actions](https://m.youtube.com/watch?v=MKw-IriprJY)  
-
-  [Crash Course](https://m.youtube.com/watch?v=89NJdbYTgJ8)  
-
-  [Goto Top](#documentation)  
+</details>
 
 ### Svelte  
    [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
