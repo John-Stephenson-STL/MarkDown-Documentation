@@ -23,6 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Next](#next)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Vite](#vite)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Svelte](#svelte)  
 &nbsp;&nbsp;&nbsp;&nbsp;[HTML](#html)  
@@ -199,10 +200,11 @@
 
 </details>
 
-<details>
-<summary>Next</summary>  
+<details>  
   
->  ### SASS <a name="sass"></a>
+## Next  
+  
+>  ### SASS <a name="next-sass"></a>
 >  
 >>   [Next with SASS](https://m.youtube.com/watch?v=C1-hmauMht0)  
 >
