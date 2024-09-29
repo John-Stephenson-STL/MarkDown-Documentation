@@ -287,7 +287,7 @@
   [Goto Top](#documentation)  
 </details>
 
-## Buid Tools  
+## Build Tools  
 
 <details>  
   <summary>PNPM</summary>  
