@@ -266,13 +266,13 @@
 <summary>HTML</summary>  
 
   <details>
-  <summary>Not needing JavaScript</summary>  
-  
-   [You Don't need JavaScript](https://m.youtube.com/watch?v=wKU65gV6FSA)  
-
-   [Avoid using JavaScript and CSS](https://m.youtube.com/watch?v=CuqnAq8cjYA)  
-
-  [Goto Top](#documentation)  
+>  <summary>Not needing JavaScript</summary>  
+>  
+>   [You Don't need JavaScript](https://m.youtube.com/watch?v=wKU65gV6FSA)  
+>
+>   [Avoid using JavaScript and CSS](https://m.youtube.com/watch?v=CuqnAq8cjYA)  
+> 
+>  [Goto Top](#documentation)  
 
 </details>
 
