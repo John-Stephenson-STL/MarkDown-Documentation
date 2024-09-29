@@ -265,8 +265,6 @@
 <details>
 <summary>HTML</summary>  
 
-<details>  
-  
 >  ### Not needing JavaScript<a name="not-needing-javascript"></a>
 >  
 >>  [You Don't need JavaScript](https://m.youtube.com/watch?v=wKU65gV6FSA)  
@@ -274,8 +272,6 @@
 >>  [Avoid using JavaScript and CSS](https://m.youtube.com/watch?v=CuqnAq8cjYA)  
 > 
 >> [Goto Top](#documentation)  
-
-</details>
 
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
