@@ -161,17 +161,6 @@
 
 ## PROGRAMMING  
 
-### HTMX
-
-<details>
-  <summary>Information</summary>
-
-   [Offical Site](https://htmx.org)  
-
-   [Goto Top](#documentation)  
-
-</details>  
-
 ### MarkDown  
 
 <details>  
@@ -275,6 +264,8 @@
 
 <details>
 <summary>HTML</summary>  
+
+   [You Don't need JavaScript](https://m.youtube.com/watch?v=wKU65gV6FSA)  
 
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
