@@ -265,14 +265,18 @@
 <details>
 <summary>HTML</summary>  
 
-  <details>
->  <summary>Not needing JavaScript</summary>  
+<details>
+<summary>Next</summary>  
+  
+>  ### Not needing JavaScript<a name="not-needing-javascript"></a>
 >  
->   [You Don't need JavaScript](https://m.youtube.com/watch?v=wKU65gV6FSA)  
+>>  <summary>Not needing JavaScript</summary>  
+>  
+>>  [You Don't need JavaScript](https://m.youtube.com/watch?v=wKU65gV6FSA)  
 >
->   [Avoid using JavaScript and CSS](https://m.youtube.com/watch?v=CuqnAq8cjYA)  
+>>  [Avoid using JavaScript and CSS](https://m.youtube.com/watch?v=CuqnAq8cjYA)  
 > 
->  [Goto Top](#documentation)  
+>> [Goto Top](#documentation)  
 
 </details>
 
