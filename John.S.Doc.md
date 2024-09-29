@@ -58,7 +58,7 @@
 
   [Goto Top](#documentation)  
 
-###	HOW TO
+###	How To  
 
  [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
