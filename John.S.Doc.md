@@ -170,6 +170,15 @@
 ## PROGRAMMING  
 ### MarkDown  
 
+<details>  
+ <summary>README.md</summary>  
+   [Create README file](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
+
+   [README with different Frameworks](https://draft.dev/learn/12-documentation-examples-every-developer-tool-can-learn-from)  
+
+  [Goto Top](#documentation)  
+</details>  
+
 <details>
 <summary>through Github</summary>  
 
@@ -281,7 +290,10 @@
   [Goto Top](#documentation)  
 </details>  
 
-### NEXT.js  
+### Languages
+<details>  
+<summary>NEXT.js</summary>    
+
   [Build a Static Blog](https://medium.com/frontendweb/build-the-static-blog-with-next-js-and-markdown-59576c75fbf2)  
 
    [Build Portfolio with Next, TailwindCSS, React, Sanity.io](https://m.youtube.com/watch?v=urgi2iz9P6U)  
@@ -294,14 +306,22 @@
 
   [Goto Top](#documentation)  
 
-### Github Pages  
+</details>  
+
+<details>  
+ <summary>Github Pages</summary>  
+
   [Tips](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
     [Github Pages Website](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)  
     [ToolTips for GitHub Pages](https://dev.to/mishmanners/top-tips-for-using-github-l4m)  
 
   [Goto Top](#documentation)  
 
-### CSS  
+>/details>  
+
+<details>  
+ <summary>CSS</summary>  
+
    [Learn CSS Grid](https://m.youtube.com/watch?v=rg7Fvvl3taU)  
    [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
     [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
@@ -314,18 +334,18 @@
 
   [Goto Top](#documentation)  
 
-### SASS  
+</details>  
+
+<details>  
+ <summary>SASS</summary>  
+
    [Cody Fayock Guide](https://www.freecodecamp.org/news/how-to-use-sass-with-css-modules-in-next-js/)  
 
   [Goto Top](#documentation)  
 
-### README.md  
-   [Create README file](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
-
-   [README with different Frameworks](https://draft.dev/learn/12-documentation-examples-every-developer-tool-can-learn-from)  
-
-  [Goto Top](#documentation)  
 </details>  
+
+
 
 ## HOW TO  
 ### SETUP Writing  
