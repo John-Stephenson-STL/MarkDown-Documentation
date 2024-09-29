@@ -275,6 +275,8 @@
 > 
 >> [Goto Top](#documentation)  
 
+   [Getting Started with HTML5](https://html.com/html5/)  
+
    [Main Documentation](https://html.com)  
 
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
