@@ -20,13 +20,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Github](#github)  
-&nbsp;&nbsp;&nbsp;&nbsp;[BuildTools](#buildtools)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Next.js](#nextjs)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Github Pages](#github-pages)  
-&nbsp;&nbsp;&nbsp;&nbsp;[CSS](#css)  
-&nbsp;&nbsp;&nbsp;&nbsp;[SASS](#sass)  
-&nbsp;&nbsp;&nbsp;&nbsp;[README](#readme.md)  
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
 [Anonymous E-mail](#send-anonymous-email)  
@@ -116,16 +109,11 @@
 
 </details>   
 
-  <details>
+<details>  
   <summary>Passwotd</summary>
   
   [Goto Top](#documentation)  
 
-
-</details>  
-
-
-  [Goto Top](#documentation)  
 
 </details>  
 
@@ -162,7 +150,8 @@
 
   [Goto Top](#documentation)  
 
-### NAS  
+### NAS   
+
   [N100 NAS 2 Bay](https://www.amazon.com/Healuck-Storage-Router-System-Support/dp/B0D5VLGV9Z?th=1&psc=1)  
 
   [Goto Top](#documentation)  
@@ -172,11 +161,13 @@
 
 <details>  
  <summary>README.md</summary>  
+
    [Create README file](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
 
    [README with different Frameworks](https://draft.dev/learn/12-documentation-examples-every-developer-tool-can-learn-from)  
 
   [Goto Top](#documentation)  
+
 </details>  
 
 <details>
