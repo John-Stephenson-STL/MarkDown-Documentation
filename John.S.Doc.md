@@ -273,6 +273,8 @@
 > 
 >> [Goto Top](#documentation)  
 
+   [Main Documentation](https://html.com)  
+
    [Slider Crazy Menu](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
   
    [collapsible Menu](https://m.youtube.com/watch?v=HGeqO_8BlvY)
