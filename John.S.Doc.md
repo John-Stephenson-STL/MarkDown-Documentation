@@ -14,8 +14,6 @@
 [Warnings](#warnings)  
 [Setup](#pc-setup)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Login](#login)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Id](#user-id)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Password](#password)  
 [Technical](#technical)  
 [Gadgets](#gadgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;[LibreOffice](#libreoffice)  
@@ -72,6 +70,7 @@
 ## Databases
   [Free Hosting](https://m.youtube.com/watch?v=cYP0k_shdWc)  
 
+  [Goto Top](#documentation)  
 
 ## Warnings
 
@@ -80,15 +79,21 @@
 
    [Disable PPA ( Privacy-Preserving Attribution )](https://support.mozilla.org/en-US/kb/privacy-preserving-attribution#w_how-can-i-disable-ppa)  
 
+  [Goto Top](#documentation)  
+
   ### JavaScript  
 
    [Dangers](https://www.gnu.org/philosophy/javascript-trap.html)  
+
+  [Goto Top](#documentation)  
 
   ### QR Codes  
 
    [QR Codes](https://m.youtube.com/watch?v=-bbsXVfBMdI)  
 
    [F.B.I. isseue new Warning](https://m.youtube.com/watch?v=DU_y85NlSeY)  
+
+  [Goto Top](#documentation)  
 
   #### To Report theft from QR scam
   ic3.gov
@@ -97,6 +102,7 @@
 
   Report fraud to: www.IdentityTheft.gov
 
+  [Goto Top](#documentation)  
 
 ## P.C. Setup  
 <details>
