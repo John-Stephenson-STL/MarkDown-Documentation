@@ -20,6 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
 [Programming](#programming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
+[Build Tools](#build-tools) 
+[Languages](#languages)   
 [How To](#how-to)   
 [Setup Writing ](#setup-writing)  
 [Anonymous E-mail](#send-anonymous-email)  
