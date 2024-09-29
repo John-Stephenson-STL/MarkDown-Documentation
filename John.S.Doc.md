@@ -9,11 +9,10 @@
 
 [Informational](#informational)  
 [Farts](#farts)  
-[How To](#how_to)  
+[Initial PC Setup](#initial-pc-setup)  
 [Databases](#databases)  
 [Warnings](#warnings)  
 [Setup](#pc-setup)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Login](#login)  
 [Technical](#technical)  
 [Gadgets](#gadgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;[LibreOffice](#libreoffice)  
@@ -56,7 +55,7 @@
 
   [Goto Top](#documentation)  
 
-###	How To  
+###	Initial P.C. Setup  
 
  [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
