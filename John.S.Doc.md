@@ -204,6 +204,7 @@
   [Goto Top](#documentation)  
 
 </details>    
+
 <details>
 <summary>React</summary>  
 
@@ -334,7 +335,7 @@
 
   [Goto Top](#documentation)  
 
->/details>  
+</details>  
 
 <details>  
  <summary>CSS</summary>  
