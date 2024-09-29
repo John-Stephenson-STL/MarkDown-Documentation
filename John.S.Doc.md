@@ -265,12 +265,9 @@
 <details>
 <summary>HTML</summary>  
 
-<details>
-<summary>Next</summary>  
+<details>  
   
 >  ### Not needing JavaScript<a name="not-needing-javascript"></a>
->  
->>  <summary>Not needing JavaScript</summary>  
 >  
 >>  [You Don't need JavaScript](https://m.youtube.com/watch?v=wKU65gV6FSA)  
 >
