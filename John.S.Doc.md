@@ -250,10 +250,13 @@
 
 <details>
 <summary>Svelte</summary>    
+
   [Svelte Blog](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)  
 
   [Goto Top](#documentation)  
+
 </details>  
+
 <details>
 <summary>HTML</summary>  
 
@@ -267,21 +270,29 @@
   [Goto Top](#documentation)  
 </details>
 
-## Buid Tools
-<details>
+## Buid Tools  
+
+<details>  
   <summary>PNPM</summary>  
+
   [How to Install](https://dev.to/adiatiayu/how-to-install-pnpm-with-npm-on-windows-11-5gbn)  
 
   [Goto Top](#documentation)  
+
 </details>  
+
 <details>  
+
   <summary>Deno</summary>  
-    [Documentation](https://docs.deno.com/runtime/)  
+
+  [Documentation](https://docs.deno.com/runtime/)  
 
   [Goto Top](#documentation)  
+
 </details>  
 
-### Languages
+### Languages  
+
 <details>  
 <summary>NEXT.js</summary>    
 
@@ -336,8 +347,6 @@
 
 </details>  
 
-
-
 ## HOW TO  
 ### SETUP Writing  
   
@@ -346,7 +355,6 @@
   [Atlassian Free](https://www.atlassian.com/software/confluence/free "Atlassian Free Version")  
 
   [Guide for Software Developers](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)  
-
 
   [Goto Top](#documentation)  
 
