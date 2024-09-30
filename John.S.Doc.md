@@ -350,7 +350,7 @@
 
    [Tips && Tricks](https://m.youtube.com/watch?v=PL3Odw-k8W4)  
 
-   [Top OneLiners](https://m.youtube.com/watch?v=Xc6G3oV24yE)  
+   [Top One Liners](https://m.youtube.com/watch?v=Xc6G3oV24yE)  
 
    [3 Lines to make Footer at Bottom of Page](https://m.youtube.com/watch?v=AVPR_WuDw8o)  
 
