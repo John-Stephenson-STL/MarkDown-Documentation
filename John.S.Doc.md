@@ -345,9 +345,13 @@
 
    [Learn CSS Grid](https://m.youtube.com/watch?v=rg7Fvvl3taU)  
    [display:none Alternatives](https://www.a11yproject.com/posts/how-to-hide-content/)  
-    [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
-      [DarkMode Toggle](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
-  
+>>    [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
+>>>   [DarkMode Toggle](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
+
+   Tips && Tricks](https://m.youtube.com/watch?v=PL3Odw-k8W4)  
+
+   [Top OneLiners](https://m.youtube.com/watch?v=Xc6G3oV24yE)  
+
    [3 Lines to make Footer at Bottom of Page](https://m.youtube.com/watch?v=AVPR_WuDw8o)  
 
   [Make Footer at Bottom of Page](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/#:~:text=You%20can%20use%20flexbox%20to,and%20flex%2Ddirection%3A%20column%20.)  
