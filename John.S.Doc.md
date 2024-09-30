@@ -348,7 +348,7 @@
 >>    [Magic Navigation Menu](https://m.youtube.com/watch?v=ArTVfdHOB-M)  
 >>>   [DarkMode Toggle](https://medium.com/@--andrewnelson/add-a-dark-mode-toggle-to-your-nextjs-react-app-375b230a4c27#26a6)
 
-   Tips && Tricks](https://m.youtube.com/watch?v=PL3Odw-k8W4)  
+   [Tips && Tricks](https://m.youtube.com/watch?v=PL3Odw-k8W4)  
 
    [Top OneLiners](https://m.youtube.com/watch?v=Xc6G3oV24yE)  
 
