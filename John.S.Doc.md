@@ -275,6 +275,8 @@
 > 
 >> [Goto Top](#documentation)  
 
+   [Create HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/#thecompletehtml5boilerplate)   
+
    [Creating HTML5 Boilerplate](https://www.sitepoint.com/a-basic-html5-template/#thecompletehtml5boilerplate)  
 
    [Getting Started with HTML5](https://html.com/html5/)  
