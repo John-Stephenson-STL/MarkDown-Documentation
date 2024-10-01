@@ -11,7 +11,7 @@
 [Farts](#farts)  
 [Initial PC Setup](#initial-pc-setup)  
 &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
-nbsp;&nbsp;&nbsp;&nbsp;[P.C. Backup](#pc-backup)  
+&nbsp;&nbsp;&nbsp;&nbsp;[P.C. Backup](#pc-backup)  
 [Databases](#databases)  
 [Warnings](#warnings)  
 [Setup](#pc-setup)  
