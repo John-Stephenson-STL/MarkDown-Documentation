@@ -1,11 +1,4 @@
 # # STL John Stephenson Inventory  
-|    | 10-02-2024 | $199.00 |  |
-
-
-
-
-| Make       | Model           | Cost  | Date 
-
 
 | Make        | Model           | Date Purchased  |
 | ------------- |:-------------:| -----:|
