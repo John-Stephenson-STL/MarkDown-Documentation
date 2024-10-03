@@ -7,8 +7,8 @@
 | Make       | Model           | Cost  | Date 
 
 
-| Make        | Model           | Date Purchased  | Cost.  |
+| Make        | Model           | Date Purchased  |
 | ------------- |:-------------:| -----:|
-| Big & Tall Executive Office Chair      | 99030125 | 10/02/2024 | $199.00 |
+| Big & Tall Executive Office Chair      | 99030125 | 10/02/2024 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
