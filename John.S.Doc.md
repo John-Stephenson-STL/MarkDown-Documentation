@@ -554,9 +554,7 @@ https://m.youtube.com/watch?v=t0om43cmYP8
 <details>
 <summary>My Inventory</summary><br/ >
 
-  [STL John Stephenson's Inventory](https://github.com/John-Stephenson-STL/Inventory.md)  
-
-  [My Inventory](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/Inventory.md)  
+  [STL John Stephenson's Inventory](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/Inventory.md)  
 
    [Goto Top](#documentation)  
 
