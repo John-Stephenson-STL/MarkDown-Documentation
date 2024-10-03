@@ -1,4 +1,4 @@
-# # STL John Stephenson Inventory  
+# STL John Stephenson Inventory  
 
 | Make | Model | Date Purchased | Price |
 | --- | :--: | :--: | :-: |
