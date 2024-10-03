@@ -172,6 +172,9 @@
 <details>
   <summary>CSS</summary>
     https://css-workshop.com/howto/how-to-use-css-in-markdown/
+
+  [Goto Top](#documentation)  
+
 </details>
 
 <details>  
@@ -223,6 +226,9 @@
 <details>
   <summary>CSS</summary>
    https://www.freecodecamp.org/news/build-a-css-library-with-vitejs/
+
+  [Goto Top](#documentation)  
+
 </details>  
 
   [Vite Main Page](https://vitejs.dev)  
@@ -412,6 +418,9 @@
 <details>   
   <summary>Watch</summary>
     https://m.youtube.com/watch?v=9sXQjRoyyhA&pp=ygU3aSB0cmllZCAyMCBidWRnZXQgYXBwbGUgd2F0Y2ggc3RyYXBzIHRoZXNlIGFyZSBteSB0b3AgNQ%3D%3D  
+
+  [Goto Top](#documentation)  
+
 </details>
 
 ### iTunes  
@@ -450,6 +459,8 @@
 
 Unless someone like you cares a whole awful lot, nothing is going to get better.  It's not.
 
+  [Goto Top](#documentation)  
+
 </details>  
 
 <details>
@@ -458,18 +469,26 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 
 https://m.youtube.com/watch?v=4Z6WmIfa1xc  
 
+  [Goto Top](#documentation)  
+
 </details>  
 
 <details>  
 <summary>YouTube 4th of July</summary><br/ >
 
 https://m.youtube.com/watch?v=HLC1pURhfYc
+
+  [Goto Top](#documentation)  
+
 </details>  
 
 <details>
   <summary>Firestick Design</summary>
 
    https://m.youtube.com/watch?v=QHSpYF5097M
+
+  [Goto Top](#documentation)  
+
 </details>
 
 <details>
@@ -477,26 +496,40 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
 https://m.youtube.com/watch?v=S0psMcHw0LM
 
+  [Goto Top](#documentation)  
+
 </details>  
 
 <details>
 <summary>Muppets Devil Went Down to Georgia</summary><br/ >
 https://m.youtube.com/watch?v=FC9X8Xf3XRc
+
+  [Goto Top](#documentation)  
+
 </details>  
 
 <details>  
 <summary>Muppets Devil went Down to Jamaica</summary><br/ >
 https://m.youtube.com/watch?v=ip5e9NUvX6A
+
+  [Goto Top](#documentation)  
+
 </details>  
 
 <details>
 <summary>Amazon emahtskcblvdt</summary><br/ >
 https://m.youtube.com/watch?v=t0om43cmYP8
+
+  [Goto Top](#documentation)  
+
 </details>  
 
 <details>
 <summary>Funny Signs</summary>
   https://m.youtube.com/watch?v=PVDDAH_KI0k
+
+  [Goto Top](#documentation)  
+
 </details>
 
 <details>
@@ -513,11 +546,22 @@ https://m.youtube.com/watch?v=t0om43cmYP8
 > "I don't get it," the preacher said in frustration. "Whenever I said, 'Each member of this church is going to die,' your smile got bigger. Why?"   
 >>
 >"I'm not a member of this church," the man replied.
+
+  [Goto Top](#documentation)  
   
 </details>  
 
 <details>
 <summary>My Inventory</summary><br/ >
+
+
+
+
+
+
+
+
+
 
 Monitor  
                       1 Dell  
@@ -588,6 +632,8 @@ Monitor
 
 [How to Change Lighting Port to UBC-C](https://m.youtube.com/watch?v=1yudWXta6dM)  
 
+  [Goto Top](#documentation)  
+
 <details>
 <summary>How I optimized my iPhone 13 Pro Max</summary>  
 
@@ -596,6 +642,9 @@ These steps are to get the most usage out of your iPhone.
 I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.  
 
 &nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.  
+
+  [Goto Top](#documentation)  
+
 </details>
 
 ### MagSafe  
