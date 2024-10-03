@@ -191,6 +191,7 @@
 <details>
 <summary>through Github</summary>  
 
+  [Table Tutorial](https://www.pluralsight.com/resources/blog/guides/working-tables-github-markdown)  
   [Markdown Crash Course - Youtube](https://m.youtube.com/watch?v=ftOBvusMHjQ)  
   [MarkDown Crash Course Update](https://m.youtube.com/watch?v=ECuqb5Tv9qI)  
   [Github Readme](https://readme.so)  
