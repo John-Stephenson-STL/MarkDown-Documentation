@@ -466,12 +466,14 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 
 <details>
   <summary>Voting</summary>  
-  [Voting](https://m.youtube.com/watch?v=MmPtfy9P714)  
+   Florida [Voting  
+   https://m.youtube.com/watch?v=MmPtfy9P714  
 </details>  
 
 <details>
   <summary>Halloween</summary>  
-   [Devil Went Down to GA](https://m.youtube.com/watch?v=qMiiqbKkmYQ)  
+   Devil Went Down to Georgia  
+  https://m.youtube.com/watch?v=qMiiqbKkmYQ  
 </details>
 
 <details>
