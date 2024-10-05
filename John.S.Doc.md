@@ -139,6 +139,11 @@
 
   [Goto Top](#documentation)  
 
+   <details>
+    <summary>Halloween Gadgets</summary>
+    https://m.youtube.com/watch?v=9vc09XZVA_w
+   </details>
+
 ### LibreOffice  
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
   [LibreOffice Official](https://www.libreoffice.org)  
