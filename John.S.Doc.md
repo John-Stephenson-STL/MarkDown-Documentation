@@ -466,7 +466,7 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 
 <details>
     <summary>Voting</summary>  
-     Florida Voting    
+     Florida Voting<br />    
      https://m.youtube.com/watch?v=MmPtfy9P714  
 </details>  
 
