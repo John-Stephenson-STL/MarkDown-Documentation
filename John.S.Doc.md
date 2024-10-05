@@ -422,6 +422,11 @@
 ## Apple    
 
 <details>
+  <summary>Alais E-Mail(s)</summary>
+   https://appletoolbox.com/how-and-why-you-should-start-using-aliases-on-your-icloud-email-account/  
+</details>  
+
+<details>
   <summary>iPhone Password Manager</summary>
    https://m.youtube.com/watch?v=HH7iiqvqzJk  
    https://m.youtube.com/watch?v=4VMhGm3x3oI
