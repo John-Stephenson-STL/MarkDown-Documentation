@@ -421,6 +421,12 @@
 
 ## Apple    
 
+<details>
+  <summary>iPhone Password Manager</summary>
+   https://m.youtube.com/watch?v=HH7iiqvqzJk  
+   https://m.youtube.com/watch?v=4VMhGm3x3oI
+</details€
+
 <details>   
   <summary>Watch</summary>
     https://m.youtube.com/watch?v=9sXQjRoyyhA&pp=ygU3aSB0cmllZCAyMCBidWRnZXQgYXBwbGUgd2F0Y2ggc3RyYXBzIHRoZXNlIGFyZSBteSB0b3AgNQ%3D%3D  
