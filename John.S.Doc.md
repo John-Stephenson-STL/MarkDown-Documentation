@@ -425,7 +425,7 @@
   <summary>iPhone Password Manager</summary>
    https://m.youtube.com/watch?v=HH7iiqvqzJk  
    https://m.youtube.com/watch?v=4VMhGm3x3oI
-</details€
+</details>
 
 <details>   
   <summary>Watch</summary>
@@ -648,7 +648,7 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 </details>
 
 ### MagSafe  
-  
+ 
   [Anker's MagSafe](https://www.amazon.com/Anker-Magnetic-Wireless-Charging-Detachable/dp/B09B38GW7G/ref=asc_df_B09B385PDW/?tag=hyprod-20&linkCode=df0&hvadid=563823052931&hvpos=&hvnetw=g&hvrand=9724247907471239455&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-1485907903573&psc=1&mcid=973e2fcff27f3de6bd7288801f144b95&th=1)  
 
   [Apple MagSafe 2Meter](https://www.apple.com/shop/product/MX6Y3LL/A/magsafe-charger-2-m?fnode=8f06300c0da2398fe251a67bb460f0fdc4fa6bd46b5b27a26cc893dede2c453767276299c978aa4f099ebcc648d03d5ea13a8d77b990a38994cd3af9d5627be70226e3a65dadbd57913f4d4d09b2a470419292b915af58751c094760c6481da6707558e7b0f51d100901b11c49732590)  
