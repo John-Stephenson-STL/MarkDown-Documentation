@@ -556,7 +556,18 @@ https://m.youtube.com/watch?v=t0om43cmYP8
 
   [Goto Top](#documentation)  
 
-</details>  
+</details>
+  <summary>Bill Engvall</summary>  
+   <details>
+    <summary>Customer Service</summary>  
+     https://m.youtube.com/watch?v=ZHwfxb2w0K4
+   </details>  
+
+   <details>  
+    <summary>Stupid People</summary>
+     https://m.youtube.com/watch?v=ZBjelRDKHUk  
+   </details>
+</details>
 
 <details>
 <summary>Funny Signs</summary>
