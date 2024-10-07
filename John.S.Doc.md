@@ -413,6 +413,8 @@
 
 ## Send anonymous email  
 
+  [LifeWire's How To](https://www.lifewire.com/what-is-an-email-alias-4689556)  
+
 [Anonymous E-mail](https://privacysavvy.com/email/guides/send-an-anonymous-email/)   
 
 [How to Send - guide](https://privacysavvy.com/email/guides/send-an-anonymous-email/#h-3-startmail)  
