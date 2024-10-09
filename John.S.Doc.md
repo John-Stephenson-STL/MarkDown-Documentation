@@ -8,6 +8,7 @@
 <summary>Table of Contents</summary>  
 
 [Informational](#informational)  
+[Scams](#scammers)
 [Farts](#farts)  
 [Initial PC Setup](#initial-pc-setup)  
 &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
@@ -38,6 +39,13 @@
 </details>  
 
 ## Informational  
+
+### Scammers  
+
+<details>  
+  <summary>Don't talk to Strangers</summary>  
+    https://m.youtube.com/watch?v=CJWkB96YLIQ
+</details>  
 
 ### Farts
 
