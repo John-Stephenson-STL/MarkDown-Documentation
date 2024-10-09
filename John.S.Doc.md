@@ -45,6 +45,8 @@
 
   [9 Surprising Facts about ](https://www.vox.com/2014/12/4/7332411/fart-flatulence)  
 
+   [8 facts about farting](https://m.youtube.com/watch?v=QLMn5ksRZ4U)  
+
   [Goto Top](#documentation)  
 
 ###	Initial P.C. Setup  
