@@ -647,6 +647,15 @@ https://m.youtube.com/watch?v=t0om43cmYP8
   </details>
 
 <details>
+
+  <summary>Great Idea</summary>  
+    https://m.youtube.com/watch?v=HLC1pURhfYc  
+
+  [Goto Top](#documentation)  
+
+</details>
+
+<details>
   <summary>AirWolf R.C.</summary>
    https://m.youtube.com/watch?v=tZOIr0g5Ju8  
 
@@ -699,7 +708,6 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
         [iPhone as a Computer No JailBreak](https://www.ipodhacks142.com/how-to-install-any-tweaked-hacked-app-ipa-on-ios-13-using-altstore-no-revoke-no-jailbreak/)  
         [MagSafe or Qi2](https://www.macworld.com/article/2128673/what-is-qi2-is-qi2-iphone-wireless-charging-better-than-magsafe.html)  
         [Remaker](https://remarkable.com/)  
-      [Ideas](https://m.youtube.com/watch?v=HLC1pURhfYc)  
 
   [Goto Top](#documentation)  
 
