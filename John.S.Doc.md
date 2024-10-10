@@ -42,9 +42,12 @@
 
 ### Scammers  
 
-<details>  
+<details><br />
   <summary>Don't talk to Strangers</summary>  
     https://m.youtube.com/watch?v=CJWkB96YLIQ
+
+  [Goto Top](#documentation)  
+
 </details>  
 
 ### Farts
@@ -107,7 +110,7 @@
 
   [Goto Top](#documentation)  
 
-## P.C. Setup  
+## P.C. Setup  <br />
 <details>
   <summary>Choices</summary>  
 
