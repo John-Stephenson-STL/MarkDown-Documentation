@@ -510,6 +510,11 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 </details>
 
 <details>
+  <summary>Funny Bumper Sticker</summary>  
+   https://www.amazon.com/C60337-bumper-humper-brakes-insurance/dp/B01KAJHEUO
+</details>  
+
+<details>
 
   <summary>Men in Coats in HQ</summary>  
 
