@@ -53,7 +53,7 @@
 
 <details><br />
   <summary>Don't talk to Strangers</summary>  <br />
-    https://m.youtube.com/watch?v=CJWkB96YLIQ  <br />
+    https://m.youtube.com/watch?v=CJWkB96YLIQ  
 
   [Goto Top](#documentation)  
 
@@ -123,7 +123,6 @@
 <details>
   <summary>Choices</summary>  <br />
 
-  [Goto Top](#documentation)  <br />
 <details>
   <summary>Login</summary>  <br />
   
@@ -166,7 +165,7 @@
     <summary>Halloween Gadgets</summary>
     https://m.youtube.com/watch?v=9vc09XZVA_w  <br />
 
-    [Goto Top](#documentation)  
+  [Goto Top](#documentation)  
    </details>
 
 ### LibreOffice  
