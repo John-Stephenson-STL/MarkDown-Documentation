@@ -40,6 +40,13 @@
 
 ## Informational  
 
+### Math Tips  
+
+<details>  
+  <summary>% Tips</summary>  
+   https://m.youtube.com/watch?v=jSA8T-OC1dg
+</details>
+
 ### Scammers  
 
 <details><br />
