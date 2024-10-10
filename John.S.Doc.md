@@ -674,6 +674,9 @@ https://m.youtube.com/watch?v=t0om43cmYP8
 </details>
 
 ### Songs  
+
+  [Candy Man](https://m.youtube.com/watch?v=OWYcMvMbUiE)  
+
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
 
   [Goto Top](#documentation)  
