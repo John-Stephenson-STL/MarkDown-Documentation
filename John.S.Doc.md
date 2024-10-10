@@ -44,7 +44,7 @@
 
 <details><br />
   <summary>Don't talk to Strangers</summary>  
-    https://m.youtube.com/watch?v=CJWkB96YLIQ
+    https://m.youtube.com/watch?v=CJWkB96YLIQ  <br />
 
   [Goto Top](#documentation)  
 
@@ -114,8 +114,9 @@
 <details>
   <summary>Choices</summary>  
 
+  [Goto Top](#documentation)  <br />
 <details>
-  <summary>Login</summary>
+  <summary>Login</summary>  <br />
   
   [Goto Top](#documentation)  
 
