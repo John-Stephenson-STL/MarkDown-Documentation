@@ -112,7 +112,7 @@
 
 ## P.C. Setup  <br />
 <details>
-  <summary>Choices</summary>  
+  <summary>Choices</summary>  <br />
 
   [Goto Top](#documentation)  <br />
 <details>
@@ -123,14 +123,14 @@
 </details>  
 
 <details>
-  <summary>User ID</summary>
+  <summary>User ID</summary>  <br/>
   
   [Goto Top](#documentation)  
 
 </details>   
 
-<details>  
-  <summary>Passwotd</summary>
+<details>  <br />
+  <summary>Passwotd</summary>  <br />
   
   [Goto Top](#documentation)  
 
