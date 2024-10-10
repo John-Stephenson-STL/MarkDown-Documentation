@@ -43,7 +43,7 @@
 ### Scammers  
 
 <details><br />
-  <summary>Don't talk to Strangers</summary>  
+  <summary>Don't talk to Strangers</summary>  <br />
     https://m.youtube.com/watch?v=CJWkB96YLIQ  <br />
 
   [Goto Top](#documentation)  
@@ -155,7 +155,9 @@
 
    <details>
     <summary>Halloween Gadgets</summary>
-    https://m.youtube.com/watch?v=9vc09XZVA_w
+    https://m.youtube.com/watch?v=9vc09XZVA_w  <br />
+
+    [Goto Top](#documentation)  
    </details>
 
 ### LibreOffice  
