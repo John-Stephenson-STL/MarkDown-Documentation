@@ -541,7 +541,8 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
 
 <details>  
   <summary>SNL</summary>  
->>   [King Tut](https://m.youtube.com/watch?v=FYbavuReVF4]  
+>>    [King Tut]
+>>>    (https://m.youtube.com/watch?v=FYbavuReVF4]  
 
 
   [Goto Top](#documentation)  
@@ -618,7 +619,7 @@ https://m.youtube.com/watch?v=t0om43cmYP8
     <summary>Stupid People</summary>
      https://m.youtube.com/watch?v=ZBjelRDKHUk  
     
-      [Goto Top](#documentation)  
+   [Goto Top](#documentation)  
 
    </details>
 </details>
