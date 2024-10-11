@@ -541,10 +541,9 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
 
 <details>  
   <summary>SNL</summary>
-  <details>
-    <summary>King Tut - Steve Martin</summary>  
-    https://m.youtube.com/watch?v=FYbavuReVF4
-    </details>
+>  ### King Tut - Steve Martin <a name="king-tut"></a>
+>  
+>>   [King Tut](https://m.youtube.com/watch?v=FYbavuReVF4]  
 </details>
 
 <details>  
