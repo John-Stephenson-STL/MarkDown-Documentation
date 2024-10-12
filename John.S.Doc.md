@@ -65,11 +65,20 @@
 
 ### Farts
 
-  [Why do people ___](https://m.youtube.com/watch?v=ccy-irqHwII)  
+<details>
+  <summary>Why do people ___</summary>
+   https://m.youtube.com/watch?v=ccy-irqHwI
+</details>  
 
-  [9 Surprising Facts about ](https://www.vox.com/2014/12/4/7332411/fart-flatulence)  
+<details>
+  <summary>9 Surprising Facts about</summary>
+   https://www.vox.com/2014/12/4/7332411/fart-flatulence)  
+</details>  
 
-   [8 facts about farting](https://m.youtube.com/watch?v=QLMn5ksRZ4U)  
+<details>
+  <summary>8 facts about farting</summary>
+   https://m.youtube.com/watch?v=QLMn5ksRZ4U  
+</details>  
 
   [Goto Top](#documentation)  
 
