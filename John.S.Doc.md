@@ -539,11 +539,17 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
 
 </details>  
 
-<details>  
-  <summary>SNL</summary>  
->>    [King Tut]
->>>    (https://m.youtube.com/watch?v=FYbavuReVF4]  
+<details>
+  <summary>SNL</summary>
+   <p>
 
+---
+  [King Tut]
+   (https://m.youtube.com/watch?v=FYbavuReVF4)  
+---
+
+    </p>
+</details>
 
   [Goto Top](#documentation)  
 </details>
