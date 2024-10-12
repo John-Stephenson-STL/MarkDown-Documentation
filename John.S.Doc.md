@@ -59,6 +59,10 @@
 
 </details>  
 
+### Vertical Nail Ridges
+
+  [Causes and Fix](https://m.youtube.com/watch?v=ZOSuKhhsE2M)  
+
 ### Farts
 
   [Why do people ___](https://m.youtube.com/watch?v=ccy-irqHwII)  
