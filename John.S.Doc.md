@@ -66,6 +66,9 @@
 ### Farts
 
 <details>
+  <summary>Informational</summary>  <br />
+
+<details>
   <summary>Why do people ___</summary>
    https://m.youtube.com/watch?v=ccy-irqHwI
 </details>  
@@ -81,6 +84,8 @@
 </details>  
 
   [Goto Top](#documentation)  
+
+</details>
 
 ###	Initial P.C. Setup  
 
