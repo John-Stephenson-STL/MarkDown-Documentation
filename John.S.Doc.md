@@ -713,6 +713,24 @@ https://m.youtube.com/watch?v=t0om43cmYP8
 
 ### Songs  
 
+<details>
+  <summary>Shambala</summary>  
+   <details>
+    <summary>Daniel Moore</summary>  
+     https://m.youtube.com/watch?v=tC88ayYrfx8
+
+   [Goto Top](#documentation)  
+  </details>  
+
+   <details>  
+    <summary>3DN -Three Dog Night</summary>
+       https://m.youtube.com/watch?v=xnyh6i9NvmE
+    
+   [Goto Top](#documentation)  
+
+   </details>
+</details>  
+
   [Candy Man](https://m.youtube.com/watch?v=OWYcMvMbUiE)  
 
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
