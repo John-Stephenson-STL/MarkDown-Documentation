@@ -235,6 +235,13 @@
 
 ## PROGRAMMING  
 
+### README.md
+
+<details>
+  <summary>How to Create a README.md file</summary>
+  https://medium.com/@kc_clintone/the-ultimate-guide-to-writing-a-great-readme-md-for-your-project-3d49c2023357
+</details>
+
 ### MarkDown  
 
 <details>
@@ -633,31 +640,28 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 </details>
 
 <details>
-<summary>Muppets Ringing the Bells</summary><br/ >
+  <summary>Muppets</summary>  
+   <details>
+    <summary>Muppets Ringing the Bells</summary>  
+      https://m.youtube.com/watch?v=S0psMcHw0LM
 
-https://m.youtube.com/watch?v=S0psMcHw0LM
+   [Goto Top](#documentation)  
+  </details>  
 
-  [Goto Top](#documentation)  
+   <details>  
+    <summary>Muppets Devil Went Down to Georgia</summary>
+       https://m.youtube.com/watch?v=FC9X8Xf3XRc
+    
+   [Goto Top](#documentation)  
 
-</details>  
+   </details>   
+   <details>   
+     <<summary>Muppets Devil went Down to Jamaica</summary>
+      https://m.youtube.com/watch?v=ip5e9NUvX6A
+   </details>   
 
-<details>
-<summary>Muppets Devil Went Down to Georgia</summary><br/ >
-https://m.youtube.com/watch?v=FC9X8Xf3XRc
+</details>
 
-  [Goto Top](#documentation)  
-
-</details>  
-
-<details>  
-<summary>Muppets Devil went Down to Jamaica</summary><br/ >
-https://m.youtube.com/watch?v=ip5e9NUvX6A
-
-  [Goto Top](#documentation)  
-
-</details>  
-
-<details>
 <summary>Amazon emahtskcblvdt</summary><br/ >
 https://m.youtube.com/watch?v=t0om43cmYP8
 
