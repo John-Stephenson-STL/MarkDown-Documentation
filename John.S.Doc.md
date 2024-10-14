@@ -43,8 +43,9 @@
 ### Math Tips  
 
 <details>  
-  <summary>% Tips</summary>  
-   https://m.youtube.com/watch?v=jSA8T-OC1dg  <br />  
+  <summary>Click here for more information</summary>  
+   https://m.youtube.com/watch?v=jSA8T-OC1dg  
+
 
    https://m.youtube.com/watch?v=cA4Jn6il-T8&pp=ygUvOTklIG9mIHBlb3BsZSBkb250IGtub3cgdGhpcyBzZWNyZXQgbWF0aCB0cmljayA%3D
 </details>
