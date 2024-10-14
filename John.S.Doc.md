@@ -39,10 +39,7 @@
 ### [Food](#food)  
 </details>  
 
-## Informational  
-
-<Informational<#informational>>
-<project URL#<header name>
+## This is for Information <a name="informational"></a>
 
 ### Math Tips  
 
