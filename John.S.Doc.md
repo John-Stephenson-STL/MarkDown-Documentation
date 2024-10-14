@@ -590,8 +590,8 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
   </details>  
 
    <details>  
-    <summary></summary>
-       
+    <summary>Amazon Go</summary>
+       https://m.youtube.com/watch?v=6Sx-6Z3aB-4
     
    [Goto Top](#documentation)  
 
@@ -840,5 +840,7 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   [Oreo Cookie Popcorn Recipe](https://www.u-createcrafts.com/oreo-cookie-popcorn-recipe/)  
   [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)  
   [DogTown Pizza](https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/)  
+
+  [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
 
   [Goto Top](#documentation)  
