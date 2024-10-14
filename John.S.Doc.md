@@ -600,6 +600,11 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
      <<summary>Common Knowledge</summary>
       https://m.youtube.com/watch?v=e0HGEZXTy8Y
    </details>   
+
+   <details>
+    <summary>Amazon HeadQuarters</summary>
+      https://m.youtube.com/watch?v=Xop8ug07KS8
+   </details>
 </details>
 
 <details>  
