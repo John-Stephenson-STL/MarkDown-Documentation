@@ -7,7 +7,10 @@
 <details>
 <summary>Table of Contents</summary>  
 
-[Informational](#informational)  
+### <a name="informational"></a>Informational
+
+
+<!-- [Informational](#informational)  -->
 [Scams](#scammers)
 [Farts](#farts)  
 [Initial PC Setup](#initial-pc-setup)  
