@@ -595,7 +595,11 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
     
    [Goto Top](#documentation)  
 
-   </details>
+   </details>   
+   <details>   
+     <<summary>Common Knowledge</summary>
+      https://m.youtube.com/watch?v=e0HGEZXTy8Y
+   </details>   
 </details>
 
 <details>  
