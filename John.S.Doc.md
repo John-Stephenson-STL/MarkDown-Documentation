@@ -612,6 +612,12 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
     <summary>Amazon HeadQuarters</summary>
       https://m.youtube.com/watch?v=Xop8ug07KS8
    </details>
+
+   <details>
+    <summary>Debate '76</summary>
+    https://m.youtube.com/watch?v=xu2vdE0z7ds
+   </details>
+
 </details>
 
 <details>  
