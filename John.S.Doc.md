@@ -668,8 +668,9 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
 </details>
 
-<summary>Amazon emahtskcblvdt</summary><br/ >
-https://m.youtube.com/watch?v=t0om43cmYP8
+<details>
+   <summary>Amazon emahtskcblvdt</summary><br/ >
+    https://m.youtube.com/watch?v=t0om43cmYP8
 
   [Goto Top](#documentation)  
 
