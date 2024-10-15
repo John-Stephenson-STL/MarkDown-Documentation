@@ -4,16 +4,13 @@
 
 # Profile 
 
-
-
 <details>  
 <summary>Table of Contents</summary>  
 
-
-[My Repositories](#repositories)  
-[Documentation](#docs)  
-[Accomplishments](#accomplishments)  
-[What I'm Working On](#what-i'm-working-on)    
+1. [My Repositories](#repositories)  <br>
+2. [Documentation](#docs)  <br>
+3. [Accomplishments](#accomplishments) <br>
+4. [What I'm Working On](#what-i'm-working-on) <br>
 
 </details>   
 
