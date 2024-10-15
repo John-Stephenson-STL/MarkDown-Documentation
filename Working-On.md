@@ -9,10 +9,10 @@
 <details>  
 <summary>Table of Contents</summary>  
 
-[Writing](#writing)  
-[Technical](#technical)  
-[Electronic](#electronic)  
-[List](#list)  
+1. [Writing](#writing)  <br>
+2. [Technical](#technical)  <br>
+3. [Electronic](#electronic) <br>
+4. [List](#list)  <br>
 
 </details>   
 
