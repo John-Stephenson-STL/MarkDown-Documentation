@@ -56,17 +56,17 @@
 | 09/14/2024 | STL John S | Added Informational | <br>
 | 09/15/2024 | STL John S | P.C. Backup | <br>
 | 09/16/2024 | STL John S | Initial P.C. Setup | <br>
-| 09/18/2024 | STL John S | 
-| 09/20/2024 | STL John S | 
-| 09/25/2024 | STL John S | 
-| 09/26/2024 | STL John S | 
-| 09/28/2024 | STL John S | 
-| 09/29/2024 | STL John S | 
+| 09/18/2024 | STL John S | |
+| 09/20/2024 | STL John S | |
+| 09/25/2024 | STL John S | |
+| 09/26/2024 | STL John S | |
+| 09/28/2024 | STL John S | |
+| 09/29/2024 | STL John S | |
 | 09/30/2024 | STL John S | Math Tips |
-| 
-| 
-| 
-| 
+| 10/01/2024 | STL John S | |
+| 10/05/2024 | STL John S | |
+| 10/07/2024 | STL John S | |
+| 10/09/2024 | STL John S | |
 | 10/10/2024 | STL John S | Verticle Nail Ridges |
 | 10/15/2024 | STL John S | ChangeLog |
 
