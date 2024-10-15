@@ -7,43 +7,54 @@
 <details>
 <summary>Table of Contents</summary>  
 
-1. [Informational](#informational) <br>
-    1.1. [Math Tips](#math-tips) <br>
-    1.2. [Scammers](#scammers) <br>
-    1.3. [Verticle Nail Ridges](#vertical-nail-ridges)
-2. [Initial P.C. Setup](#initial-pc-setup)
-3. [P.C. Backup](#pc-backup)
-4. [Databases](#databases)
-5. [Warnings](#warnings) <br>
-    5.1. [Firefox Browser](#firefox-browser) <br>
-    5.2. [JavaScript](#javascript) <br>
-    5.3. [QR Codes](#qr-codes) <br>
-6. [P.C. Setup](#pc-setup) <br>
-7. [Technical](#technical) <br>
-    7.1. [Gadgets](#gadgets) <br>
-    7.2. [LibreOffice](#libreoffice) <br>
-    7.3. [IDE](#ide) <br>
-    7.4. [NAS](#nas) <br>
-8. [Programming](#programming) <br>
-    8.1. [Table of Contents](#table-of-contents) <br>
-    8.2. [Reeadme.md](#readme-md) <br>
-    8.3. [Markdown](#markdown)  <br>
-9. [Build Tools](#build-tools)  <br>
-    9.1. [GIT](#git) <br>
-    9.2. [Languages](#languages) <br>  
-10. [How To](#how-to) <br>
-11. [Setup Writing ](#setup-writing) <br>
-12. [Anonymous E-mail](#send-anonymous-email) <br>
-13. [Apple](#apple)  <br>
-    13.1. [iTunes](#itunes)  <br>
-14. [Quotes](#quotes)  <br>
-15. [Songs](#songs)  <br>
-16. [iPhone](#iphone)  <br>
-17. [MagSafe](#magsafe)  <br>
-18. [EyeGlasses](#eyeglasses) <br> 
-19. [D.I.Y.](#diy)  <br>
-20. [Food](#food)  <br>
+1. [ChangeLog](#changelog) <br>
+2. [Informational](#informational) <br>
+    2.1. [Math Tips](#math-tips) <br>
+    2.2. [Scammers](#scammers) <br>
+    2.3. [Verticle Nail Ridges](#vertical-nail-ridges)
+3. [Initial P.C. Setup](#initial-pc-setup)
+4. [P.C. Backup](#pc-backup)
+5. [Databases](#databases)
+6. [Warnings](#warnings) <br>
+    6.1. [Firefox Browser](#firefox-browser) <br>
+    6.2. [JavaScript](#javascript) <br>
+    6.3. [QR Codes](#qr-codes) <br>
+7. [P.C. Setup](#pc-setup) <br>
+8. [Technical](#technical) <br>
+    8.1. [Gadgets](#gadgets) <br>
+    8.2. [LibreOffice](#libreoffice) <br>
+    8.3. [IDE](#ide) <br>
+    8.4. [NAS](#nas) <br>
+9. [Programming](#programming) <br>
+    9.1. [Table of Contents](#table-of-contents) <br>
+    9.2. [Reeadme.md](#readme-md) <br>
+    9.3. [Markdown](#markdown)  <br>
+10. [Build Tools](#build-tools)  <br>
+    10.1. [GIT](#git) <br>
+    10.2. [Languages](#languages) <br>  
+11. [How To](#how-to) <br>
+12. [Setup Writing ](#setup-writing) <br>
+13. [Anonymous E-mail](#send-anonymous-email) <br>
+14. [Apple](#apple)  <br>
+    14.1. [iTunes](#itunes)  <br>
+15. [Quotes](#quotes)  <br>
+16. [Songs](#songs)  <br>
+17. [iPhone](#iphone)  <br>
+18. [MagSafe](#magsafe)  <br>
+19. [EyeGlasses](#eyeglasses) <br> 
+20. [D.I.Y.](#diy)  <br>
+21. [Food](#food)  <br>
 </details>  
+
+# ChangeLog
+
+<details>
+  <summary>Details about this ChangeLog</summary>
+| Date  | Owner | Reason for Change
+| ------------- | ------------- |
+| 09/14/2024  | STL John S  | Initial Commit |
+| 09/14/2024  | STL John S  | Added Informational |
+</details>
 
 # Informational <a name="informational"></a>
 
