@@ -1,14 +1,11 @@
 | title | author | date created
 | -------- | ------- | -------|
 | Documentation | John Stephenson | 9-12-2024 |  
-   
-<!--
-# Table of Contents  
--->
+
 <details>  
 <summary>Table of Contents</summary>  
 
-[Accomplishments](#accomplishments)  
+1. [Accomplishments](#accomplishments) <br>
 </details>  
 <h1>Accomplishments</h1> 
     <h4>1. Easy to get along with</h4>  
