@@ -50,10 +50,10 @@
 
 <details>
   <summary>Details about this ChangeLog</summary>
-| Date  | Owner | Reason for Change |
-| ------------- | ------------- | ------------- |
-| 09/14/2024  | STL John S  | Initial Commit |
-| 09/14/2024  | STL John S  | Added Informational |
+| Date  | Owner | Reason for Change | <br>
+| ------------- | ------------- | ------------- | <br>
+| 09/14/2024  | STL John S  | Initial Commit | <br>
+| 09/14/2024  | STL John S  | Added Informational | <br>
 </details>
 
 # Informational <a name="informational"></a>
