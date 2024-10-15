@@ -32,17 +32,17 @@
     9.1. [GIT](#git) <br>
     9.2. [Languages](#languages) <br>  
 10. [How To](#how-to) <br>
-### [Setup Writing ](#setup-writing)  
-### [Anonymous E-mail](#send-anonymous-email)  
-### [Apple](#apple)  
-#### &nbsp;&nbsp;&nbsp;&nbsp;[iTunes](#itunes)  
-### [Quotes](#quotes)  
-### [Songs](#songs)  
-### [iPhone](#iphone)  
-### [MagSafe](#magsafe)  
-### [EyeGlasses](#eyeglasses)  
-### [D.I.Y.](#diy)  
-### [Food](#food)  
+11. [Setup Writing ](#setup-writing) <br>
+12. [Anonymous E-mail](#send-anonymous-email) <br>
+13. [Apple](#apple)  <br>
+    13.1. [iTunes](#itunes)  <br>
+14. [Quotes](#quotes)  <br>
+15. [Songs](#songs)  <br>
+16. [iPhone](#iphone)  <br>
+17. [MagSafe](#magsafe)  <br>
+18. [EyeGlasses](#eyeglasses) <br> 
+19. [D.I.Y.](#diy)  <br>
+20. [Food](#food)  <br>
 </details>  
 
 # Informational <a name="informational"></a>
