@@ -29,11 +29,12 @@
 
 
 
-
+<!--
 ### [Gadgets](#gadgets)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[LibreOffice](#libreoffice)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[IDE](#ide)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
+-->
 ### [Programming](#programming)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
 ### [Build Tools](#build-tools)  
