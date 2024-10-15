@@ -46,7 +46,6 @@
 </details>  
 
 # Informational <a name="informational"></a>
-Heading 1
 
 ### Math Tips <a name="math-tips"></a>
 
@@ -82,20 +81,24 @@ Heading 1
 
 <details>
   <summary>Why do people ___</summary>
-   https://m.youtube.com/watch?v=ccy-irqHwI
+   https://m.youtube.com/watch?v=ccy-irqHwI <br>
+
+  [Goto Top](#documentation)  
 </details>  
 
 <details>
   <summary>9 Surprising Facts about</summary>
-   https://www.vox.com/2014/12/4/7332411/fart-flatulence)  
+   https://www.vox.com/2014/12/4/7332411/fart-flatulence)  <br>
+    
+ [Goto Top](#documentation)  
 </details>  
 
 <details>
   <summary>8 facts about farting</summary>
-   https://m.youtube.com/watch?v=QLMn5ksRZ4U  
-</details>  
+   https://m.youtube.com/watch?v=QLMn5ksRZ4U  <br>
 
   [Goto Top](#documentation)  
+</details>  
 
 </details>
 
@@ -198,17 +201,26 @@ Heading 1
 
    <details>
      <summary>Somebody's Watching Me</summary>  
-      https://m.youtube.com/watch?v=zD_rEpe6JwU
+      https://m.youtube.com/watch?v=zD_rEpe6JwU <br >
+
+  [Goto Top](#documentation)  
+
    </details>  
 
    <details>
     <summary>GhostBustets</summary>
-      https://m.youtube.com/watch?v=F-2-h3Yjfao
+      https://m.youtube.com/watch?v=F-2-h3Yjfao <br >
+
+  [Goto Top](#documentation)  
+
    </details>  
 
    <details>
     <summary>Pumpkin Head Harvey</summary>
-      https://m.youtube.com/watch?v=nxJklhs8t7M
+      https://m.youtube.com/watch?v=nxJklhs8t7M <br >
+
+  [Goto Top](#documentation)  
+
    </details>
 
   https://m.youtube.com/watch?v=8F5zwI9Ir6I&t=2s&pp=2AECkAIB
