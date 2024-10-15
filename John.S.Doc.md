@@ -14,21 +14,21 @@
 2. [Initial P.C. Setup](#initial-pc-setup)
 3. [P.C. Backup](#pc-backup)
 4. [Databases](#databases)
-5. [Warnings](#warnings)
-    5.1. [Firefox Browser](#firefox-browser)
-    5.2. [JavaScript](#javascript)
-    5.3. [QR Codes](#qr-codes)
-6. [P.C. Setup](#pc-setup)
-7. [Technical](#technical)
-    7.1. [Gadgets](#gadgets)
+5. [Warnings](#warnings) <br>
+    5.1. [Firefox Browser](#firefox-browser) <br>
+    5.2. [JavaScript](#javascript) <br>
+    5.3. [QR Codes](#qr-codes) <br>
+6. [P.C. Setup](#pc-setup) <br>
+7. [Technical](#technical) <br>
+    7.1. [Gadgets](#gadgets) <br>
     7.2. [LibreOffice](#libreoffice) <br>
-    7.3. [IDE](#ide)
-    7.4. [NAS](#nas)
-8. [Programming](#programming) 
-    8.1. [Table of Contents](#table-of-contents)
-    8.2. [Reeadme.md](#readme-md)
-    8.3. [Markdown](#markdown)  
-9. [Build Tools](#build-tools)  
+    7.3. [IDE](#ide) <br>
+    7.4. [NAS](#nas) <br>
+8. [Programming](#programming) <br>
+    8.1. [Table of Contents](#table-of-contents) <br>
+    8.2. [Reeadme.md](#readme-md) <br>
+    8.3. [Markdown](#markdown)  <br>
+9. [Build Tools](#build-tools)  <br>
 ### [Languages](#languages)   
 ### [Setup Writing ](#setup-writing)  
 ### [Anonymous E-mail](#send-anonymous-email)  
