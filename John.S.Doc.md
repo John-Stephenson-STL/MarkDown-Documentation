@@ -9,9 +9,9 @@
 
 1. [Informational](#informational) <br>
     1.1. [sub-title](#math-tips) <br>
-    1.2. [sub-title](#scams) <br>
-    1.3. [sub-sub-title](#vertical-nail-trimmer)
-    1.4. [sub-sub-sub-title](#sub_sub_sub_title)
+    1.2. [sub-title](#scammers) <br>
+    1.3. [sub-sub-title](#vertical-nail-ridges)
+2. [sub-sub-sub-title](#initial-p-c-setup)
 
 <!--
 ### [Scams](#scammers)
