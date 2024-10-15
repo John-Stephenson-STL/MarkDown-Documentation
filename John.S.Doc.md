@@ -14,17 +14,19 @@
 2. [Initial-p-c-Setup](#initial-p-c-setup)
 3. [P.C. Backup](#p-c-backup)
 4. [Databases](#databases)
-5. [Farts](#farts)
+5. [Warnings](#warnings)
+6. [P.C. Setup](#p-c-setup)
+6. [Technical](#technical)
 <!--
 ### 4.1. Farts <a name="farts--1-1"/>
 ### [Initial PC Setup](#initial-pc-setup)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[P.C. Backup](#pc-backup)  
-### [Databases](#databases)  -->
+### [Databases](#databases)  
 ### [Warnings](#warnings)  
 ### [Setup](#pc-setup)  
 ### [Technical](#technical)  
-
+-->
 1. [Gadgets](#gadgets) <br>
     1.1. [sub-title](#libreoffice) <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#ide)
