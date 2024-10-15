@@ -15,6 +15,9 @@
 3. [P.C. Backup](#p-c-backup)
 4. [Databases](#databases)
 5. [Warnings](#warnings)
+    5.1. [Firefox Browsers](#firefox-browsers)
+    5.2. [JavaScript](#javascript)
+    5.3. [QR Codes](#q-r-codes)
 6. [P.C. Setup](#p-c-setup)
 6. [Technical](#technical)
 <!--
