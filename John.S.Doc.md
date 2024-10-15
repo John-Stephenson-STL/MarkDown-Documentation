@@ -31,6 +31,7 @@
 9. [Build Tools](#build-tools)  <br>
     9.1. [GIT](#git) <br>
     9.2. [Languages](#languages) <br>  
+10. [How To](#how-to) <br>
 ### [Setup Writing ](#setup-writing)  
 ### [Anonymous E-mail](#send-anonymous-email)  
 ### [Apple](#apple)  
