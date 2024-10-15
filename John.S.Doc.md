@@ -7,16 +7,8 @@
 <details>
 <summary>Table of Contents</summary>  
 
-# My Table of content
 - [Informational](#id-section1)
 - [Section 2](#id-section2)
-
-<
-
-
-
-
-### [Informational](#informational)
 ### [Scams](#scammers)
 ### [Vertical Nail Ridges](#vertical-nail-ridges)
 ### [Farts](#farts)  
