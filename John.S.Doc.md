@@ -7,8 +7,25 @@
 <details>
 <summary>Table of Contents</summary>  
 
-- [Informational](#id-section1)
-- [Section 2](#id-section2)
+## informational
+
+**[1. Markdown](#heading--1)**
+
+  * [1.1. Markdown formatting cheatsheet](#heading--1-1)
+  * [1.2. Markdown formatting details](#heading--1-2)
+
+**[2. BBCode formatting](#heading--2)**
+
+  * [2.1. Basic text formatting](#heading--2-1)
+
+      * [2.1.1. Not so basic text formatting](#heading--2-1-1)
+
+  * [2.2. Lists, Images, Code](#heading--2-2)
+  * [2.3. Special features](#heading--2-3)
+
+
+
+
 ### [Scams](#scammers)
 ### [Vertical Nail Ridges](#vertical-nail-ridges)
 ### [Farts](#farts)  
@@ -41,6 +58,9 @@
 </details>  
 
 ## This is for Information <a name="informational"></a>
+
+### 1.1. Markdown formatting cheatsheet <a name="heading--1-1"/>
+
 
 <div id='id-informational'/>
 ## Section 1
