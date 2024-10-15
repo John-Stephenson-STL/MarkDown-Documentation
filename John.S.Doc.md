@@ -26,7 +26,7 @@
     7.4. [NAS](#nas)
 8. [Programming](#programming) 
     8.1. [Table of Contents](#table-of-contents)
-    8.2. [Reeadme](#readme)
+    8.2. [Reeadme.md](#readme-md)
     8.3. [Markdown](#markdown)  
 9. [Build Tools](#build-tools)  
 ### [Languages](#languages)   
