@@ -8,11 +8,15 @@
 <summary>Table of Contents</summary>  
 
 
-**[1. Informational](#heading--1)**
-  * [1.1. Markdown formatting cheatsheet](#heading--1-1)
-  * [1.2. Markdown formatting details](#heading--1-2)
+1. [Informational](#informational) <br>
+    1.1. [sub-title](#scams) <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#vertical-nail-trimmer)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#sub_sub_sub_title)
+
+<!--
 ### [Scams](#scammers)
 ### [Vertical Nail Ridges](#vertical-nail-ridges)
+-->
 ### 4.1. Farts <a name="farts--1-1"/>
 ### [Initial PC Setup](#initial-pc-setup)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
@@ -43,6 +47,11 @@
 ### [D.I.Y.](#diy)  
 ### [Food](#food)  
 </details>  
+
+# Informational <a name="informational"></a>
+Heading 1
+
+
 
 ## This is for Information <a name="informational"></a>
 
