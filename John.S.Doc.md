@@ -23,18 +23,10 @@
 ### [Technical](#technical)  
 
 1. [Gadgets](#gadgets) <br>
-    1.1. [libreoffice](#libreoffice) <br>
+    1.1. [sub-title](#libreoffice) <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#ide)
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#nas)
 
-
-
-<!--
-### [Gadgets](#gadgets)  
-#### &nbsp;&nbsp;&nbsp;&nbsp;[LibreOffice](#libreoffice)  
-#### &nbsp;&nbsp;&nbsp;&nbsp;[IDE](#ide)  
-#### &nbsp;&nbsp;&nbsp;&nbsp;[NAS](#nas)   
--->
 ### [Programming](#programming)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
 ### [Build Tools](#build-tools)  
@@ -197,6 +189,9 @@
 ## TECHNICAL  
 ### Gadgets <a name="gadgets"></a>
 Heading 1
+
+## Sub-Title <a name="libreoffice"></a>
+Heading 2
 
 ## Sub-Title <a name="ide"></a>
 Heading 2
