@@ -13,7 +13,10 @@
   * [1.2. Markdown formatting details](#heading--1-2)
 ### [Scams](#scammers)
 ### [Vertical Nail Ridges](#vertical-nail-ridges)
-### [Farts](#farts)  
+### 4.1. Farts <a name="farts--1-1"/>
+
+
+<!-- ### [Farts](#farts)  -->
 ### [Initial PC Setup](#initial-pc-setup)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[P.C. Backup](#pc-backup)  
@@ -81,10 +84,8 @@
 
   [Causes and Fix](https://m.youtube.com/watch?v=ZOSuKhhsE2M)  
 
-## <a name="farts" /> Farts
 
-
-
+**[1. farts](#farts--1)**
 <details>
   <summary>Informational</summary>  <br />
 
