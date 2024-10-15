@@ -264,7 +264,7 @@ Heading 4
       6. Peacock  
       7. vscode pets  
 
-  [Goto Top](#documentation)  
+   [Goto Top](#documentation)  
 
 ### NAS   
 
@@ -276,6 +276,63 @@ Heading 4
 
 ### ToC ( Table of Contents )  
   [Create ToC](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents#27953547)
+
+<details>
+ <summary>ToC Inspiration</summary>
+
+> I used the text from answered Jan 28, 2019 at 3:02
+> Gabriel L.
+
+
+
+> For me, the solution proposed by @Tum works like a charm for a table of contents with 2 levels. However, for the 3rd level it didn't work. It didn't display the link as for the first 2 levels, it displays the plain text 3.5.1. [bla bla bla](#blablabla) <br> instead.
+
+> My solution is an addition to the solution of @Tum (which is very simple) for people who need a table of contents with 3 levels or more. 
+
+> On the second level, a simple tab will do the indent correctly for you. But it doesn't support 2 tabs. Instead, you have to use one tab and add as many &nbsp; as needed yourself in order to align the 3rd level correctly.
+
+> Here's an example using 4 levels (higher the levels, awful it becomes):
+
+> # Table of Contents
+>  1. [Title](#title) <br>
+>     1.1. [sub-title](#sub_title) <br>
+>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#sub_sub_title)
+>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#sub_sub_sub_title)
+
+> # Title <a name="title"></a>
+> Heading 1
+
+> ## Sub-Title <a name="sub_title"></a>
+> Heading 2
+
+> ### Sub-Sub-Title <a name="sub_sub_title"></a>
+> Heading 3
+
+> #### Sub-Sub-Sub-Title <a name="sub_sub_sub_title"></a>
+> Heading 4
+> This gives the following result where every element of the table of contents is a link to its corresponding section. Note also the <br> in order to add a new line instead of being on the same line.
+
+> Table of Contents
+
+> Title 
+> 1.1. Sub-Title 
+>        1.1.1. Sub-Sub-Title 
+>                  1.1.1.1. Sub-Sub-Sub-Title
+> Title 
+
+> Heading 1
+
+> Sub-Title 
+
+> Heading 2
+
+> Sub-Sub-Title 
+
+> Heading 3
+
+> Sub-Sub-Sub-Title 
+> Heading 4
+</details>
 
 ### README.md
 
