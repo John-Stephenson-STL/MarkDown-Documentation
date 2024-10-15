@@ -12,11 +12,8 @@
     1.2. [sub-title](#scammers) <br>
     1.3. [sub-sub-title](#vertical-nail-ridges)
 2. [sub-sub-sub-title](#initial-p-c-setup)
+3. [P.C. Backup](#p-c-backup)
 
-<!--
-### [Scams](#scammers)
-### [Vertical Nail Ridges](#vertical-nail-ridges)
--->
 ### 4.1. Farts <a name="farts--1-1"/>
 ### [Initial PC Setup](#initial-pc-setup)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
