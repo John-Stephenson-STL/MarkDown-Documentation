@@ -7,6 +7,15 @@
 <details>
 <summary>Table of Contents</summary>  
 
+# My Table of content
+- [Informational](#id-section1)
+- [Section 2](#id-section2)
+
+<
+
+
+
+
 ### [Informational](#informational)
 ### [Scams](#scammers)
 ### [Vertical Nail Ridges](#vertical-nail-ridges)
@@ -40,6 +49,13 @@
 </details>  
 
 ## This is for Information <a name="informational"></a>
+
+<div id='id-informational'/>
+## Section 1
+<div id='id-section2'/>
+## Section 2
+
+
 
 ### Math Tips  
 
