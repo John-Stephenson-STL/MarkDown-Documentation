@@ -274,8 +274,8 @@ Heading 4
 
 ## PROGRAMMING  
 
-### ToC ( Table of Contents  
-  [[Create ToC](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents#27953547)
+### ToC ( Table of Contents )  
+  [Create ToC](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents#27953547)
 
 ### README.md
 
