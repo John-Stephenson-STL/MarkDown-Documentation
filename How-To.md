@@ -7,17 +7,17 @@
 <details>  
 <summary>Table of Contents</summary>  
 
-[How To](#how_to)  
-[Samsung Tv](#samsung)  
-[Writing Style](#writing_style)  
-[Standards](#standards)  
-[Earn Respect from Others](#earn-respect-from-others)    
+1. [How To](#how-to) <br>
+    1.1. [Samsung TV](#samsung_tv) <br>
+2. [Writing Style](#writing-style) <br>
+    2.1. [Standards](#standards) <br>
+3. [Earn Respect from Others](#earn-respect-from-others) <br>
 
 </details>   
 
-# How To  
+# How To  <a name="how-to"> <br>
 
-## Samsung TV
+## Samsung TV <a name="samsung-tv") <br>
 >> [Model](#UN55TU850DFXZA)  
 
 ## Writing Style  
