@@ -12,13 +12,13 @@
     1.2. [Scammers](#scammers) <br>
     1.3. [Verticle Nail Ridges](#vertical-nail-ridges)
 2. [Initial-p-c-Setup](#initial-p-c-setup)
-3. [P.C. Backup](#p-c-backup)
+3. [P.C. Backup](#pc-backup)
 4. [Databases](#databases)
 5. [Warnings](#warnings)
-    5.1. [Firefox Browsers](#firefox-browsers)
+    5.1. [Firefox Browser](#firefox-browser)
     5.2. [JavaScript](#javascript)
     5.3. [QR Codes](#qr-codes)
-6. [P.C. Setup](#p-c-setup)
+6. [P.C. Setup](#pc-setup)
 7. [Technical](#technical)
     7.1. [Gadgets](#gadgets)
     7.2. [LibreOffice](#libreoffice) <br>
@@ -107,7 +107,7 @@ Heading 1
 
   [Goto Top](#documentation)  
 
-### P.C. Backup
+### PC Backup
 
 ## Databases
   [Free Hosting](https://m.youtube.com/watch?v=cYP0k_shdWc)  
@@ -146,7 +146,7 @@ Heading 1
 
   [Goto Top](#documentation)  
 
-## P.C. Setup  <br />
+## PC Setup 
 <details>
   <summary>Choices</summary>  <br />
 
