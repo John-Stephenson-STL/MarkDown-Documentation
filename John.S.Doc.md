@@ -11,7 +11,7 @@
     1.1. [Math Tips](#math-tips) <br>
     1.2. [Scammers](#scammers) <br>
     1.3. [Verticle Nail Ridges](#vertical-nail-ridges)
-2. [Initial-p-c-Setup](#initial-p-c-setup)
+2. [Initial P.C. Setup](#initial-pc-setup)
 3. [P.C. Backup](#pc-backup)
 4. [Databases](#databases)
 5. [Warnings](#warnings)
@@ -97,7 +97,7 @@ Heading 1
 
 </details>
 
-###	Initial P.C. Setup  
+###	Initial PC Setup  
 
  [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
