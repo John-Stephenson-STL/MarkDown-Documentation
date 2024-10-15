@@ -7,11 +7,11 @@
 <details>
 <summary>Table of Contents</summary>  
 
-
 1. [Informational](#informational) <br>
-    1.1. [sub-title](#scams) <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#vertical-nail-trimmer)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#sub_sub_sub_title)
+    1.1. [sub-title](#math-tips) <br>
+    1.2. [sub-title](#scams) <br>
+    1.3. [sub-sub-title](#vertical-nail-trimmer)
+    1.4. [sub-sub-sub-title](#sub_sub_sub_title)
 
 <!--
 ### [Scams](#scammers)
@@ -51,21 +51,7 @@
 # Informational <a name="informational"></a>
 Heading 1
 
-
-
-## This is for Information <a name="informational"></a>
-
-### 1.1. Markdown formatting cheatsheet <a name="heading--1-1"/>
-
-
-<div id='id-informational'/>
-## Section 1
-<div id='id-section2'/>
-## Section 2
-
-
-
-### Math Tips  
+### Math Tips <a name="math-tips"></a>
 
 <details>  
  <summary>Click here for more details</summary>  
