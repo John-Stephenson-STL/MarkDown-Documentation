@@ -24,8 +24,8 @@
 
 1. [Gadgets](#gadgets) <br>
     1.1. [libreoffice](#libreoffice) <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#sub_sub_title)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#sub_sub_sub_title)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#ide)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#nas)
 
 
 
@@ -197,16 +197,14 @@
 ### Gadgets <a name="gadgets"></a>
 Heading 1
 
-## Sub-Title <a name="sub_title"></a>
+## Sub-Title <a name="ide"></a>
 Heading 2
 
-### Sub-Sub-Title <a name="sub_sub_title"></a>
+### Sub-Sub-Title <a name="nas"></a>
 Heading 3
 
 #### Sub-Sub-Sub-Title <a name="sub_sub_sub_title"></a>
 Heading 4
-
-
 
 
 
