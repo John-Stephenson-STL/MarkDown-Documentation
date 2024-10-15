@@ -52,8 +52,86 @@
   <summary>Details about this ChangeLog</summary>
 | Date  | Owner | Reason for Change | <br>
 | ------------- | ------------- | ------------- | <br>
-| 09/14/2024  | STL John S  | Initial Commit | <br>
-| 09/14/2024  | STL John S  | Added Informational | <br>
+| 09/14/2024 | STL John S | Initial Commit | <br>
+| 09/14/2024 | STL John S | Added Informational | <br>
+| 09/15/2024 | STL John S | P.C. Backup | <br>
+| 09/16/2024 | STL John S | Initial P.C. Setup | <br>
+| 09/18/2024 | STL John S | 
+| 09/20/2024 | STL John S | 
+| 09/25/2024 | STL John S | 
+| 09/26/2024 | STL John S | 
+| 09/28/2024 | STL John S | 
+| 09/29/2024 | STL John S | 
+| 09/30/2024 | STL John S | Math Tips |
+| 
+| 
+| 
+| 
+| 10/10/2024 | STL John S | Verticle Nail Ridges |
+| 10/15/2024 | STL John S | ChangeLog |
+
+ 
+
+
+Databases
+Warnings
+    6.1. 
+Firefox Browser
+    6.2. 
+JavaScript
+    6.3. 
+QR Codes
+7. 
+P.C. Setup
+8. 
+Technical
+    8.1. 
+Gadgets
+    8.2. 
+LibreOffice
+    8.3. 
+IDE
+    8.4. 
+NAS
+9. 
+Programming
+    9.1. 
+Table of Contents
+    9.2. 
+Readme.md
+    9.3. 
+Markdown
+10. 
+Build Tools
+    10.1. 
+GIT
+    10.2. 
+Languages
+11. 
+How To
+12. 
+Setup Writing
+13. 
+ Anonymous E-mail
+14. 
+Apple
+    14.1. 
+iTunes
+15. 
+Quotes
+16. 
+Songs
+17. 
+iPhone
+18. 
+MagSafe
+19. 
+EyeGlasses 
+20. 
+D.I.Y.
+21. 
+Food
+
 </details>
 
 # Informational <a name="informational"></a>
