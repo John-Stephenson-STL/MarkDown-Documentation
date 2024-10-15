@@ -8,10 +8,10 @@
 <summary>Table of Contents</summary>  
 
 1. [Informational](#informational) <br>
-    1.1. [sub-title](#math-tips) <br>
-    1.2. [sub-title](#scammers) <br>
-    1.3. [sub-sub-title](#vertical-nail-ridges)
-2. [sub-sub-sub-title](#initial-p-c-setup)
+    1.1. [Math Tips](#math-tips) <br>
+    1.2. [Scammers](#scammers) <br>
+    1.3. [Verticle Nail Ridges](#vertical-nail-ridges)
+2. [Initial-p-c-Setup](#initial-p-c-setup)
 3. [P.C. Backup](#p-c-backup)
 4. [Databases](#databases)
 ### 4.1. Farts <a name="farts--1-1"/>
