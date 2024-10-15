@@ -17,23 +17,13 @@
 5. [Warnings](#warnings)
     5.1. [Firefox Browsers](#firefox-browsers)
     5.2. [JavaScript](#javascript)
-    5.3. [QR Codes](#q-r-codes)
+    5.3. [QR Codes](#qr-codes)
 6. [P.C. Setup](#p-c-setup)
-6. [Technical](#technical)
-<!--
-### 4.1. Farts <a name="farts--1-1"/>
-### [Initial PC Setup](#initial-pc-setup)  
-#### &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
-#### &nbsp;&nbsp;&nbsp;&nbsp;[P.C. Backup](#pc-backup)  
-### [Databases](#databases)  
-### [Warnings](#warnings)  
-### [Setup](#pc-setup)  
-### [Technical](#technical)  
--->
-1. [Gadgets](#gadgets) <br>
-    1.1. [sub-title](#libreoffice) <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#ide)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#nas)
+7. [Technical](#technical)
+    7.1. [Gadgets](#gadgets)
+    7.2. [LibreOffice](#libreoffice) <br>
+    7.3. [IDE](#ide)
+    7.4. [NAS](#nas)
 
 ### [Programming](#programming)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Markdown](#markdown)  
@@ -186,23 +176,6 @@ Heading 1
 </details>  
 
 ## TECHNICAL  
-### Gadgets <a name="gadgets"></a>
-Heading 1
-
-## Sub-Title <a name="libreoffice"></a>
-Heading 2
-
-## Sub-Title <a name="ide"></a>
-Heading 2
-
-### Sub-Sub-Title <a name="nas"></a>
-Heading 3
-
-#### Sub-Sub-Sub-Title <a name="sub_sub_sub_title"></a>
-Heading 4
-
-
-
 
   ### Gadgets  
    [Google Search](https://www.google.com/search?q=satechi+usb+c+combo+hub&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)  
