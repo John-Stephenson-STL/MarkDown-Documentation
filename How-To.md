@@ -17,7 +17,7 @@
 
 # How To  <a name="how-to"> <br>
 
-## Samsung TV <a name="samsung-tv") <br>
+## Samsung TV
 >> [Model](#UN55TU850DFXZA)  
 
 ## Writing Style  
