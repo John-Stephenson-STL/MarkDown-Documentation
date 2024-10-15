@@ -14,9 +14,6 @@
 ### [Scams](#scammers)
 ### [Vertical Nail Ridges](#vertical-nail-ridges)
 ### 4.1. Farts <a name="farts--1-1"/>
-
-
-<!-- ### [Farts](#farts)  -->
 ### [Initial PC Setup](#initial-pc-setup)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[P.C. Backup](#pc-backup)  
@@ -24,6 +21,15 @@
 ### [Warnings](#warnings)  
 ### [Setup](#pc-setup)  
 ### [Technical](#technical)  
+
+1. [Gadgets](#gadgets) <br>
+    1.1. [libreoffice](#libreoffice) <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#sub_sub_title)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1. [sub-sub-sub-title](#sub_sub_sub_title)
+
+
+
+
 ### [Gadgets](#gadgets)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[LibreOffice](#libreoffice)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[IDE](#ide)  
@@ -188,6 +194,23 @@
 </details>  
 
 ## TECHNICAL  
+### Gadgets <a name="gadgets"></a>
+Heading 1
+
+## Sub-Title <a name="sub_title"></a>
+Heading 2
+
+### Sub-Sub-Title <a name="sub_sub_title"></a>
+Heading 3
+
+#### Sub-Sub-Sub-Title <a name="sub_sub_sub_title"></a>
+Heading 4
+
+
+
+
+
+
   ### Gadgets  
    [Google Search](https://www.google.com/search?q=satechi+usb+c+combo+hub&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)  
    [Amazon Search](https://www.amazon.com/Achoro-Ports-USB-3-0-High-Speed/dp/B08ZSY33BM/ref=asc_df_B07PYHBKWJ/?tag=hyprod-20&linkCode=df0&hvadid=693535620612&hvpos=&hvnetw=g&hvrand=18132658606510315003&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-813253721517&psc=1&mcid=702c02645d74309faf7eee41f67b310e&gad_source=1&th=1)  
