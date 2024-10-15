@@ -14,8 +14,9 @@
 2. [Initial-p-c-Setup](#initial-p-c-setup)
 3. [P.C. Backup](#p-c-backup)
 4. [Databases](#databases)
-### 4.1. Farts <a name="farts--1-1"/>
+5. [Farts](#farts)
 <!--
+### 4.1. Farts <a name="farts--1-1"/>
 ### [Initial PC Setup](#initial-pc-setup)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[How To](#how-to)  
 #### &nbsp;&nbsp;&nbsp;&nbsp;[P.C. Backup](#pc-backup)  
