@@ -8,7 +8,7 @@
 <summary>Table of Contents</summary>  
 
 1. [How To](#how-to) <br>
-    1.1. [Samsung TV](#samsung_tv) <br>
+    1.1. [TV](#tv) <br>
 2. [Writing Style](#writing-style) <br>
     2.1. [Standards](#standards) <br>
 3. [Earn Respect from Others](#earn-respect-from-others) <br>
@@ -17,7 +17,7 @@
 
 # How To  <a name="how-to"> <br>
 
-## Samsung TV
+## TV
 >> [Model](#UN55TU850DFXZA)  
 
 ## Writing Style  
