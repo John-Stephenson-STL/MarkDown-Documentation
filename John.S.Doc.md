@@ -75,7 +75,7 @@
   [Causes and Fix](https://m.youtube.com/watch?v=ZOSuKhhsE2M)  
 
 
-**[1. farts](#farts--1)**
+**[Farts](#farts--1)**
 <details>
   <summary>Informational</summary>  <br />
 
