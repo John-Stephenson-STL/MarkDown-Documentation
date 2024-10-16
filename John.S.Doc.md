@@ -56,81 +56,23 @@
 | 09/14/2024 | STL John S | Added Informational | <br>
 | 09/15/2024 | STL John S | P.C. Backup | <br>
 | 09/16/2024 | STL John S | Initial P.C. Setup | <br>
-| 09/18/2024 | STL John S | | <br>
-| 09/20/2024 | STL John S | | <br>
-| 09/25/2024 | STL John S | | <br>
-| 09/26/2024 | STL John S | | <br>
-| 09/28/2024 | STL John S | | <br>
-| 09/29/2024 | STL John S | | <br>
-| 09/30/2024 | STL John S | Added Math Tips | <br>
-| 10/01/2024 | STL John S | | <br>
-| 10/05/2024 | STL John S | | <br>
-| 10/07/2024 | STL John S | | <br>
-| 10/09/2024 | STL John S | | <br>
-| 10/10/2024 | STL John S | Verticle Nail Ridges | <br>
-| 10/15/2024 | STL John S | ChangeLog | <br>
-
+| 09/18/2024 | STL John S | Added Databases | <br>
+| 09/20/2024 | STL John S | Added Songs, Apple, iTunes | <br>
+| 09/25/2024 | STL John S | Added EyeGlasses, D.I.Y., Food, Quotes | <br>
+| 09/26/2024 | STL John S | Added Setup Writing | <br>
+| 09/28/2024 | STL John S | Added Anonymous E-mail | <br>
+| 09/29/2024 | STL John S | Added P.C. Setup, Technical, Programming, Build Tools, GIT, How To, iPhone , MagSafe | <br>
+| 09/30/2024 | STL John S | Added Gadgets, Languages, LibreOffice, IDE, NAS, Math Tips | <br>
+| 10/01/2024 | STL John S | Added QR Codes, MarkDown, README.md | <br>
+| 10/05/2024 | STL John S | Added JavaScript | <br>
+| 10/07/2024 | STL John S | Added Firefox Browser | <br>
+| 10/09/2024 | STL John S | Added Warnings | <br>
+| 10/10/2024 | STL John S | Added Verticle Nail Ridges | <br>
+| 10/11/2024 | STL John S | Added && Revised ToC ( Table of Contents ) | <br >
+| 10/15/2024 | STL John S | Added ChangeLog | <br>
+| 10/15/2024 | STL John S | Fixed Readme link | <br>
+  
   [Goto Top](#documentation)  
-
-
-Databases
-Warnings
-    6.1. 
-Firefox Browser
-    6.2. 
-JavaScript
-    6.3. 
-QR Codes
-7. 
-P.C. Setup
-8. 
-Technical
-    8.1. 
-Gadgets
-    8.2. 
-LibreOffice
-    8.3. 
-IDE
-    8.4. 
-NAS
-9. 
-Programming
-    9.1. 
-Table of Contents
-    9.2. 
-Readme.md
-    9.3. 
-Markdown
-10. 
-Build Tools
-    10.1. 
-GIT
-    10.2. 
-Languages
-11. 
-How To
-12. 
-Setup Writing
-13. 
- Anonymous E-mail
-14. 
-Apple
-    14.1. 
-iTunes
-15. 
-Quotes
-16. 
-Songs
-17. 
-iPhone
-18. 
-MagSafe
-19. 
-EyeGlasses 
-20. 
-D.I.Y.
-21. 
-Food
 
 </details>
 
