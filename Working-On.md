@@ -79,7 +79,7 @@
 
 > #### Wednesday
 >
-> - on Tuesday, I'll send a text message or make a phone call to Amy, Ste ve, Andrea, Sandy.
+> - on Tuesday, I'll send a text message or make a phone call to Amy, Steve Rogers, Andrea, Sandy.
 > - This is to ask them if they're planning to eat with us on Wednesday.
 > - I'll then bring up the JimmyJohns app on my iPhone and place the order.
 >> - Steve gets a Garguntuan
@@ -87,12 +87,12 @@
 >>> - Remove Onions.
 >> - Sandy get a little John #1.
 >>> - this is the same sandwich that John and Jack get.
->> - Amy get a Liitle John #4.
+>> - Amy get a Liitle John #4 ( also known as a little Turkey John ).
 >>> - This is what she refers to as a little Turkey
->> -Andrea get a Little John #1.
+>> -Andrea get a Regular John #1.
 >>> - add onions
 ---
-> - **NOTE: When the gift card doesn't have enough money to cover the cost of the meal, I will change the payment method from gift card to cash.  I tell the window clerk I have a pickup for John S. then I can pay at the window.**  
+> - **NOTE: When the gift card doesn't have enough money to cover the cost of the meal, I will change the payment method from gift card to cash.  I tell the window clerk I have a pickup for John S. then I will hand the cashier the gift card with the lesser money value on it.**  
 ---
   
 > #### Sunday
