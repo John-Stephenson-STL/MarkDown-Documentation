@@ -119,29 +119,35 @@
  </tr>
  <tr>
   <td>
+    09/20/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added Songs, Apple, iTunes section
   </td>
  </tr>
  <tr>
   <td>
+    09/25/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added EyeGlasses, D.I.Y., Food, Quotes section
   </td>
  </tr>
  <tr>
   <td>
-  </td>
-  <td>
+    09/26/2024
   </td>
   <td>
     STL John S
+  </td>
+  <td>
+    Added Setup Writing section
   </td>
  </tr>
  <tr>
