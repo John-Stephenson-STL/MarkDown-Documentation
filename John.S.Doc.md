@@ -51,7 +51,7 @@
 <details>
   <summary>Details about this ChangeLog</summary>
 | Date  | Owner | Reason for Change | <br>
-| --- | --- | --- | <br>
+| ----------- | ----------- | ------------------- | <br>
 | 09/14/2024 | STL John S | Initial Commit | <br>
 | 09/14/2024 | STL John S | Added Informational | <br>
 | 09/15/2024 | STL John S | P.C. Backup | <br>
