@@ -48,21 +48,118 @@
 
 # ChangeLog
 
+<details>
+
 <table>
-<tr>
- <td>
-  Date
- </td>
- <td>
-  Owner
- </td>
- <td>
-  Reason for Change
- <td>
-</tr>
+ <tr>
+  <td>
+    Date
+  </td>
+  <td>
+    Owner
+  </td>
+  <td>
+    Reason for Change
+  <td>
+ </tr>
+ <tr>
+  <td>
+    09/14/2024
+  </td>
+  <td>
+    STL John S
+  </td>
+  <td>
+    Initial Commit
+  </td>
+ </tr>
+ <tr>
+  <td>
+    09/14/2024
+  </td>
+  <td>
+    STL John S
+  </td>
+  <td>
+    Added Informational section
+  </td>
+ </tr>
+ <tr>
+  <td>
+    09/15/2024
+  </td>
+  <td>
+    STL John S
+  </td>
+  <td>
+    Added P.C. Backup section
+  </td>
+ </tr>
+ <tr>
+  <td>
+    09/16/2024
+  </td>
+  <td>
+    STL John S
+  </td>
+  <td>
+    Added Initial P.C. Setup section
+  </td>
+ </tr>
+ <tr>
+  <td>
+    09/18/2024
+  </td>
+  <td>
+    STL John S
+  </td>
+  <td>
+    Added Databases section
+  </td>
+ </tr>
+ <tr>
+  <td>
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+ </tr>
 </table>
 
-<details>
+
   <summary>Details about this ChangeLog</summary>
 | Date  | Owner | Reason for Change | <br>
 | ----------- | ----------- | ------------------- | <br>
