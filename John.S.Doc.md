@@ -27,7 +27,7 @@
     8.4. [NAS](#nas) <br>
 9. [Programming](#programming) <br>
     9.1. [Table of Contents](#table-of-contents) <br>
-    9.2. [Reeadme](#readme) <br>
+    9.2. [Markdown Reeadme](#markdown-readme) <br>
     9.3. [Markdown](#markdown)  <br>
 10. [Build Tools](#build-tools)  <br>
     10.1. [GIT](#git) <br>
@@ -405,7 +405,7 @@ Food
 > Heading 4
 </details>
 
-### README
+### Markdown README
 
 <details>
   <summary>How to Create a README.md file</summary>
