@@ -279,7 +279,7 @@
     STL John S
   </td>
   <td>
-    Changed ChangeLog section
+    Changed ChangeLog section, Added entries to Qquote section
   </td>
  </tr>
 </table>
@@ -915,6 +915,14 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
   [Goto Top](#documentation)  
 
 </details>  
+
+<details>
+  <summary>Abbott & Costello<\summary>
+    <details>
+     <summary>7 into 28</summary>
+      https://m.youtube.com/watch?v=udFEX19TNis
+    <details>
+</details>
 
 <details>
   <summary>SNL Saturday Night Live</summary>  
