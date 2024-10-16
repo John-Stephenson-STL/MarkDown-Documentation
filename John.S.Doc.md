@@ -48,6 +48,20 @@
 
 # ChangeLog
 
+<table>
+<tr>
+ <td>
+  Date
+ </td>
+ <td>
+  Owner
+ </td>
+ <td>
+  Reason for Change
+ <td>
+</tr>
+</table>
+
 <details>
   <summary>Details about this ChangeLog</summary>
 | Date  | Owner | Reason for Change | <br>
