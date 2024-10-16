@@ -921,7 +921,7 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
     <details>
      <summary>7 into 28</summary>
       https://m.youtube.com/watch?v=udFEX19TNis
-    <details>
+    </details>
 </details>
 
 <details>
