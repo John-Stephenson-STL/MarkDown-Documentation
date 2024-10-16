@@ -152,140 +152,137 @@
  </tr>
  <tr>
   <td>
+    09/28/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added Anonymous E-mail section
   </td>
  </tr>
  <tr>
   <td>
-    
+    09/29/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added P.C. Setup, Technical, Programming, Build Tools, GIT, How To, iPhone , MagSafe section
   </td>
  </tr>
  <tr>
   <td>
+    09/30/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added Gadgets, Languages, LibreOffice, IDE, NAS, Math Tips section
   </td>
  </tr>
  <tr>
   <td>
+     10/01/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added QR Codes, MarkDown, README.md section
   </td>
  </tr>
  <tr>
   <td>
-  </td>
-  <td>
+    10/05/2024
   </td>
   <td>
     STL John S
+  </td>
+  <td>
+    Added JavaScript section, added to README.md
   </td>
  </tr>
  <tr>
   <td>
+    10/07/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added Firefox Browser
   </td>
  </tr>
  <tr>
   <td>
-    
+    10/09/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added Warnings section
   </td>
  </tr>
  <tr>
   <td>
+    10/10/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added Verticle Nail Ridges
   </td>
  </tr>
  <tr>
   <td>
+    10/11/2024 
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Added && Revised ToC ( Table of Contents ) section
   </td>
  </tr>
  <tr>
   <td>
-  </td>
-  <td>
+     10/15/2024
   </td>
   <td>
     STL John S
+  </td>
+  <td>
+    Added ChangeLog section
   </td>
  </tr>
  <tr>
   <td>
+     10/15/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Fixed Readme section
   </td>
  </tr>
  <tr>
   <td>
-    
+    10/16/2024
   </td>
   <td>
     STL John S
   </td>
   <td>
+    Changed ChangeLog section
   </td>
  </tr>
 </table>
-
-
-  <summary>Details about this ChangeLog</summary>
-| Date  | Owner | Reason for Change | <br>
-| ----------- | ----------- | ------------------- | <br>
-| 09/14/2024 | STL John S | Initial Commit | <br>
-| 09/14/2024 | STL John S | Added Informational | <br>
-| 09/15/2024 | STL John S | P.C. Backup | <br>
-| 09/16/2024 | STL John S | Initial P.C. Setup | <br>
-| 09/18/2024 | STL John S | Added Databases | <br>
-| 09/20/2024 | STL John S | Added Songs, Apple, iTunes | <br>
-| 09/25/2024 | STL John S | Added EyeGlasses, D.I.Y., Food, Quotes | <br>
-| 09/26/2024 | STL John S | Added Setup Writing | <br>
-| 09/28/2024 | STL John S | Added Anonymous E-mail | <br>
-| 09/29/2024 | STL John S | Added P.C. Setup, Technical, Programming, Build Tools, GIT, How To, iPhone , MagSafe | <br>
-| 09/30/2024 | STL John S | Added Gadgets, Languages, LibreOffice, IDE, NAS, Math Tips | <br>
-| 10/01/2024 | STL John S | Added QR Codes, MarkDown, README.md | <br>
-| 10/05/2024 | STL John S | Added JavaScript | <br>
-| 10/07/2024 | STL John S | Added Firefox Browser | <br>
-| 10/09/2024 | STL John S | Added Warnings | <br>
-| 10/10/2024 | STL John S | Added Verticle Nail Ridges | <br>
-| 10/11/2024 | STL John S | Added && Revised ToC ( Table of Contents ) | <br >
-| 10/15/2024 | STL John S | Added ChangeLog | <br>
-| 10/15/2024 | STL John S | Fixed Readme link | <br>
   
   [Goto Top](#documentation)  
 
