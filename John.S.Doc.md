@@ -56,257 +56,24 @@
 | 09/14/2024 | STL John S | Initial Commit |
 | 09/14/2024 | STL John S | Added Informational section |
 | 09/15/2024 | STL John S | Added P.C. Backup section |
-| 09/16/2024 | STL John S| Added Initial P.C. Setup section |
+| 09/16/2024 | STL John S | Added Initial P.C. Setup section |
 | 09/18/2024 | STL John S | Added Databases section  | <br>
 | 09/20/2024 | STL John S |  Added Songs, Apple, iTunes section | <br >
 | 09/25/2024 | STL John S | Added EyeGlasses, D.I.Y., Food, Quotes section | <br >
-| 09/26/2024 |  STL John S | Added Setup Writing section | <br >
+| 09/26/2024 | STL John S | Added Setup Writing section | <br >
 | 09/28/2024 | STL John S |. Added Anonymous E-mail section | <br >
 | 09/29/2024 | STL John S | Added P.C. Setup, Technical, Programming, Build Tools, GIT, How To, iPhone , MagSafe section |  <br >
 | 09/30/2024 | STL John S |  Added Gadgets, Languages, LibreOffice, IDE, NAS, Math Tips section | <br>
 | 10/01/2024 | STL John S | Added QR Codes, MarkDown, README.md section | <br>
-| 10/05/2024 |  STL John S |  Added JavaScript, added to README.md section | <br >
-| 10/07/2024 |  STL John S |  Added Firefox Browser | <br >
-|  10/09/2024 |  STL John S  | Added Warnings section | <br >
+| 10/05/2024 | STL John S |  Added JavaScript, added to README.md section | <br >
+| 10/07/2024 | STL John S |  Added Firefox Browser | <br >
+| 10/09/2024 | STL John S | Added Warnings section | <br >
 | 10/10/2024 | STL John S | Added Verticle Nail Ridges | <br >
-| 10/11/2024  |  STL John S | Added && Revised ToC ( Table of Contents ) section | <br >
+| 10/11/2024 | STL John S | Added && Revised ToC ( Table of Contents ) section | <br >
 | 10/15/2024 | STL John S |  Added ChangeLog section | <br >
-| 10/15/2024 |  STL John S  | Fixed Readme section | <br >
-| 10/16/2024  | STL John S | Changed ChangeLog section, Added entries to Qquote, Food, Warning, Gadgets section | <br>
-
-<table>
- <tr>
-  <td>
-    Date
-  </td>
-  <td>
-    Owner
-  </td>
-  <td>
-    Reason for Change
-  <td>
- </tr>
- <tr>
-  <td>
-    09/14/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Initial Commit
-  </td>
- </tr>
- <tr>
-  <td>
-    09/14/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Informational section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/15/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added P.C. Backup section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/16/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Initial P.C. Setup section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/18/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Databases section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/20/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Songs, Apple, iTunes section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/25/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added EyeGlasses, D.I.Y., Food, Quotes section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/26/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Setup Writing section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/28/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Anonymous E-mail section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/29/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added P.C. Setup, Technical, Programming, Build Tools, GIT, How To, iPhone , MagSafe section
-  </td>
- </tr>
- <tr>
-  <td>
-    09/30/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Gadgets, Languages, LibreOffice, IDE, NAS, Math Tips section
-  </td>
- </tr>
- <tr>
-  <td>
-     10/01/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added QR Codes, MarkDown, README.md section
-  </td>
- </tr>
- <tr>
-  <td>
-    10/05/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added JavaScript section, added to README.md
-  </td>
- </tr>
- <tr>
-  <td>
-    10/07/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Firefox Browser
-  </td>
- </tr>
- <tr>
-  <td>
-    10/09/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Warnings section
-  </td>
- </tr>
- <tr>
-  <td>
-    10/10/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added Verticle Nail Ridges
-  </td>
- </tr>
- <tr>
-  <td>
-    10/11/2024 
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added && Revised ToC ( Table of Contents ) section
-  </td>
- </tr>
- <tr>
-  <td>
-     10/15/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Added ChangeLog section
-  </td>
- </tr>
- <tr>
-  <td>
-     10/15/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Fixed Readme section
-  </td>
- </tr>
- <tr>
-  <td>
-    10/16/2024
-  </td>
-  <td>
-    STL John S
-  </td>
-  <td>
-    Changed ChangeLog section, Added entries to Qquote, Food, Warning, Gadgets section
-  </td>
- </tr>
-</table>
+| 10/15/2024 | STL John S | Fixed Readme section | <br >
+| 10/16/2024 | STL John S | Changed ChangeLog section, Added entries to Qquote, Food, Warning, Gadgets section | <br>
+| 10/17/2024 | STL John S | Added Dumb-i-fied to How To section | <br >
   
   [Goto Top](#documentation)  
 
@@ -841,6 +608,10 @@
 </details>  
 
 ## HOW TO  
+ <details>
+  <summary>Reason for Dumb-i-fied Phone</summary>
+  https://m.youtube.com/watch?v=_L-WUrZ7tJM
+ </details>  
 ### SETUP Writing  
   
   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
