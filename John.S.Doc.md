@@ -16,9 +16,10 @@
 4. [P.C. Backup](#pc-backup)
 5. [Databases](#databases)
 6. [Warnings](#warnings) <br>
-    6.1. [Firefox Browser](#firefox-browser) <br>
-    6.2. [JavaScript](#javascript) <br>
-    6.3. [QR Codes](#qr-codes) <br>
+    6.1.  [Check for Scammers](#
+    6.2. [Firefox Browser](#firefox-browser) <br>
+    6.3. [JavaScript](#javascript) <br>
+    6.4. [QR Codes](#qr-codes) <br>
 7. [P.C. Setup](#pc-setup) <br>
 8. [Technical](#technical) <br>
     8.1. [Gadgets](#gadgets) <br>
@@ -303,16 +304,6 @@
 
 </details>  
 
-### Scammers  
-
-<details><br />
-  <summary>Don't talk to Strangers</summary>  <br />
-    https://m.youtube.com/watch?v=CJWkB96YLIQ  
-
-  [Goto Top](#documentation)  
-
-</details>  
-
 ### Vertical Nail Ridges
 
   [Causes and Fix](https://m.youtube.com/watch?v=ZOSuKhhsE2M)  
@@ -365,11 +356,23 @@
 
 ## Warnings
 
-  ###. Phone Scam
+  ###  Phone Scam
    <details>
     <summary>How to Check, Is this phone number a scammer</summary>
-    https://www.msn.com/en-us/news/technology/is-this-number-a-scammer-heres-how-to-check/ar-AA1lZG9z
+     https://www.msn.com/en-us/news/technology/is-this-number-a-scammer-heres-how-to-check/ar-AA1lZG9z
+
+  [Goto Top](#documentation)  
    </details>
+
+### Scammers  
+
+  <details><br />
+    <summary>Don't talk to Strangers</summary>  <br />
+     https://m.youtube.com/watch?v=CJWkB96YLIQ  
+
+  [Goto Top](#documentation)  
+
+  </details>  
 
   ### FireFox Browser  
    [Mozilla and PPA](https://m.youtube.com/watch?v=mFOMBM48LNA)  
