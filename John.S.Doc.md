@@ -279,7 +279,7 @@
     STL John S
   </td>
   <td>
-    Changed ChangeLog section, Added entries to Qquote, Food section
+    Changed ChangeLog section, Added entries to Qquote, Food, Warning section
   </td>
  </tr>
 </table>
@@ -364,6 +364,12 @@
   [Goto Top](#documentation)  
 
 ## Warnings
+
+  ###. Phone Scam
+   <details>
+    <summary>How to Check, Is this phone number a scammer</summary>
+    https://www.msn.com/en-us/news/technology/is-this-number-a-scammer-heres-how-to-check/ar-AA1lZG9z
+   </details>
 
   ### FireFox Browser  
    [Mozilla and PPA](https://m.youtube.com/watch?v=mFOMBM48LNA)  
