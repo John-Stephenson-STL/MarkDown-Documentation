@@ -51,6 +51,13 @@
 
 <details>
 
+| Date | Owner | Reason for Change |
+| --- | --- | --- |
+| 09/14/2024 | STL John S | Initial Commit) |
+| 09/14/2024 | STL John S | Added Informational section |
+| 09/15/2024 | STL John S \| Added P.C. Backup section |
+
+
 <table>
  <tr>
   <td>
