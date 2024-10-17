@@ -53,10 +53,26 @@
 
 | Date | Owner | Reason for Change |
 | --- | --- | --- |
-| 09/14/2024 | STL John S | Initial Commit) |
+| 09/14/2024 | STL John S | Initial Commit |
 | 09/14/2024 | STL John S | Added Informational section |
-| 09/15/2024 | STL John S \| Added P.C. Backup section |
-
+| 09/15/2024 | STL John S | Added P.C. Backup section |
+| 09/16/2024 | STL John S| Added Initial P.C. Setup section |
+| 09/18/2024 | STL John S | Added Databases section  | <br>
+| 09/20/2024 | STL John S |  Added Songs, Apple, iTunes section | <br >
+| 09/25/2024 | STL John S | Added EyeGlasses, D.I.Y., Food, Quotes section | <br >
+| 09/26/2024 |  STL John S | Added Setup Writing section | <br >
+| 09/28/2024 | STL John S |. Added Anonymous E-mail section | <br >
+| 09/29/2024 | STL John S | Added P.C. Setup, Technical, Programming, Build Tools, GIT, How To, iPhone , MagSafe section |  <br >
+| 09/30/2024 | STL John S |  Added Gadgets, Languages, LibreOffice, IDE, NAS, Math Tips section | <br>
+| 10/01/2024 | STL John S | Added QR Codes, MarkDown, README.md section | <br>
+| 10/05/2024 |  STL John S |  Added JavaScript, added to README.md section | <br >
+| 10/07/2024 |  STL John S |  Added Firefox Browser | <br >
+|  10/09/2024 |  STL John S  | Added Warnings section | <br >
+| 10/10/2024 | STL John S | Added Verticle Nail Ridges | <br >
+| 10/11/2024  |  STL John S | Added && Revised ToC ( Table of Contents ) section | <br >
+| 10/15/2024 | STL John S |  Added ChangeLog section | <br >
+| 10/15/2024 |  STL John S  | Fixed Readme section | <br >
+| 10/16/2024  | STL John S | Changed ChangeLog section, Added entries to Qquote, Food, Warning, Gadgets section | <br>
 
 <table>
  <tr>
