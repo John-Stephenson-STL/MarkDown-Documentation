@@ -614,6 +614,12 @@
 </details>  
 
 ## HOW TO  
+
+  <details>
+   <summary>4 Types of People</summary>
+    https://m.youtube.com/watch?v=BWNFcojSrwM&pp=ygVJd2hpY2ggYXJlIHlvdSAtIDQgdHlwZXMgb2YgaHVtYW4gYmVoYXZpb3IgJmhvdyB0byBkZWFsICBsaXR0bGUgYml0IGJldHRlUg%3D%3D
+  </details>
+
  <details>
   <summary>Reason for Dumb-i-fied Phone</summary>
   https://m.youtube.com/watch?v=_L-WUrZ7tJM
