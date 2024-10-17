@@ -279,7 +279,7 @@
     STL John S
   </td>
   <td>
-    Changed ChangeLog section, Added entries to Qquote section
+    Changed ChangeLog section, Added entries to Qquote, Food section
   </td>
  </tr>
 </table>
@@ -1211,5 +1211,7 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   [DogTown Pizza](https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/)  
 
   [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
+
+  [Famous Barr's French Onion Soup](https://www.food.com/recipe/famous-barrs-french-onion-soup-607)
 
   [Goto Top](#documentation)  
