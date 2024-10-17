@@ -10,7 +10,7 @@
 1. [ChangeLog](#changelog) <br>
 2. [Informational](#informational) <br>
     2.1. [Math Tips](#math-tips) <br>
-    2.3. [Verticle Nail Ridges](#vertical-nail-ridges)
+    2.2. [Verticle Nail Ridges](#vertical-nail-ridges)
 3. [Initial P.C. Setup](#initial-pc-setup)
 4. [P.C. Backup](#pc-backup)
 5. [Databases](#databases)
