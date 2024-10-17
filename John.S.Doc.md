@@ -15,7 +15,7 @@
 4. [P.C. Backup](#pc-backup)
 5. [Databases](#databases)
 6. [Warnings](#warnings) <br>
-    6.1.  [Check for Scammers](#phone-scam) <br>
+    6.1. [Check for Scammers](#phone-scam) <br>
     6.2. [Scammers](#scammers) <br>
     6.3. [Firefox Browser](#firefox-browser) <br>
     6.4. [JavaScript](#javascript) <br>
@@ -280,7 +280,7 @@
     STL John S
   </td>
   <td>
-    Changed ChangeLog section, Added entries to Qquote, Food, Warning section
+    Changed ChangeLog section, Added entries to Qquote, Food, Warning, Gadgets section
   </td>
  </tr>
 </table>
@@ -474,6 +474,11 @@
   [Goto Top](#documentation)  
 
    </details>
+
+   <details>
+    <summary>Trick-or-Treat Promotion</summary>
+     https://www.linkedin.com/posts/cheddar-inc-_reeses-has-created-a-free-standing-remote-controlled-activity-6725104156908032000-0lu4
+  </details>
 
   https://m.youtube.com/watch?v=8F5zwI9Ir6I&t=2s&pp=2AECkAIB
 
