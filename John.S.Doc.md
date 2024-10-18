@@ -153,7 +153,7 @@
     <summary>How to Check, Is this phone number a scammer</summary>
      https://www.msn.com/en-us/news/technology/is-this-number-a-scammer-heres-how-to-check/ar-AA1lZG9z <br>
 
-  [Goto Top](#documentation)  
+[Goto Top](#documentation)  
    </details>
 
 ### Scammers  
@@ -161,7 +161,8 @@
   <details><br />
     <summary>Don't talk to Strangers</summary>  
      https://m.youtube.com/watch?v=CJWkB96YLIQ  <br>
-  [Goto Top](#documentation)  
+
+[Goto Top](#documentation)  
 
   </details>  
 
