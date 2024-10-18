@@ -948,6 +948,11 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
 ### Songs  
 
+  <details>
+   <summary>Blue Man Group</summary>
+    https://m.youtube.com/watch?v=WXnt_yE2sgA
+  </details>
+
 <details>
   <summary>Shambala</summary>  
    <details>
