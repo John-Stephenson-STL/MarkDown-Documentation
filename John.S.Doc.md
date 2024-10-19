@@ -75,7 +75,7 @@
 | 10/16/2024 | STL John S | Changed ChangeLog section, Added entries to Qquote, Food, Warning, Gadgets section | <br>
 | 10/17/2024 | STL John S | Added Dumb-i-fied to How To section | <br >
 | 10/17/2024 | STL John S | Added to How To section |
-
+| 10/19/2024 | STL John S | Added entry in Gadgets |
  
   [Goto Top](#documentation)  
 
@@ -276,6 +276,11 @@
    <details>
     <summary>Trick-or-Treat Promotion</summary>
      https://www.linkedin.com/posts/cheddar-inc-_reeses-has-created-a-free-standing-remote-controlled-activity-6725104156908032000-0lu4
+   </details>
+
+  <details>
+   <summary>Funny</summary>
+    https://m.youtube.com/shorts/vrUH8A61IJA
   </details>
 
   https://m.youtube.com/watch?v=8F5zwI9Ir6I&t=2s&pp=2AECkAIB
