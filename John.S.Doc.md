@@ -76,7 +76,9 @@
 | 10/17/2024 | STL John S | Added Dumb-i-fied to How To section | <br >
 | 10/17/2024 | STL John S | Added to How To section |
 | 10/19/2024 | STL John S | Added entry in Gadgets |
- 
+| 10/20/2014 | STL John S | Added Pumpkin Jack-O-Latern to Gadgets section |
+
+
   [Goto Top](#documentation)  
 
 </details>
