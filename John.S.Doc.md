@@ -243,7 +243,10 @@
 
    <details>
     <summary>Halloween Gadgets</summary>
+    <details>
+     <summary>Pumpkin Carvings</summary>
     https://m.youtube.com/watch?v=9vc09XZVA_w  <br />
+    </details>
 
    <details>
      <summary>Somebody's Watching Me</summary>  
@@ -296,7 +299,7 @@
   </details>
 
   <details>
-    <summary>Pumpkin Carvings</summary>
+    <summary>Pool Noodle</summary>
   https://m.youtube.com/watch?v=8F5zwI9Ir6I&t=2s&pp=2AECkAIB
 
   [Goto Top](#documentation)  
