@@ -77,7 +77,7 @@
 | 10/17/2024 | STL John S | Added to How To section |
 | 10/19/2024 | STL John S | Added entry in Gadgets |
 | 10/20/2014 | STL John S | Added Pumpkin Jack-O-Latern to Gadgets section |
-
+| 10/22/2024 | STL John S | Added Mr. Roboto to Halloween |
 
   [Goto Top](#documentation)  
 
@@ -290,9 +290,17 @@
      https://m.youtube.com/watch?v=2IVdvQqV8-U
   </details>
 
+  <details>
+    <summary>Mr. Roboto light-show</summary>
+    https://m.youtube.com/watch?v=JEiL6ptcz8I
+  </details>
+
+  <details>
+    <summary>Pumpkin Carvings</summary>
   https://m.youtube.com/watch?v=8F5zwI9Ir6I&t=2s&pp=2AECkAIB
 
   [Goto Top](#documentation)  
+  </details>
    </details>
 
 ### LibreOffice  
