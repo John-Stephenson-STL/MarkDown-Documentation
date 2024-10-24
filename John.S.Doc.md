@@ -78,6 +78,7 @@
 | 10/19/2024 | STL John S | Added entry in Gadgets |
 | 10/20/2014 | STL John S | Added Pumpkin Jack-O-Latern to Gadgets section |
 | 10/22/2024 | STL John S | Added Mr. Roboto to Halloween |
+| 10/24/2024 | STL John S | Added to Song section
 
   [Goto Top](#documentation)  
 
@@ -153,9 +154,9 @@
   ###  Phone Scam
    <details>
     <summary>How to Check, Is this phone number a scammer</summary>
-     https://www.msn.com/en-us/news/technology/is-this-number-a-scammer-heres-how-to-check/ar-AA1lZG9z <br>
+     https://www.msn.com/en-us/news/technology/is-this-number-a-scammer-heres-how-to-check/ar-AA1lZG9z    
 
-[Goto Top](#documentation)  
+   [Goto Top](#documentation)  
    </details>
 
 ### Scammers  
@@ -982,8 +983,18 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 ### Songs  
 
   <details>
+    <summary>NEW. -  Devil Went Down to Georgia</summary>
+    https://m.youtube.com/watch?v=L0XUTD7QYcs&t=267s&pp=2AGLApACAQ%3D%3D
+    
+   [Goto Top](#documentation)  
+    </details>
+
+  <details>
    <summary>Blue Man Group</summary>
     https://m.youtube.com/watch?v=WXnt_yE2sgA
+    
+   [Goto Top](#documentation)  
+  
   </details>
 
 <details>
