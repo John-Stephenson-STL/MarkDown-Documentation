@@ -79,6 +79,7 @@
 | 10/20/2014 | STL John S | Added Pumpkin Jack-O-Latern to Gadgets section |
 | 10/22/2024 | STL John S | Added Mr. Roboto to Halloween |
 | 10/24/2024 | STL John S | Added to Song section
+| 10/25/2024 | STL John S | Added to Halloween |
 
   [Goto Top](#documentation)  
 
@@ -297,6 +298,11 @@
   <details>
     <summary>Mr. Roboto light-show</summary>
     https://m.youtube.com/watch?v=JEiL6ptcz8I
+  </details>
+
+  <details>
+    <summary>This is Halloween - Light House Show</summary>
+    https://m.youtube.com/watch?v=7_22TLl8C-4
   </details>
 
   <details>
