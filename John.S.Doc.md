@@ -80,6 +80,7 @@
 | 10/22/2024 | STL John S | Added Mr. Roboto to Halloween |
 | 10/24/2024 | STL John S | Added to Song section
 | 10/25/2024 | STL John S | Added to Halloween |
+| 10/28/2024 | STL John S | Added to Food section. |
 
   [Goto Top](#documentation)  
 
@@ -1091,6 +1092,8 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   [DogTown Pizza](https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/)  
 
   [PeanutButter Cookies](https://kirbiecravings.com/2-ingredient-soft-peanut-butter-cookies/)
+
+  [Spaghetti & Meatballs](https://www.epicurious.com/video/watch/epicurious-101-the-best-spaghetti-and-meatballs-youll-ever-make-restaurant-quality)  
 
   [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
 
