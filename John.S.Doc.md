@@ -688,6 +688,11 @@
 ## Apple    
 
 <details>
+  <summary>Apple Intelligence for older iPhones<summary>
+  https://m.youtube.com/watch?v=l-L7LRoDnn0
+</details>
+
+<details>
   <summary>Alais E-Mail(s)</summary>
    https://appletoolbox.com/how-and-why-you-should-start-using-aliases-on-your-icloud-email-account/  
 </details>  
