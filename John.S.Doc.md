@@ -687,6 +687,11 @@
 
 ## Apple    
 
+ <details>
+  <summary>G4</summary€
+    https://www.ifixit.com/Guide/Using+Apple+Pro+Speakers+with+a+class-d+amplifier/11399
+  </details>
+  
 <details>
   <summary>Apple Intelligence for older iPhones<summary>
   https://m.youtube.com/watch?v=l-L7LRoDnn0
