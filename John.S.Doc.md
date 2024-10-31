@@ -81,6 +81,7 @@
 | 10/24/2024 | STL John S | Added to Song section
 | 10/25/2024 | STL John S | Added to Halloween |
 | 10/28/2024 | STL John S | Added to Food section. |
+| 10/31/2024 | STL John S | Added G4 to Apple |
 
   [Goto Top](#documentation)  
 
@@ -688,10 +689,10 @@
 ## Apple    
 
  <details>
-  <summary>G4</summary€
+  <summary>G4</summary>
     https://www.ifixit.com/Guide/Using+Apple+Pro+Speakers+with+a+class-d+amplifier/11399
-  </details>
-  
+  </details>  
+
 <details>
   <summary>Apple Intelligence for older iPhones<summary>
   https://m.youtube.com/watch?v=l-L7LRoDnn0
