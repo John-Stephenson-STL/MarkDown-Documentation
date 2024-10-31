@@ -694,7 +694,7 @@
   </details>  
 
 <details>
-  <summary>Apple Intelligence for older iPhones<summary>
+  <summary>Apple Intelligence for older iPhones</summary>
   https://m.youtube.com/watch?v=l-L7LRoDnn0
 </details>
 
