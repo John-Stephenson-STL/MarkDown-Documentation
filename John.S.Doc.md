@@ -82,6 +82,7 @@
 | 10/25/2024 | STL John S | Added to Halloween |
 | 10/28/2024 | STL John S | Added to Food section. |
 | 10/31/2024 | STL John S | Added G4 to Apple |
+| 11/03/2024 | STL John S | Added to Halloween |
 
   [Goto Top](#documentation)  
 
@@ -246,8 +247,9 @@
   [Goto Top](#documentation)  
 
    <details>
-    <summary>Halloween Gadgets</summary>
-    <details>
+    <summary>Halloween</summary>
+
+   <details>
      <summary>Pumpkin Carvings</summary>
     https://m.youtube.com/watch?v=9vc09XZVA_w  <br />
     </details>
@@ -312,6 +314,12 @@
   https://m.youtube.com/watch?v=8F5zwI9Ir6I&t=2s&pp=2AECkAIB
 
   [Goto Top](#documentation)  
+  </details>
+
+  <details>
+    <summary>Dad's Child Costume</summary>
+    https://m.youtube.com/watch?v=p8DVABfHwaY
+    [Goto Top](#documentation)  
   </details>
    </details>
 
