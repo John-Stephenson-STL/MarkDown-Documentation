@@ -319,9 +319,10 @@
   <details>
     <summary>Dad's Child Costume</summary>
     https://m.youtube.com/watch?v=p8DVABfHwaY
-    [Goto Top](#documentation)  
+
+   [Goto Top](#documentation)  
   </details>
-   </details>
+</details>
 
 ### LibreOffice  
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
