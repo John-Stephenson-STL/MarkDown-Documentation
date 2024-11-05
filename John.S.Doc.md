@@ -83,6 +83,7 @@
 | 10/28/2024 | STL John S | Added to Food section. |
 | 10/31/2024 | STL John S | Added G4 to Apple |
 | 11/03/2024 | STL John S | Added to Halloween |
+| 11/05/2024 | STL John S | Added to Halloween |
 
   [Goto Top](#documentation)  
 
@@ -327,6 +328,12 @@
 
    [Goto Top](#documentation)  
   </details>
+  
+  <details>
+    <summary>Safe Pumpkin Carving</summary>
+      https://m.youtube.com/watch?v=wUl8AuW53UY
+  </details>
+
 </details>
 
 ### LibreOffice  
