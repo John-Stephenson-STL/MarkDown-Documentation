@@ -34,6 +34,7 @@
     10.1. [GIT](#git) <br>
     10.2. [Languages](#languages) <br>  
 11. [How To](#how-to) <br>
+    11.1 [Cool Ideas](#cool-ideas)
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
@@ -84,6 +85,7 @@
 | 10/31/2024 | STL John S | Added G4 to Apple |
 | 11/03/2024 | STL John S | Added to Halloween |
 | 11/05/2024 | STL John S | Added to Halloween |
+| 11/06/2024 | STL John S | Added Cool Ideas |
 
   [Goto Top](#documentation)  
 
@@ -687,6 +689,12 @@
   <summary>Reason for Dumb-i-fied Phone</summary>
   https://m.youtube.com/watch?v=_L-WUrZ7tJM
  </details>  
+
+  <details>
+    <summary>What to do with the space behind the door</summary>
+    https://m.youtube.com/watch?v=JlyBpA2SMfo
+  </details>
+
 ### SETUP Writing  
   
   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
