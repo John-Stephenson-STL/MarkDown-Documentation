@@ -86,6 +86,7 @@
 | 11/03/2024 | STL John S | Added to Halloween |
 | 11/05/2024 | STL John S | Added to Halloween |
 | 11/06/2024 | STL John S | Added Cool Ideas |
+| 11/06/2024 | STL John S | Added to food |
 
   [Goto Top](#documentation)  
 
@@ -1138,5 +1139,7 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
 
   [Famous Barr's French Onion Soup](https://www.food.com/recipe/famous-barrs-french-onion-soup-607)
+
+  [Crack Pop Corn](https://m.youtube.com/watch?v=jhTV68uWtbI)
 
   [Goto Top](#documentation)  
