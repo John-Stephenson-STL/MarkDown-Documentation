@@ -8,8 +8,6 @@ WEEK 1
 | R | 10/24/2024 | 05:25 | 11:20 | 11:64 | 15;23 | 09.54 | 01;54 |       |  00:75  |
 | F | 10/25/2024 | 04:98 | 11:77 | 12:22 | 15:46 | 00:03 | 10:03 | 09.02 |  01:02  |
 
-PAY DAY
-
 WEEK 2
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 10/26/2024 | 05:00 | 11:85 | 12:31 | 15:39 | 09:93 | 01:93 |  01:00 |         |
@@ -19,6 +17,8 @@ WEEK 2
 | W | 10 30/2024 | HAVE DAY OFF  |
 | R | 10/31/2024 | 04:95 | 12:85 | 12:86 | 12:86 | 07:90 | 01:05 |  01:05 |         |
 | F | 11/01/2024 | 04:95 | 13:79 | 13:79 | 13:80 | 08:84 | 06;72 |  01:05 |         |
+
+PAY DAY
 
 WEEK 3
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -30,8 +30,6 @@ WEEK 3
 | R | 11/07/2024 | 04:96 | 12:24 | 12:25 | 12:25 | 07:28 |       | 01:04  |         |
 | F | 11/08/2024 | 04:94 | 12:78 | 12:79 | 12:79 | 07:84 |       | 01:06  |         |
 
-PAY DAY
-
 WEEK 4
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 11/09/2024 |       |       |       |       |       |       |        |         |
@@ -41,6 +39,8 @@ WEEK 4
 | W | 11/13/2024 | HAVE DAY OFF  |
 | R | 11/14/2024 |       |       |       |       |       |       |        |         |
 | F | 11/15/2024 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 5
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -52,8 +52,6 @@ WEEK 5
 | R | 11/21/2024 |       |       |       |       |       |       |        |         |
 | F | 11/22/2024 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 6
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 11/23/2024 |       |       |       |       |       |       |        |         |
@@ -63,6 +61,8 @@ WEEK 6
 | W | 11/27/2024 | HAVE DAY OFF  |
 | R | 11/28/2024 |       |       |       |       |       |       |        |         |
 | F | 11/29/2024 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 7
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -74,8 +74,6 @@ WEEK 7
 | R | 12/05/2024 |       |       |       |       |       |       |        |         |
 | F | 12/06/2024 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 8
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 12/07/2024 |       |       |       |       |       |       |        |         |
@@ -85,6 +83,8 @@ WEEK 8
 | W | 12/11/2024 | HAVE DAY OFF  |
 | R | 12/12/2024 |       |       |       |       |       |       |        |         |
 | F | 12/13/2024 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 9
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -96,8 +96,6 @@ WEEK 9
 | R | 12/19/2024 |       |       |       |       |       |       |        |         |
 | F | 12/20/2024 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 10
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 12/21/2024 |       |       |       |       |       |       |        |         |
@@ -107,6 +105,8 @@ WEEK 10
 | W | 12/25/2024 |       |       |       |       |       |       |        |         |
 | R | 12/26/2024 |       |       |       |       |       |       |        |         |
 | F | 12/27/2024 |       |       |       |       |       |       |        |         |
+
+PAY SAY
 
 WEEK 11
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -118,8 +118,6 @@ WEEK 11
 | R | 01/02/2025 |       |       |       |       |       |       |        |         |
 | F | 01/03/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 12
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 01/04/2025 |       |       |       |       |       |       |        |         |
@@ -129,6 +127,8 @@ WEEK 12
 | W | 01/08/2025 |       |       |       |       |       |       |        |         |
 | R | 01/09/2025 |       |       |       |       |       |       |        |         |
 | F | 01/10/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 13
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -140,8 +140,6 @@ WEEK 13
 | R | 01/16/2025 |       |       |       |       |       |       |        |         |
 | F | 01/17/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 14
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 01/18/2025 |       |       |       |       |       |       |        |         |
@@ -151,6 +149,8 @@ WEEK 14
 | W | 01/22/2025 |       |       |       |       |       |       |        |         |
 | R | 01/23/2025 |       |       |       |       |       |       |        |         |
 | F | 01/24/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 15
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -162,8 +162,6 @@ WEEK 15
 | R | 01/30/2025 |       |       |       |       |       |       |        |         |
 | F | 01/31/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 16
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 02/01/2025 |       |       |       |       |       |       |        |         |
@@ -173,6 +171,8 @@ WEEK 16
 | W | 02/05/2025 |       |       |       |       |       |       |        |         |
 | R | 21/06/2025 |       |       |       |       |       |       |        |         |
 | F | 02/07/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 17
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -184,8 +184,6 @@ WEEK 17
 | R | 02/13/2025 |       |       |       |       |       |       |        |         |
 | F | 02/14/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 18
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 02/15/2025 |       |       |       |       |       |       |        |         |
@@ -195,6 +193,8 @@ WEEK 18
 | W | 02/19/2025 |       |       |       |       |       |       |        |         |
 | R | 02/20/2025 |       |       |       |       |       |       |        |         |
 | F | 02/21/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 19
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -206,8 +206,6 @@ WEEK 19
 | R | 02/27/2025 |       |       |       |       |       |       |        |         |
 | F | 02/28/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 20
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 03/01/2025 |       |       |       |       |       |       |        |         |
@@ -217,6 +215,8 @@ WEEK 20
 | W | 03/05/2025 |       |       |       |       |       |       |        |         |
 | R | 03/06/2025 |       |       |       |       |       |       |        |         |
 | F | 03/07/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 21
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -228,8 +228,6 @@ WEEK 21
 | R | 03/13/2025 |       |       |       |       |       |       |        |         |
 | F | 03/14/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 22
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 03/15/2025 |       |       |       |       |       |       |        |         |
@@ -239,6 +237,8 @@ WEEK 22
 | W | 03/19/2025 |       |       |       |       |       |       |        |         |
 | R | 03/20/2025 |       |       |       |       |       |       |        |         |
 | F | 03/21/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 23
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -250,8 +250,6 @@ WEEK 23
 | R | 03/27/2025 |       |       |       |       |       |       |        |         |
 | F | 03/28/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 24
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 03/29/2025 |       |       |       |       |       |       |        |         |
@@ -261,6 +259,8 @@ WEEK 24
 | W | 04/02/2025 |       |       |       |       |       |       |        |         |
 | R | 04/03/2025 |       |       |       |       |       |       |        |         |
 | F | 04/04/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 25
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -272,8 +272,6 @@ WEEK 25
 | R | 04/10/2025 |       |       |       |       |       |       |        |         |
 | F | 04/11/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 26
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 04/12/2025 |       |       |       |       |       |       |        |         |
@@ -283,6 +281,8 @@ WEEK 26
 | W | 04/16/2025 |       |       |       |       |       |       |        |         |
 | R | 04/17/2025 |       |       |       |       |       |       |        |         |
 | F | 04/18/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 27
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -294,8 +294,6 @@ WEEK 27
 | R | 04/24/2025 |       |       |       |       |       |       |        |         |
 | F | 04/25/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 28
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 04/26/2025 |       |       |       |       |       |       |        |         |
@@ -305,6 +303,8 @@ WEEK 28
 | W | 04/30/2025 |       |       |       |       |       |       |        |         |
 | R | 05/01/2025 |       |       |       |       |       |       |        |         |
 | F | 05/02/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 29
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -316,8 +316,6 @@ WEEK 29
 | R | 05/08/2025 |       |       |       |       |       |       |        |         |
 | F | 05/09/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 30
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 05/10/2025 |       |       |       |       |       |       |        |         |
@@ -327,6 +325,8 @@ WEEK 30
 | W | 05/14/2025 |       |       |       |       |       |       |        |         |
 | R | 05/15/2025 |       |       |       |       |       |       |        |         |
 | F | 05/16/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 31
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -338,8 +338,6 @@ WEEK 31
 | R | 05/22/2025 |       |       |       |       |       |       |        |         |
 | F | 05/23/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 32
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 05/24/2025 |       |       |       |       |       |       |        |         |
@@ -349,6 +347,8 @@ WEEK 32
 | W | 05/28/2025 |       |       |       |       |       |       |        |         |
 | R | 05/29/2025 |       |       |       |       |       |       |        |         |
 | F | 05/30/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 33
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -360,8 +360,6 @@ WEEK 33
 | R | 06/05/2025 |       |       |       |       |       |       |        |         |
 | F | 06/06/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 34
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 05/07/2025 |       |       |       |       |       |       |        |         |
@@ -371,6 +369,8 @@ WEEK 34
 | W | 05/11/2025 |       |       |       |       |       |       |        |         |
 | R | 05/12/2025 |       |       |       |       |       |       |        |         |
 | F | 05/13/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 35
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -382,8 +382,6 @@ WEEK 35
 | R | 06/19/2025 |       |       |       |       |       |       |        |         |
 | F | 06/20/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 36
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 06/21/2025 |       |       |       |       |       |       |        |         |
@@ -393,6 +391,8 @@ WEEK 36
 | W | 06/25/2025 |       |       |       |       |       |       |        |         |
 | R | 06/26/2025 |       |       |       |       |       |       |        |         |
 | F | 06/27/2025 |       |       |       |       |       |       |        |         |
+
+PAY DAY
 
 WEEK 37
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
@@ -404,8 +404,6 @@ WEEK 37
 | R | 07/03/2025 |       |       |       |       |       |       |        |         |
 | F | 07/04/2025 |       |       |       |       |       |       |        |         |
 
-PAY DAY
-
 WEEK 38
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
 | S | 07/05/2025 |       |       |       |       |       |       |        |         |
@@ -415,7 +413,6 @@ WEEK 38
 | W | 07/09/2025 |       |       |       |       |       |       |        |         |
 | R | 07/10/2025 |       |       |       |       |       |       |        |         |
 | F | 07/11/2025 |       |       |       |       |       |       |        |         |
-
 
 PAY DAY
 
