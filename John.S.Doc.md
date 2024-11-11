@@ -297,7 +297,7 @@
    </details>
 
   <details>
-   <summary>Funny</summary>
+   <summary>Funny Witch setup</summary>
     https://m.youtube.com/shorts/vrUH8A61IJA
   </details>
 
@@ -334,7 +334,12 @@
 
    [Goto Top](#documentation)  
   </details>
-  
+
+  <details>
+   <summary>Creepy Halloween Carving</summary>
+    https://m.youtube.com/watch?v=2IVdvQqV8-U
+  </details>
+
   <details>
     <summary>Safe Pumpkin Carving</summary>
       https://m.youtube.com/watch?v=wUl8AuW53UY
