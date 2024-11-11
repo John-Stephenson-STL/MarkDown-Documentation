@@ -34,7 +34,7 @@
     10.1. [GIT](#git) <br>
     10.2. [Languages](#languages) <br>  
 11. [How To](#how-to) <br>
-    11.1 [Cartoon Image(#cartoon-image) <br>
+    11.1 [Cartoon Image](#cartoon-image) <br>
     11.2 [Cool Ideas](#cool-ideas)  <br>
     11.3 [PineWood Derby](#pinewood-derby)  <br>
 12. [Setup Writing ](#setup-writing) <br>
