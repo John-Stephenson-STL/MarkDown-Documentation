@@ -693,6 +693,7 @@
   https://m.youtube.com/watch?v=_L-WUrZ7tJM
  </details>  
 
+### Cool Ideas
   <details>
     <summary>What to do with the space behind the door</summary>
     https://m.youtube.com/watch?v=JlyBpA2SMfo
