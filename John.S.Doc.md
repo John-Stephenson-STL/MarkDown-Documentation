@@ -38,6 +38,7 @@
     11.1 [Cartoon Image](#cartoon-image) <br>
     11.2 [Cool Ideas](#cool-ideas)  <br>
     11.3 [PineWood Derby](#pinewood-derby)  <br>
+    11.4 [Cool Hacks](#cool-hacks) <br>
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
@@ -349,14 +350,6 @@
   [Goto Top](#documentation)
   </details>
 
-### Cool Hacks
-<details>
-  <summary>Jelly Bean Guessing Game</summary>
-    https://m.youtube.com/watch?v=iBh3zOjOCvI
-
-  [Goto Top](#documentation)
-</details>
-
 ### LibreOffice  
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
   [LibreOffice Official](https://www.libreoffice.org)  
@@ -404,7 +397,7 @@
 
 > Here's an example using 4 levels (higher the levels, awful it becomes):
 
-> # Table of Contents
+> # Create Table of Contents
 >  1. [Title](#title) <br>
 >     1.1. [sub-title](#sub_title) <br>
 >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. [sub-sub-title](#sub_sub_title)
@@ -718,9 +711,19 @@
  </details>  
 
 ### Cool Ideas
+
+<details>
+  <summary>Jelly Bean Guessing Game</summary>
+    https://m.youtube.com/watch?v=iBh3zOjOCvI
+
+  [Goto Top](#documentation)
+</details>
+
   <details>
     <summary>What to do with the space behind the door</summary>
     https://m.youtube.com/watch?v=JlyBpA2SMfo
+
+  [Goto Top](#documentation)
   </details>
 
 ### PineWood Derby
