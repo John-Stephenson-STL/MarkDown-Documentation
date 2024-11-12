@@ -39,6 +39,7 @@
     11.2 [Cool Ideas](#cool-ideas)  <br>
     11.3 [PineWood Derby](#pinewood-derby)  <br>
     11.4 [Cool Ideas](#cool-ideas) <br>
+    11.5 [Stupidity](#stupidity) <br>
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
@@ -93,6 +94,8 @@
 | 11/06/2024 | STL John S | Added to food |
 | 11/11/2024 | STL John S | Added PineWood |
 | 11/11/2024 | STL John S | Added Cartoon Image section |
+| 11/12/2024 | STL John S | Added Stupidity under How To |
+
   [Goto Top](#documentation)  
 
 </details>
@@ -730,6 +733,12 @@
   <details>
     <summary>Cutting the Block</summary>
     https://m.youtube.com/watch?v=-RjJtO51ykY
+  </details>
+
+### Stupidity
+  <details>
+    <summary>Laws of Human Stupidity</summary>
+    https://m.youtube.com/watch?v=OIqd8ABi6YA
   </details>
 
 ### SETUP Writing  
