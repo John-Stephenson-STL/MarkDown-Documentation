@@ -38,7 +38,7 @@
     11.1 [Cartoon Image](#cartoon-image) <br>
     11.2 [Cool Ideas](#cool-ideas)  <br>
     11.3 [PineWood Derby](#pinewood-derby)  <br>
-    11.4 [Cool Hacks](#cool-hacks) <br>
+    11.4 [Cool Ideas](#cool-ideas) <br>
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
