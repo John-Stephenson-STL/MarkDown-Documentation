@@ -26,6 +26,7 @@
     8.2. [LibreOffice](#libreoffice) <br>
     8.3. [IDE](#ide) <br>
     8.4. [NAS](#nas) <br>
+    8.5  [Halloween](#halloween) <br>
 9. [Programming](#programming) <br>
     9.1. [Table of Contents](#table-of-contents) <br>
     9.2. [Markdown Reeadme](#markdown-readme) <br>
@@ -241,7 +242,7 @@
 
 ## TECHNICAL  
 
-  ### Gadgets  
+  #### Gadgets  
    [Google Search](https://www.google.com/search?q=satechi+usb+c+combo+hub&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)  
    [Amazon Search](https://www.amazon.com/Achoro-Ports-USB-3-0-High-Speed/dp/B08ZSY33BM/ref=asc_df_B07PYHBKWJ/?tag=hyprod-20&linkCode=df0&hvadid=693535620612&hvpos=&hvnetw=g&hvrand=18132658606510315003&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-813253721517&psc=1&mcid=702c02645d74309faf7eee41f67b310e&gad_source=1&th=1)  
    [Amazon Search](https://www.amazon.com/Achoro-Ports-USB-3-0-High-Speed/dp/B07PYHBKWJ/ref=asc_df_B07PYHBKWJ/?tag=hyprod-20&linkCode=df0&hvadid=693535620612&hvpos=&hvnetw=g&hvrand=18132658606510315003&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-813253721517&psc=1&mcid=702c02645d74309faf7eee41f67b310e&gad_source=1) 
@@ -253,8 +254,7 @@
 
   [Goto Top](#documentation)  
 
-   <details>
-    <summary>Halloween</summary>
+   ### Halloween
 
    <details>
      <summary>Pumpkin Carvings</summary>
@@ -338,13 +338,23 @@
   <details>
    <summary>Creepy Halloween Carving</summary>
     https://m.youtube.com/watch?v=2IVdvQqV8-U
+
+  [Goto Top](#documentation)
   </details>
 
   <details>
     <summary>Safe Pumpkin Carving</summary>
       https://m.youtube.com/watch?v=wUl8AuW53UY
+
+  [Goto Top](#documentation)
   </details>
 
+### Cool Hacks
+<details>
+  <summary>Jelly Bean Guessing Game</summary>
+    https://m.youtube.com/watch?v=iBh3zOjOCvI
+
+  [Goto Top](#documentation)
 </details>
 
 ### LibreOffice  
@@ -352,7 +362,7 @@
   [LibreOffice Official](https://www.libreoffice.org)  
   [Upgrade LibreOffice](https://help.libreoffice.org/latest/en-US/text/shared/01/online_update.html?DbPAR=SHARED)  
 
-  [Goto Top](#documentation)  
+  [Goto Top](#documentation)
 
 ### IDE  
    [Zed](https://zed.dev)   
