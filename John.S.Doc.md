@@ -1165,4 +1165,6 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   [Crack Pop Corn](https://m.youtube.com/watch?v=jhTV68uWtbI)
 
+  [Make Candy at Home](https://m.youtube.com/watch?v=fFptIfckcFE)
+
   [Goto Top](#documentation)  
