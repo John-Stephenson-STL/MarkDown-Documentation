@@ -51,6 +51,15 @@
 19. [EyeGlasses](#eyeglasses) <br> 
 20. [D.I.Y.](#diy)  <br>
 21. [Food](#food)  <br>
+    21.1. [Popcorn](#popcorn)
+    21.2. [Grill Cheese](#grill-cheese)
+    21.3. [Pizza](#pizza)
+    21.4. [Peanut Butter](#peanut-butter)
+    21.5. [Spaghetti](#spaghetti)
+    21.6. [Lasagna](#lasagna)
+    21.7. [Soup](#soup)
+    21.8. [Candy](#candy)
+    21.9. [Eggs](#eggs)
 </details>  
 
 # ChangeLog
@@ -95,6 +104,7 @@
 | 11/11/2024 | STL John S | Added PineWood |
 | 11/11/2024 | STL John S | Added Cartoon Image section |
 | 11/12/2024 | STL John S | Added Stupidity under How To |
+| 11/13/2024 | STL John S | Added French Omlette to Foods |
 
   [Goto Top](#documentation)  
 
@@ -1171,22 +1181,51 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   [Goto Top](#documentation)  
 
 ## Food  
-  [Healthy Popcorn](https://m.youtube.com/watch?v=I8xaCAWjqvU)  
-  [Snickers Popcorn Recipe](https://www.u-createcrafts.com/snickers-popcorn-recipe-only-3/)  
-  [Oreo Cookie Popcorn Recipe](https://www.u-createcrafts.com/oreo-cookie-popcorn-recipe/)  
-  [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)  
-  [DogTown Pizza](https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/)  
 
-  [PeanutButter Cookies](https://kirbiecravings.com/2-ingredient-soft-peanut-butter-cookies/)
+  ### Popcorn
+   [Healthy Popcorn](https://m.youtube.com/watch?v=I8xaCAWjqvU)  
+   [Snickers Popcorn Recipe](https://www.u-createcrafts.com/snickers-popcorn-recipe-only-3/)  
+   [Oreo Cookie Popcorn Recipe](https://www.u-createcrafts.com/oreo-cookie-popcorn-recipe/)  
+   [Crack Pop Corn](https://m.youtube.com/watch?v=jhTV68uWtbI)
 
-  [Spaghetti & Meatballs](https://www.epicurious.com/video/watch/epicurious-101-the-best-spaghetti-and-meatballs-youll-ever-make-restaurant-quality)  
+  [Goto Top](#documentation)  
 
-  [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
+  ### Grill Cheese
+   [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)  
 
-  [Famous Barr's French Onion Soup](https://www.food.com/recipe/famous-barrs-french-onion-soup-607)
+  [Goto Top](#documentation)  
 
-  [Crack Pop Corn](https://m.youtube.com/watch?v=jhTV68uWtbI)
+  ### Pizza
+   [DogTown Pizza](https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/)  
 
-  [Make Candy at Home](https://m.youtube.com/watch?v=fFptIfckcFE)
+  [Goto Top](#documentation)  
+
+  ### Peanut Butter
+   [PeanutButter Cookies](https://kirbiecravings.com/2-ingredient-soft-peanut-butter-cookies/)
+
+  [Goto Top](#documentation)  
+
+  ### Spaghetti
+   [Spaghetti & Meatballs](https://www.epicurious.com/video/watch/epicurious-101-the-best-spaghetti-and-meatballs-youll-ever-make-restaurant-quality)  
+
+  [Goto Top](#documentation)  
+
+  ### Lasagna
+   [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
+
+  [Goto Top](#documentation)  
+
+  ### Soup
+   [Famous Barr's French Onion Soup](https://www.food.com/recipe/famous-barrs-french-onion-soup-607)
+
+  [Goto Top](#documentation)  
+
+  ### Candy
+   [Make Candy at Home](https://m.youtube.com/watch?v=fFptIfckcFE)
+
+  [Goto Top](#documentation)  
+
+  ### Eggs
+   [French Omlette](https://m.youtube.com/shorts/R5RLADALjQU)
 
   [Goto Top](#documentation)  
