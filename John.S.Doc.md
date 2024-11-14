@@ -51,15 +51,15 @@
 19. [EyeGlasses](#eyeglasses) <br> 
 20. [D.I.Y.](#diy)  <br>
 21. [Food](#food)  <br>
-    21.1. [Popcorn](#popcorn)
-    21.2. [Grill Cheese](#grill-cheese)
-    21.3. [Pizza](#pizza)
-    21.4. [Peanut Butter](#peanut-butter)
-    21.5. [Spaghetti](#spaghetti)
-    21.6. [Lasagna](#lasagna)
-    21.7. [Soup](#soup)
-    21.8. [Candy](#candy)
-    21.9. [Eggs](#eggs)
+    21.1. [Popcorn](#popcorn) <br>
+    21.2. [Grill Cheese](#grill-cheese)  <br>
+    21.3. [Pizza](#pizza)  <br>
+    21.4. [Peanut Butter](#peanut-butter)  <br>
+    21.5. [Spaghetti](#spaghetti) <br>
+    21.6. [Lasagna](#lasagna)  <br>
+    21.7. [Soup](#soup)  <br>
+    21.8. [Candy](#candy)  <br>
+    21.9. [Eggs](#eggs)  <br>
 </details>  
 
 # ChangeLog
