@@ -51,15 +51,16 @@
 19. [EyeGlasses](#eyeglasses) <br> 
 20. [D.I.Y.](#diy)  <br>
 21. [Food](#food)  <br>
-    21.1. [Popcorn](#popcorn) <br>
-    21.2. [Grill Cheese](#grill-cheese)  <br>
-    21.3. [Pizza](#pizza)  <br>
-    21.4. [Peanut Butter](#peanut-butter)  <br>
-    21.5. [Spaghetti](#spaghetti) <br>
-    21.6. [Lasagna](#lasagna)  <br>
-    21.7. [Soup](#soup)  <br>
-    21.8. [Candy](#candy)  <br>
-    21.9. [Eggs](#eggs)  <br>
+    21.1.  [Popcorn](#popcorn) <br>
+    21.2.  [Grill Cheese](#grill-cheese)  <br>
+    21.3.  [Pizza](#pizza)  <br>
+    21.4.  [Peanut Butter](#peanut-butter)  <br>
+    21.5.  [Spaghetti](#spaghetti) <br>
+    21.6.  [Lasagna](#lasagna)  <br>
+    21.7.  [Soup](#soup)  <br>
+    21.8.  [Candy](#candy)  <br>
+    21.9.  [Eggs](#eggs)  <br>
+    21.10. [Ice Cream](#ice-cream) <br>
 </details>  
 
 # ChangeLog
@@ -106,6 +107,7 @@
 | 11/12/2024 | STL John S | Added Stupidity under How To |
 | 11/13/2024 | STL John S | Added French Omlette to Foods |
 | 11/14/2024 | STL John S | Added Cast Iron Pizza to Food |
+| 11/17/2024 | STL John S | Added Ice Cream to Foods |
 
   [Goto Top](#documentation)  
 
@@ -1230,5 +1232,8 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   ### Eggs
    [French Omlette](https://m.youtube.com/shorts/R5RLADALjQU)
+
+  ### Ice Cream
+   [Banana Chocolate Ice Cream](https://m.youtube.com/watch?v=YwTaxIYm_94&pp=ygVTSXTigJlzIHNvIGRlbGljaW91cyBJIG1ha2UgaXQgYWxtb3N0IGV2ZXJ5IHdlZWtlbmQgRGVsbGljaW91cyByZWNpcGUgd2l0aCBjb25kZW5zZWQ%3D)
 
   [Goto Top](#documentation)  
