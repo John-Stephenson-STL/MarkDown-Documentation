@@ -360,6 +360,11 @@
   </details>
 
   <details>
+    <summary>BeetleJuice</summary>
+      https://m.youtube.com/watch?v=wHr2IhHtLmg
+  </details>
+
+  <details>
     <summary>Safe Pumpkin Carving</summary>
       https://m.youtube.com/watch?v=wUl8AuW53UY
 
