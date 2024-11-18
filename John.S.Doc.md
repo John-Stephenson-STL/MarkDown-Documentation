@@ -363,7 +363,8 @@
   <details>
     <summary>BeetleJuice</summary>
       https://m.youtube.com/watch?v=wHr2IhHtLmg  
-        [Goto Top](#documentation)  
+       
+       [Goto Top](#documentation)  
   </details>
 
   <details>
