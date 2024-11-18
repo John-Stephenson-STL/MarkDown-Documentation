@@ -342,7 +342,8 @@
 
   <details>
     <summary>What sn Illusion</summary>
-     https://m.youtube.com/watch?v=2aEWnhmJnJs
+     https://m.youtube.com/watch?v=2aEWnhmJnJs  
+      [Goto Top](#documentation)  
   </details>
 
   <details>
@@ -361,7 +362,8 @@
 
   <details>
     <summary>BeetleJuice</summary>
-      https://m.youtube.com/watch?v=wHr2IhHtLmg
+      https://m.youtube.com/watch?v=wHr2IhHtLmg  
+        [Goto Top](#documentation)  
   </details>
 
   <details>
