@@ -1241,7 +1241,11 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   ### Eggs
    [French Omlette](https://m.youtube.com/shorts/R5RLADALjQU)
 
+  [Goto Top](#documentation)  
+
   ### Ice Cream
    [Banana Chocolate Ice Cream](https://m.youtube.com/watch?v=YwTaxIYm_94&pp=ygVTSXTigJlzIHNvIGRlbGljaW91cyBJIG1ha2UgaXQgYWxtb3N0IGV2ZXJ5IHdlZWtlbmQgRGVsbGljaW91cyByZWNpcGUgd2l0aCBjb25kZW5zZWQ%3D)
+
+   [Taste Test](https://m.youtube.com/watch?v=-gxC4B_WGYI)
 
   [Goto Top](#documentation)  
