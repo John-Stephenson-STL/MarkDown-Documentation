@@ -108,7 +108,7 @@
 | 11/13/2024 | STL John S | Added French Omlette to Foods |
 | 11/14/2024 | STL John S | Added Cast Iron Pizza to Food |
 | 11/17/2024 | STL John S | Added Ice Cream to Foods |
-
+| 11/22/2024 | STL John S | Added Doughnuts to Food section |
   [Goto Top](#documentation)  
 
 </details>
@@ -1192,6 +1192,9 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   [Goto Top](#documentation)  
 
 ## Food  
+
+  ## Doughnuts  
+   [Home-made Doughnuts](https://m.youtube.com/watch?v=ACxRbS5yhM4)
 
   ### Popcorn
    [Healthy Popcorn](https://m.youtube.com/watch?v=I8xaCAWjqvU)  
