@@ -27,6 +27,7 @@
     8.3. [IDE](#ide) <br>
     8.4. [NAS](#nas) <br>
     8.5  [Halloween](#halloween) <br>
+    8.6. [Christmas](#christmas) <br>
 9. [Programming](#programming) <br>
     9.1. [Table of Contents](#table-of-contents) <br>
     9.2. [Markdown Reeadme](#markdown-readme) <br>
@@ -110,6 +111,8 @@
 | 11/14/2024 | STL John S | Added Cast Iron Pizza to Food |
 | 11/17/2024 | STL John S | Added Ice Cream to Foods |
 | 11/22/2024 | STL John S | Added Doughnuts to Food section |
+| 11/23/2024 | STL John S | Added Christmas to Technical |
+
   [Goto Top](#documentation)  
 
 </details>
@@ -373,6 +376,14 @@
       https://m.youtube.com/watch?v=wUl8AuW53UY
 
   [Goto Top](#documentation)
+  </details>
+
+### Christmas  
+  <details>
+    <summary>Christmas Tree idea</summary>
+    https://m.youtube.com/watch?v=3sfYdbIj6Sg&pp=ygUpY2hyaXN0bWFzIHRyZWUgaWRlYXMgcGFwZXIgY2hyaXN0bWFzIHRyZWU%3D
+    
+   [Goto Top](#documentation)
   </details>
 
 ### LibreOffice  
