@@ -51,16 +51,17 @@
 19. [EyeGlasses](#eyeglasses) <br> 
 20. [D.I.Y.](#diy)  <br>
 21. [Food](#food)  <br>
-    21.1.  [Popcorn](#popcorn) <br>
-    21.2.  [Grill Cheese](#grill-cheese)  <br>
-    21.3.  [Pizza](#pizza)  <br>
-    21.4.  [Peanut Butter](#peanut-butter)  <br>
-    21.5.  [Spaghetti](#spaghetti) <br>
-    21.6.  [Lasagna](#lasagna)  <br>
-    21.7.  [Soup](#soup)  <br>
-    21.8.  [Candy](#candy)  <br>
-    21.9.  [Eggs](#eggs)  <br>
-    21.10. [Ice Cream](#ice-cream) <br>
+    21.1.  [Doughnuts](#doughnuts) <br>
+    21.2.  [Popcorn](#popcorn) <br>
+    21.3.  [Grill Cheese](#grill-cheese)  <br>
+    21.4.  [Pizza](#pizza)  <br>
+    21.5.  [Peanut Butter](#peanut-butter)  <br>
+    21.6.  [Spaghetti](#spaghetti) <br>
+    21.7.  [Lasagna](#lasagna)  <br>
+    21.8.  [Soup](#soup)  <br>
+    21.9.  [Candy](#candy)  <br>
+    21.10.  [Eggs](#eggs)  <br>
+    21.11. [Ice Cream](#ice-cream) <br>
 </details>  
 
 # ChangeLog
@@ -1195,6 +1196,8 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   ## Doughnuts  
    [Home-made Doughnuts](https://m.youtube.com/watch?v=ACxRbS5yhM4)
+
+  [Goto Top](#documentation)  
 
   ### Popcorn
    [Healthy Popcorn](https://m.youtube.com/watch?v=I8xaCAWjqvU)  
