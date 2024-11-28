@@ -133,7 +133,7 @@
 
 </details>  
 
-### Vertical Nail Ridges
+## Vertical Nail Ridges <a name="vertical-nail-ridges"></a>
 
   [Causes and Fix](https://m.youtube.com/watch?v=ZOSuKhhsE2M)  
 
@@ -415,7 +415,7 @@
 
 ## PROGRAMMING  
 
-### Table of Contents  
+### Setup Table of Contents  
   [Create ToC](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents#27953547)
 
 <details>
