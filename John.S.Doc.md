@@ -41,6 +41,7 @@
     11.3 [PineWood Derby](#pinewood-derby)  <br>
     11.4 [Cool Ideas](#cool-ideas) <br>
     11.5 [Stupidity](#stupidity) <br>
+    11.6 [Funeral](#funeral) <br>
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
@@ -113,6 +114,7 @@
 | 11/22/2024 | STL John S | Added Doughnuts to Food section |
 | 11/23/2024 | STL John S | Added Christmas to Technical |
 | 11/28/2024 | STL John S | Added iPhone unknown caller |
+| 11/29/2024 | SYL John S | Added Funeral to how To section |  
 
   [Goto Top](#documentation)  
 
@@ -761,6 +763,13 @@
     https://m.youtube.com/watch?v=JlyBpA2SMfo
 
   [Goto Top](#documentation)
+  </details>
+
+## Funeral 
+  <details>
+    <summary>What happens after your Funeral</summary€
+      https://m.youtube.com/watch?v=nrYpQ2Xm1yo
+        [Goto Top](#documentation)
   </details>
 
 ### PineWood Derby
