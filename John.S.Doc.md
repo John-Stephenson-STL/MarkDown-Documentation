@@ -769,8 +769,8 @@
   <details>
     <summary>What happens after your Funeral</summary€
       https://m.youtube.com/watch?v=nrYpQ2Xm1yo
-        [Goto Top](#documentation)
   </details>
+   [Goto Top](#documentation)
 
 ### PineWood Derby
   <details>
