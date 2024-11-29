@@ -42,6 +42,7 @@
     11.4 [Cool Ideas](#cool-ideas) <br>
     11.5 [Stupidity](#stupidity) <br>
     11.6 [Funeral](#funeral) <br>
+    11.7 [Eye Glasses](#eye-glasses) <br>
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
@@ -115,6 +116,7 @@
 | 11/23/2024 | STL John S | Added Christmas to Technical |
 | 11/28/2024 | STL John S | Added iPhone unknown caller |
 | 11/29/2024 | SYL John S | Added Funeral to how To section |  
+| 11/29/2024 | STL John S | Added Eye Glasses to How To |
 
   [Goto Top](#documentation)  
 
@@ -722,6 +724,14 @@
 </details>  
 
 ## HOW TO  
+
+### Eye Glasses
+  <details>
+    <summary>Warby Parker Cleaning</summary>
+      https://www.warbyparker.com/learn/how-to-clean-glasses <br>
+    <summary>Youtube version</summary>
+     https://m.youtube.com/watch?v=RYr-Vo42_pI
+  </details>
 
 ### Cartoon Image
 
