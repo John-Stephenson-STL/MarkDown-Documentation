@@ -412,9 +412,9 @@
       6. Peacock  
       7. vscode pets  
 
-   [Goto Top](#documentation)  
+   [Goto Top](#documentation)
 
-### NAS   
+### NAS <a name="nas"></a>
 
   [N100 NAS 2 Bay](https://www.amazon.com/Healuck-Storage-Router-System-Support/dp/B0D5VLGV9Z?th=1&psc=1)  
 
@@ -550,7 +550,7 @@
 
   [Goto Top](#documentation)  
 
-## Vite  
+## Vite <a name="vite"></a>
 
 <details>
   <summary>CSS</summary>
@@ -642,7 +642,7 @@
   [Goto Top](#documentation)  
 </details>
 
-## Build Tools  
+## Build Tools <a name="build-tools"></a>
 
 ### GIT<a name="git"></a>
 
@@ -667,7 +667,7 @@
 
 </details>  
 
-### Languages  
+### Languages <a name="languages"></a>
 
 <details>  
 <summary>NEXT.js</summary>    
@@ -727,9 +727,9 @@
 
 </details>  
 
-## HOW TO  
+## HOW TO <a name="how-to"></a>
 
-### Eye Glasses
+### Eye Glasses <a name="eye-glasses"></a>
   <details>
     <summary>Warby Parker Cleaning</summary>
       https://www.warbyparker.com/learn/how-to-clean-glasses <br>
@@ -737,7 +737,7 @@
      https://m.youtube.com/watch?v=RYr-Vo42_pI
   </details>
 
-### Cartoon Image
+### Cartoon Image <a name="cartoon-image"></a>
 
   <details>
     <summary>Make Oneself aCartoon Image</summary>
@@ -763,7 +763,7 @@
   https://m.youtube.com/watch?v=_L-WUrZ7tJM
  </details>  
 
-### Cool Ideas
+### Cool Ideas <a name="cool-ideas"></a>
 
 <details>
   <summary>Jelly Bean Guessing Game</summary>
@@ -779,26 +779,26 @@
   [Goto Top](#documentation)
   </details>
 
-## Funeral 
+## Funeral <a name="funeral"></a>
   <details>
     <summary>What happens after your Funeral</summary€
       https://m.youtube.com/watch?v=nrYpQ2Xm1yo
   </details>
    [Goto Top](#documentation)
 
-### PineWood Derby
+### PineWood Derby <a name="pinewood-derby"></a>
   <details>
     <summary>Cutting the Block</summary>
     https://m.youtube.com/watch?v=-RjJtO51ykY
   </details>
 
-### Stupidity
+### Stupidity <a name="stupidity"></a>
   <details>
     <summary>Laws of Human Stupidity</summary>
     https://m.youtube.com/watch?v=OIqd8ABi6YA
   </details>
 
-### SETUP Writing  
+### SETUP Writing <a name="setup-writing"></a>
   
   [TUTORIAL WITH CONFLUENCE](https://www.atlassian.com "Main Page")  
 
@@ -808,7 +808,7 @@
 
   [Goto Top](#documentation)  
 
-## Send anonymous email  
+## Send anonymous email <a name="send-anonymous-email"></a>
 
   [LifeWire's How To](https://www.lifewire.com/what-is-an-email-alias-4689556)  
 
@@ -818,9 +818,9 @@
 
   [Goto Top](#documentation)  
 
-## Apple    
+## Apple <a name="apple"></a>
 
-### Check Unknown Caller
+### Check Unknown Caller <a name="check-unknown-caller"></a>
   <details>
     <summary>Check Unknown Caller</summary>
      https://m.youtube.com/watch?v=4ylCUKqCEgs
@@ -860,7 +860,7 @@
    https://getsupport.apple.com/?caller=ikb
 </details>  
 
-### iTunes  
+### iTunes <a name="itunes"></a>
 
 <details>
 <summary>Podcast I listen/ listened to</summary><br/ >  
@@ -889,7 +889,13 @@
 
 </details>  
 
-## Quotes  
+### Airpods <a name="airpods"></a>
+  <details>
+    <summary>How To Use</summary€
+      https://m.youtube.com/watch?v=HJ8rzbL3Tig
+  </details>
+
+## Quotes <a name="quotes"></a>
 <details>
 <summary>Dr. Seuss</summary><br/ >
 
