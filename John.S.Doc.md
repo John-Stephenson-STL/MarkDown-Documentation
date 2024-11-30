@@ -68,7 +68,7 @@
     21.11. [Ice Cream](#ice-cream) <br>
 </details>  
 
-# ChangeLog
+# ChangeLog <a name="changelog"></a>
 
 <details>
 
@@ -171,7 +171,7 @@
 
 </details>
 
-###	Initial PC Setup  
+### Initial P.C. Setup <a name="initial-pc-setup"></a>
 
  [Prevent Bug Bites](https://m.youtube.com/watch?v=WP0Mnezjsys)  
 
@@ -182,16 +182,17 @@
 
   [Goto Top](#documentation)  
 
-### PC Backup
+### P.C. Backup <a name="pc-backup"></a>
 
-## Databases
+## Darabases <a name="databases"></a>
+
   [Free Hosting](https://m.youtube.com/watch?v=cYP0k_shdWc)  
 
   [Goto Top](#documentation)  
 
-## Warnings
+## Warnings <a name="warnings"></a>
 
-  ###  Phone Scam
+  ### Phone Scams <a name="phone-scam"></a>
    <details>
     <summary>How to Check, Is this phone number a scammer</summary>
      https://www.msn.com/en-us/news/technology/is-this-number-a-scammer-heres-how-to-check/ar-AA1lZG9z    
@@ -199,7 +200,7 @@
    [Goto Top](#documentation)  
    </details>
 
-### Scammers  
+### Scammers <a name="scammers"></a>  
 
   <details><br />
     <summary>Don't talk to Strangers</summary>  
@@ -209,7 +210,7 @@
 
   </details>  
 
-  ### FireFox Browser  
+  ### Firefox Browser <a name="firefox-browser"></a>
    [Mozilla and PPA](https://m.youtube.com/watch?v=mFOMBM48LNA)  
 
    [Disable PPA ( Privacy-Preserving Attribution )](https://support.mozilla.org/en-US/kb/privacy-preserving-attribution#w_how-can-i-disable-ppa)  
