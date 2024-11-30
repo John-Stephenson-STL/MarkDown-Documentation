@@ -65,8 +65,8 @@ WEEK 6
 PAY DAY
 
 WEEK 7
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
-| S | 11/30/2024 |       |       |       |       |       |       |        |         |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
+| S | 11/30/2024 | 05:00 | 11:26 | 11:26 | 11:27 | 06:27 |       |  01:00 |         |
 | J | 12/01/2024 |       |       |       |       |       |       |        |         |
 | M | 12/02/2024 |       |       |       |       |       |       |        |         |
 | T | 12/03/2024 |       |       |       |       |       |       |        |         |
@@ -75,7 +75,7 @@ WEEK 7
 | F | 12/06/2024 |       |       |       |       |       |       |        |         |
 
 WEEK 8
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
 | S | 12/07/2024 |       |       |       |       |       |       |        |         |
 | J | 12/08/2024 |       |       |       |       |       |       |        |         |
 | M | 12/09/2024 |       |       |       |       |       |       |        |         |
@@ -87,7 +87,7 @@ WEEK 8
 PAY DAY
 
 WEEK 9
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
 | S | 12/14/2024 |       |       |       |       |       |       |        |         |
 | J | 12/15/2024 |       |       |       |       |       |       |        |         |
 | M | 12/16/2024 |       |       |       |       |       |       |        |         |
@@ -97,7 +97,7 @@ WEEK 9
 | F | 12/20/2024 |       |       |       |       |       |       |        |         |
 
 WEEK 10
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
 | S | 12/21/2024 |       |       |       |       |       |       |        |         |
 | J | 12/22/2024 |       |       |       |       |       |       |        |         |
 | M | 12/23/2024 |       |       |       |       |       |       |        |         |
@@ -109,7 +109,7 @@ WEEK 10
 PAY SAY
 
 WEEK 11
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
 | S | 12/28/2024 |       |       |       |       |       |       |        |         |
 | J | 12/29/2024 |       |       |       |       |       |       |        |         |
 | M | 12/30/2024 |       |       |       |       |       |       |        |         |
@@ -119,7 +119,7 @@ WEEK 11
 | F | 01/03/2025 |       |       |       |       |       |       |        |         |
 
 WEEK 12
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
 | S | 01/04/2025 |       |       |       |       |       |       |        |         |
 | J | 01/05/2025 |       |       |       |       |       |       |        |         |
 | M | 01/06/2025 |       |       |       |       |       |       |        |         |
@@ -131,7 +131,7 @@ WEEK 12
 PAY DAY
 
 WEEK 13
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
 | S | 01/11/2025 |       |       |       |       |       |       |        |         |
 | J | 01/12/2025 |       |       |       |       |       |       |        |         |
 | M | 01/13/2025 |       |       |       |       |       |       |        |         |
@@ -141,7 +141,7 @@ WEEK 13
 | F | 01/17/2025 |       |       |       |       |       |       |        |         |
 
 WEEK 14
-| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty |
+| DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT  | Penalty | Transitional Emp Negative Cros |
 | S | 01/18/2025 |       |       |       |       |       |       |        |         |
 | J | 01/19/2025 |       |       |       |       |       |       |        |         |
 | M | 01/20/2025 |       |       |       |       |       |       |        |         |
