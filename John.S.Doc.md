@@ -46,7 +46,8 @@
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
-    14.1. [iTunes](#itunes)  <br>
+    14.1 [iTunes](#itunes)  <br>
+    14.2 [Airpods](#airpods) <br>
 15. [Quotes](#quotes)  <br>
 16. [Songs](#songs)  <br>
 17. [iPhone](#iphone)  <br>
@@ -117,6 +118,7 @@
 | 11/28/2024 | STL John S | Added iPhone unknown caller |
 | 11/29/2024 | SYL John S | Added Funeral to how To section |  
 | 11/29/2024 | STL John S | Added Eye Glasses to How To |
+| 11/30/2024 | STL Jobn S | Added Airpods to Apple |
 
   [Goto Top](#documentation)  
 
@@ -417,9 +419,10 @@
 
   [Goto Top](#documentation)  
 
-## PROGRAMMING  
+## Programming <a name="programming"></a>
 
-### Setup Table of Contents  
+## Setup Table of Contents <a name="table-of-contents"></a>
+
   [Create ToC](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents#27953547)
 
 <details>
@@ -479,7 +482,7 @@
 > Heading 4
 </details>
 
-### Markdown README
+## Markdown ReadMe <a name="markdown-readme"></a>
 
 <details>
   <summary>How to Create a README.md file</summary>
@@ -488,7 +491,7 @@
   [Goto Top](#documentation)  
 </details>
 
-### MarkDown  
+### MarkDown <a name="markdown"></a>
 
 <details>
   <summary>CSS</summary>
