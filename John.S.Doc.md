@@ -913,6 +913,13 @@
    [Goto Top](#documentation)  
   </details>
 
+  <details>
+   <summary>Assembly</summary>
+    https://support.apple.com/en-us/119849
+
+   [Goto Top](#documentation)  
+  </details>
+
 ## Quotes <a name="quotes"></a>
 <details>
 <summary>Dr. Seuss</summary><br/ >
