@@ -896,6 +896,11 @@
       https://m.youtube.com/watch?v=HJ8rzbL3Tig
   </details>
 
+  <details>
+    <summary>BusinessInsider's Recommendation</summary>
+    https://www.businessinsider.com/guides/tech/airpod-pro-controls?op=1
+  </details>
+
 ## Quotes <a name="quotes"></a>
 <details>
 <summary>Dr. Seuss</summary><br/ >
