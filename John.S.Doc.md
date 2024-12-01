@@ -894,16 +894,22 @@
   <details>
     <summary>Setup & Review</summary>
     https://m.youtube.com/watch?v=arxAqXy-J7A
+    
+   [Goto Top](#documentation)  
   </details>
 
   <details>
     <summary>How To Use</summary>
       https://m.youtube.com/watch?v=HJ8rzbL3Tig
+  
+   [Goto Top](#documentation)  
   </details>
 
   <details>
     <summary>BusinessInsider's Recommendation</summary>
     https://www.businessinsider.com/guides/tech/airpod-pro-controls?op=1
+
+   [Goto Top](#documentation)  
   </details>
 
 ## Quotes <a name="quotes"></a>
@@ -1153,7 +1159,7 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
 </details>
 
-### Songs  
+### Songs <a name="songs"></a>
 
   <details>
     <summary>NEW. -  Devil Went Down to Georgia</summary>
@@ -1194,7 +1200,7 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
   [Goto Top](#documentation)  
 
-#### iPhone
+#### iPhone <a name="iphone"></a>
 
   [Make Your Volume Louder](https://m.youtube.com/watch?v=8bVnXilcAPc)  
 
@@ -1219,7 +1225,7 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
 </details>
 
-### MagSafe  
+### MagSafe <a name="magsafe"></a>
  
   [Anker's MagSafe](https://www.amazon.com/Anker-Magnetic-Wireless-Charging-Detachable/dp/B09B38GW7G/ref=asc_df_B09B385PDW/?tag=hyprod-20&linkCode=df0&hvadid=563823052931&hvpos=&hvnetw=g&hvrand=9724247907471239455&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-1485907903573&psc=1&mcid=973e2fcff27f3de6bd7288801f144b95&th=1)  
 
@@ -1237,12 +1243,12 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   [Goto Top](#documentation)  
 
-## EyeGlasses  
+## EyeGlasses <a name="eyeglasses"></a>
   [Duduma EyeGlasses](https://www.amazon.com/Duduma-Polarized-Sunglasses-Running-Unbreakable/dp/B015T1199K/ref=mp_s_a_1_3?adgrpid=1345802795096478&dib=eyJ2IjoiMSJ9.F1rlLqOeFp-lVkqzH9b-LLj5wUdF28FOctAXznBQnmsAuTkskK2Z7sB_NfORsDhbpbaAwU3gGUqVKwoThmZ9WWvKTGLMTl1MuGCyLC1-kDJGPffG6xiCliPi2W5TmdRzW8RLd3ClI227OqZlJMQyWoSjNbpUOnrUPwkL9qs8dMzeUyr7oyTEPzT58lGYxF8TnzabTkitPuFOaGT8rqNc4FotFYFFfOovlnOKP5YXknLWA1_5rpL2opTYMIpcyjv1BeT1ZjllYn-797b7M581E2dNUGHPhdlSC_e5ytGKm0U.HQ0owO4bgf7uC3zsJqbii_WV20jf3Z3LjPnLyooqLyk&dib_tag=se&hvadid=84112889576671&hvbmt=be&hvdev=m&hvlocphy=90315&hvnetw=o&hvqmt=e&hvtargid=kwd-84113015252572%3Aloc-190&hydadcr=11806_13276027&keywords=duduma+sunglasses&qid=1726097881&sr=8-3)  
 
   [Goto Top](#documentation)  
 
-## DIY  
+## DIY <a name="diy"></a>
   [Wall Clock](https://m.youtube.com/watch?v=VTeLqETIais)  
   
   [Clamps](https://m.youtube.com/watch?v=JFY6jAOE72o)  
@@ -1250,14 +1256,14 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   [Goto Top](#documentation)  
 
-## Food  
+## Food <a name="food"></a>
 
-  ## Doughnuts  
+  ## Doughnuts <a name="doughnuts"></a>
    [Home-made Doughnuts](https://m.youtube.com/watch?v=ACxRbS5yhM4)
 
   [Goto Top](#documentation)  
 
-  ### Popcorn
+  ### Popcorn <a name="popcorn"></a>
    [Healthy Popcorn](https://m.youtube.com/watch?v=I8xaCAWjqvU)  
    [Snickers Popcorn Recipe](https://www.u-createcrafts.com/snickers-popcorn-recipe-only-3/)  
    [Oreo Cookie Popcorn Recipe](https://www.u-createcrafts.com/oreo-cookie-popcorn-recipe/)  
@@ -1265,49 +1271,49 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   [Goto Top](#documentation)  
 
-  ### Grill Cheese
+  ### Grill Cheese <a name="grill-cheese"></a>
    [Grilled Cheese HotDog](https://m.youtube.com/watch?v=AL4kqAi-0jc)  
 
   [Goto Top](#documentation)  
 
-  ### Pizza
+  ### Pizza <a name="pizza"></a>
    [DogTown Pizza](https://www.dogtownpizza.com/#/st-louis-style-frozen-pizza/about-dogtown-pizza/)  
 
    [Cast Iron Pizza](https://m.youtube.com/watch?v=HR9dUF3TW4Y)
 
   [Goto Top](#documentation)  
 
-  ### Peanut Butter
+  ### Peanut Butter <a name="peanut-butter"></a>
    [PeanutButter Cookies](https://kirbiecravings.com/2-ingredient-soft-peanut-butter-cookies/)
 
   [Goto Top](#documentation)  
 
-  ### Spaghetti
+  ### Spaghetti <a name="spaghetti"></a>
    [Spaghetti & Meatballs](https://www.epicurious.com/video/watch/epicurious-101-the-best-spaghetti-and-meatballs-youll-ever-make-restaurant-quality)  
 
   [Goto Top](#documentation)  
 
-  ### Lasagna
+  ### Lasagna <a name="lasagna"></a>
    [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
 
   [Goto Top](#documentation)  
 
-  ### Soup
+  ### Soup <a name="soup"></a>
    [Famous Barr's French Onion Soup](https://www.food.com/recipe/famous-barrs-french-onion-soup-607)
 
   [Goto Top](#documentation)  
 
-  ### Candy
+  ### Candy <a name="candy"></a>
    [Make Candy at Home](https://m.youtube.com/watch?v=fFptIfckcFE)
 
   [Goto Top](#documentation)  
 
-  ### Eggs
+  ### Eggs <a name="eggs"></a>
    [French Omlette](https://m.youtube.com/shorts/R5RLADALjQU)
 
   [Goto Top](#documentation)  
 
-  ### Ice Cream
+  ### Ice Cream <a name="ice-cream"></a>
    [Banana Chocolate Ice Cream](https://m.youtube.com/watch?v=YwTaxIYm_94&pp=ygVTSXTigJlzIHNvIGRlbGljaW91cyBJIG1ha2UgaXQgYWxtb3N0IGV2ZXJ5IHdlZWtlbmQgRGVsbGljaW91cyByZWNpcGUgd2l0aCBjb25kZW5zZWQ%3D)
 
    [Taste Test](https://m.youtube.com/watch?v=-gxC4B_WGYI)
