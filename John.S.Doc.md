@@ -47,7 +47,7 @@
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
     14.1 [iTunes](#itunes)  <br>
-    14.2 [Airpods](#airpods) <br>
+    14.2 [Airpods Pro 2](#airpods-pro-2) <br>
 15. [Quotes](#quotes)  <br>
 16. [Songs](#songs)  <br>
 17. [iPhone](#iphone)  <br>
@@ -118,7 +118,7 @@
 | 11/28/2024 | STL John S | Added iPhone unknown caller |
 | 11/29/2024 | SYL John S | Added Funeral to how To section |  
 | 11/29/2024 | STL John S | Added Eye Glasses to How To |
-| 11/30/2024 | STL Jobn S | Added Airpods to Apple |
+| 11/30/2024 | STL Jobn S | Added Airpods Pro 2 to Apple |
 
   [Goto Top](#documentation)  
 
@@ -890,7 +890,12 @@
 
 </details>  
 
-### Airpods <a name="airpods"></a>
+### Airpods Pro 2 <a name="airpods-pro-2"></a>
+  <details>
+    <summary>Setup & Review</summary>
+    https://m.youtube.com/watch?v=arxAqXy-J7A
+  </details>
+
   <details>
     <summary>How To Use</summary>
       https://m.youtube.com/watch?v=HJ8rzbL3Tig
