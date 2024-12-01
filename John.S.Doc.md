@@ -644,7 +644,7 @@
 
 ## Build Tools <a name="build-tools"></a>
 
-### GIT<a name="git"></a>
+### GIT <a name="git"></a>
 
   https://m.youtube.com/watch?v=xN1-2p06Urc
 
@@ -743,6 +743,7 @@
     <summary>Make Oneself aCartoon Image</summary>
     https://m.youtube.com/watch?v=0fAIuajsGw4
   </details>
+
   [Goto Top](#documentation)  
 
   <details>
