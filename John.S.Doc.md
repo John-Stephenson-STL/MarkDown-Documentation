@@ -892,7 +892,7 @@
 
 ### Airpods <a name="airpods"></a>
   <details>
-    <summary>How To Use</summary€
+    <summary>How To Use</summary>
       https://m.youtube.com/watch?v=HJ8rzbL3Tig
   </details>
 
