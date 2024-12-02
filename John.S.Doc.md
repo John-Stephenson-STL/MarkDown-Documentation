@@ -1052,7 +1052,7 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
    </details>
 
    <details>
-    <summary>Swedish Chef makes Popcorn</summary
+    <summary>Swedish Chef makes Popcorn</summary>
      https://m.youtube.com/watch?v=AvDvTnTGjgQ
   
   [Goto Top](#documentation)  
