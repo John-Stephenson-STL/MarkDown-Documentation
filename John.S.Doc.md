@@ -998,7 +998,8 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
    [Goto Top](#documentation)  
 
    </details>   
-   <details>   
+
+     <details>   
      <<summary>Common Knowledge</summary>
       https://m.youtube.com/watch?v=e0HGEZXTy8Y
    </details>   
@@ -1016,7 +1017,7 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
 </details>
 
 <details>  
-  <summary>Happiness Fliw Chart</summary>  
+  <summary>Happiness Flow Chart</summary>  
    https://m.youtube.com/watch?v=I22DvXMgu6w
 
   [Goto Top](#documentation)  
@@ -1041,7 +1042,13 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 </details>
 
 <details>
-  <summary>Muppets</summary>  
+  <summary>Muppets</summary> 
+
+   <details>
+    <summary>Swedish Chef Makes Pumpkin Pie</details>
+    https://m.youtube.com/watch?v=AvDvTnTGjgQ
+   </details>
+ 
    <details>
     <summary>Muppets Ringing the Bells</summary>  
       https://m.youtube.com/watch?v=S0psMcHw0LM
