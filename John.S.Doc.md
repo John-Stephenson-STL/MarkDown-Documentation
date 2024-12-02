@@ -999,7 +999,7 @@ https://m.youtube.com/watch?v=4Z6WmIfa1xc
 
    </details>   
 
-     <details>   
+  <details>   
      <<summary>Common Knowledge</summary>
       https://m.youtube.com/watch?v=e0HGEZXTy8Y
    </details>   
@@ -1045,7 +1045,7 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   <summary>Muppets</summary> 
 
    <details>
-    <summary>Swedish Chef Makes Pumpkin Pie</details>
+    <summary>Swedish Chef Makes Pumpkin Pie</summary>
     https://m.youtube.com/watch?v=AvDvTnTGjgQ
    </details>
  
