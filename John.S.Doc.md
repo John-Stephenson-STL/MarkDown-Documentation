@@ -1046,7 +1046,9 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
    <details>
     <summary>Swedish Chef Makes Pumpkin Pie</summary>
-    https://m.youtube.com/watch?v=AvDvTnTGjgQ
+      https://m.youtube.com/watch?v=ue0ntfkknUM
+    
+https://m.youtube.com/watch?v=AvDvTnTGjgQ
    </details>
  
    <details>
