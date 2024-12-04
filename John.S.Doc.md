@@ -237,9 +237,9 @@
   ### Car Exhaust
    <details>
     <summary>Types of Car Exhaust</summary>
-     https://m.youtube.com/watch?v=4CT6j399QGw
-      <br>
-     [Goto Top](#documentation)  
+     https://m.youtube.com/watch?v=4CT6j399QGw <br>
+      
+  [Goto Top](#documentation)  
    </details>
 
   #### To Report theft from QR scam
