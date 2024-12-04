@@ -20,6 +20,7 @@
     6.3. [Firefox Browser](#firefox-browser) <br>
     6.4. [JavaScript](#javascript) <br>
     6.5. [QR Codes](#qr-codes) <br>
+    6.6. [Car Exhaust](#car-exhaust) <br>
 7. [P.C. Setup](#pc-setup) <br>
 8. [Technical](#technical) <br>
     8.1. [Gadgets](#gadgets) <br>
@@ -120,6 +121,7 @@
 | 11/29/2024 | SYL John S | Added Funeral to how To section |  
 | 11/29/2024 | STL John S | Added Eye Glasses to How To |
 | 11/30/2024 | STL Jobn S | Added Airpods Pro 2 to Apple |
+| 12/04/2024 | STL John S | Added Car Exhaust to Warning section |
 
   [Goto Top](#documentation)  
 
@@ -231,6 +233,12 @@
    [F.B.I. isseue new Warning](https://m.youtube.com/watch?v=DU_y85NlSeY)  
 
   [Goto Top](#documentation)  
+
+  ### Car Exhaust
+   <details>
+    <summary>Types of Car Exhaust</summary>
+     https://m.youtube.com/watch?v=4CT6j399QGw
+   </details>
 
   #### To Report theft from QR scam
   ic3.gov
