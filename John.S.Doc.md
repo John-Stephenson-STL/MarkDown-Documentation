@@ -782,13 +782,13 @@
   [Goto Top](#documentation)  
  </details>  
 
-### Windshield Icing <a name="windshield-icing"></a>
-  <details>
-    <sjmmary>Prevent Windshield Icing</summary>
-      https://m.youtube.com/watch?v=g13Y-_XDgGI
+  ### Prevent Windshield Icing <a name="windshield-icing"></a>
+   <details>
+    <summary>Prevent Windshield Icing</summary>
+     https://m.youtube.com/watch?v=g13Y-_XDgGI    
 
-  [Goto Top](#documentation)  
-  </details>
+   [Goto Top](#documentation)  
+   </details>
 
 ### Cool Ideas <a name="cool-ideas"></a>
 
