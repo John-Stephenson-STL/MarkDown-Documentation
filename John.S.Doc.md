@@ -44,6 +44,7 @@
     11.5 [Stupidity](#stupidity) <br>
     11.6 [Funeral](#funeral) <br>
     11.7 [Eye Glasses](#eye-glasses) <br>
+    11.8 [Prevent Windshield Ice](#windshield-icing) <br>
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
@@ -122,6 +123,8 @@
 | 11/29/2024 | STL John S | Added Eye Glasses to How To |
 | 11/30/2024 | STL Jobn S | Added Airpods Pro 2 to Apple |
 | 12/04/2024 | STL John S | Added Car Exhaust to Warning section |
+| 12-07-2024 | STL John S | Added Windshield Icing in How To section |
+
 
   [Goto Top](#documentation)  
 
@@ -768,12 +771,24 @@
   <details>
    <summary>4 Types of People</summary>
     https://m.youtube.com/watch?v=BWNFcojSrwM&pp=ygVJd2hpY2ggYXJlIHlvdSAtIDQgdHlwZXMgb2YgaHVtYW4gYmVoYXZpb3IgJmhvdyB0byBkZWFsICBsaXR0bGUgYml0IGJldHRlUg%3D%3D
+
+  [Goto Top](#documentation)  
   </details>
 
  <details>
   <summary>Reason for Dumb-i-fied Phone</summary>
   https://m.youtube.com/watch?v=_L-WUrZ7tJM
+
+  [Goto Top](#documentation)  
  </details>  
+
+### Windshield Icing <a name="windshield-icing"></a>
+  <details>
+    <sjmmary>Prevent Windshield Icing</summary>
+      https://m.youtube.com/watch?v=g13Y-_XDgGI
+
+  [Goto Top](#documentation)  
+  </details>
 
 ### Cool Ideas <a name="cool-ideas"></a>
 
