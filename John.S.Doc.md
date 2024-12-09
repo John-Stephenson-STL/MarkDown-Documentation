@@ -51,6 +51,7 @@
     14.1 [Check Unknown Caller](#check-unknown-caller) <br>
     14.2 [iTunes](#itunes)  <br>
     14.3 [Airpods Pro 2](#airpods-pro-2) <br>
+    14.3.a. [Cleaning](#cleaning) <br>
 15. [Quotes](#quotes)  <br>
 16. [Songs](#songs)  <br>
 17. [iPhone](#iphone)  <br>
@@ -124,7 +125,7 @@
 | 11/30/2024 | STL Jobn S | Added Airpods Pro 2 to Apple |
 | 12/04/2024 | STL John S | Added Car Exhaust to Warning section |
 | 12-07-2024 | STL John S | Added Windshield Icing in How To section |
-
+| 12-08-2024 | STL John S | Added Cleaning to Airpods Pro 2 section |
 
   [Goto Top](#documentation)  
 
@@ -886,6 +887,12 @@
   <summary>Contact Apple Support</summary>  
    https://getsupport.apple.com/?caller=ikb
 </details>  
+
+### Cleaning <a name="cleaning"></a>
+  <details>
+    <summary>Cleaning</summary>
+      https://m.youtube.com/watch?v=iRuFGsv9-eQ
+  </details>
 
 ### iTunes <a name="itunes"></a>
 
