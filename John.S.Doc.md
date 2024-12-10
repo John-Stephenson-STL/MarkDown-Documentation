@@ -52,6 +52,7 @@
     14.2 [iTunes](#itunes)  <br>
     14.3 [Airpods Pro 2](#airpods-pro-2) <br>
     14.3.a. [Cleaning](#cleaning) <br>
+    14.4. [Eye Tracking](#eye-tracking) <br>
 15. [Quotes](#quotes)  <br>
 16. [Songs](#songs)  <br>
 17. [iPhone](#iphone)  <br>
@@ -124,8 +125,9 @@
 | 11/29/2024 | STL John S | Added Eye Glasses to How To |
 | 11/30/2024 | STL Jobn S | Added Airpods Pro 2 to Apple |
 | 12/04/2024 | STL John S | Added Car Exhaust to Warning section |
-| 12-07-2024 | STL John S | Added Windshield Icing in How To section |
-| 12-08-2024 | STL John S | Added Cleaning to Airpods Pro 2 section |
+| 12/07/2024 | STL John S | Added Windshield Icing in How To section |
+| 12/08/2024 | STL John S | Added Cleaning to Airpods Pro 2 section |
+| 12/09/2024 | STL John S | Added Eye Tracking to Apple section |
 
   [Goto Top](#documentation)  
 
@@ -892,6 +894,12 @@
   <details>
     <summary>Cleaning</summary>
       https://m.youtube.com/watch?v=iRuFGsv9-eQ
+  </details>
+
+ ### Eye Tracking <a name="eye tracking"></a>
+  <details>
+   <summary>Enable Eye Tracking<summary>
+    https://m.youtube.com/watch?v=OZ2oOREbQ4E
   </details>
 
 ### iTunes <a name="itunes"></a>
