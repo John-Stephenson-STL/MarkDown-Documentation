@@ -896,10 +896,12 @@
       https://m.youtube.com/watch?v=iRuFGsv9-eQ
   </details>
 
- ### Eye Tracking <a name="eye tracking"></a>
+### Eye Tracking <a name="eye-tracking"></a>
   <details>
-   <summary>Enable Eye Tracking</summary>
-    https://m.youtube.com/watch?v=OZ2oOREbQ4E
+    <summary>Eye Tracking/summary>
+      https://m.youtube.com/watch?v=OZ2oOREbQ4E
+  </details>
+    
   </details>
 
 ### iTunes <a name="itunes"></a>
