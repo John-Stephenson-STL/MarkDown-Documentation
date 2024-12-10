@@ -898,7 +898,7 @@
 
  ### Eye Tracking <a name="eye tracking"></a>
   <details>
-   <summary>Enable Eye Tracking<summary>
+   <summary>Enable Eye Tracking</summary>
     https://m.youtube.com/watch?v=OZ2oOREbQ4E
   </details>
 
