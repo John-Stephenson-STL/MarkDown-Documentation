@@ -69,8 +69,9 @@
     21.7.  [Lasagna](#lasagna)  <br>
     21.8.  [Soup](#soup)  <br>
     21.9.  [Candy](#candy)  <br>
-    21.10.  [Eggs](#eggs)  <br>
+    21.10. [Eggs](#eggs)  <br>
     21.11. [Ice Cream](#ice-cream) <br>
+    21.12. [Hot Chocolate](#hot-chocolate) <br>
 </details>  
 
 # ChangeLog <a name="changelog"></a>
@@ -128,6 +129,7 @@
 | 12/07/2024 | STL John S | Added Windshield Icing in How To section |
 | 12/08/2024 | STL John S | Added Cleaning to Airpods Pro 2 section |
 | 12/09/2024 | STL John S | Added Eye Tracking to Apple section |
+| 12/13/2024 | STL John S | Added Hot Chocolate to Food section |
 
   [Goto Top](#documentation)  
 
@@ -1390,3 +1392,11 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
    [Taste Test](https://m.youtube.com/watch?v=-gxC4B_WGYI)
 
   [Goto Top](#documentation)  
+
+  ### Hot Chocolate <a name="hot-chocolate"></a>
+   [YouTube Demo](https://m.youtube.com/watch?v=RcywJvBZsY8)
+
+   [Recipe](https://downshiftology.com/recipes/best-hot-chocolate/)
+
+  [Goto Top](#documentation)  
+
