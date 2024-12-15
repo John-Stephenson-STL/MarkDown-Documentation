@@ -10,10 +10,11 @@
 1. [ChangeLog](#changelog) <br>
 2. [Informational](#informational) <br>
     2.1. [Math Tips](#math-tips) <br>
-    2.2. [Verticle Nail Ridges](#vertical-nail-ridges)
-3. [Initial P.C. Setup](#initial-pc-setup)
-4. [P.C. Backup](#pc-backup)
-5. [Databases](#databases)
+    2.2. [Verticle Nail Ridges](#vertical-nail-ridges) <br>
+    2.3.  [Watch What Happens](#mix-salt-vinegar) <br>
+3. [Initial P.C. Setup](#initial-pc-setup) <br>
+4. [P.C. Backup](#pc-backup) <br>
+5. [Databases](#databases) <br>
 6. [Warnings](#warnings) <br>
     6.1. [Check for Scammers](#phone-scam) <br>
     6.2. [Scammers](#scammers) <br>
@@ -130,6 +131,7 @@
 | 12/08/2024 | STL John S | Added Cleaning to Airpods Pro 2 section |
 | 12/09/2024 | STL John S | Added Eye Tracking to Apple section |
 | 12/13/2024 | STL John S | Added Hot Chocolate to Food section |
+| 12/15/2024 | STL John S | Added Mix Salt Vinegar to Informational section <br>
 
   [Goto Top](#documentation)  
 
@@ -154,6 +156,11 @@
 
   [Causes and Fix](https://m.youtube.com/watch?v=ZOSuKhhsE2M)  
 
+## Salt with Vinegar <a nam="mix-salt-vinegar"></a>
+  <details>
+    <summary>Mix Salt Vinegar</summary>
+    https://m.youtube.com/watch?v=vFbDHm1bpiA
+  </details>
 
 **[Farts](#farts--1)**
 <details>
