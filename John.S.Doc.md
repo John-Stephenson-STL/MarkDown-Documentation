@@ -132,6 +132,7 @@
 | 12/09/2024 | STL John S | Added Eye Tracking to Apple section |
 | 12/13/2024 | STL John S | Added Hot Chocolate to Food section |
 | 12/15/2024 | STL John S | Added Mix Salt Vinegar to Informational section <br>
+| 12/16/2024 | STL John S | Added to Christmas section |
 
   [Goto Top](#documentation)  
 
@@ -417,6 +418,20 @@
     <summary>Christmas Tree idea</summary>
     https://m.youtube.com/watch?v=3sfYdbIj6Sg&pp=ygUpY2hyaXN0bWFzIHRyZWUgaWRlYXMgcGFwZXIgY2hyaXN0bWFzIHRyZWU%3D
     
+   [Goto Top](#documentation)
+  </details>
+
+  <details>
+    <summary>Gustavsson Family Lights 2023 - Danger Zone by Kenny Loggins</summary>
+      https://m.youtube.com/watch?v=24yrUHUwhMQ
+
+   [Goto Top](#documentation)
+  </details>
+
+  <details>
+    <summary>2024 Christmas Light Show - Foreigner "Juke Box Hero"</summary>
+    https://m.youtube.com/watch?v=lKBnBCRpdrU
+
    [Goto Top](#documentation)
   </details>
 
