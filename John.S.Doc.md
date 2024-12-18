@@ -315,6 +315,13 @@
    [Goto Top](#documentation)  
   </details>
 
+  <details>
+    <summary>Exceptional Speakers</summary>
+      https://m.youtube.com/watch?v=XEspOD1NHr0
+
+   [Goto Top](#documentation)  
+  </details>
+
 ## TECHNICAL <a name="technical"></a>
 
   #### Gadgets <a name="gadgets"></a>
