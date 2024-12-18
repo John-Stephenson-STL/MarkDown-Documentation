@@ -62,7 +62,7 @@
 20. [D.I.Y.](#diy)  <br>
 21. [Food](#food)  <br>
     21.1.  [Doughnuts](#doughnuts) <br>
-    21.2.  [Oreos](#oreo) <br>
+    21.2.  [Oreos](#oreos) <br>
     21.3.  [Popcorn](#popcorn) <br>
     21.4.  [Grill Cheese](#grill-cheese)  <br>
     21.5.  [Pizza](#pizza)  <br>
