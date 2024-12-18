@@ -49,11 +49,12 @@
 12. [Setup Writing ](#setup-writing) <br>
 13. [Anonymous E-mail](#send-anonymous-email) <br>
 14. [Apple](#apple)  <br>
-    14.1 [Check Unknown Caller](#check-unknown-caller) <br>
-    14.2 [iTunes](#itunes)  <br>
-    14.3 [Airpods Pro 2](#airpods-pro-2) <br>
-    14.3.a. [Cleaning](#cleaning) <br>
-    14.4. [Eye Tracking](#eye-tracking) <br>
+    14.1 [Tips](#tips) <br>
+    14.2 [Check Unknown Caller](#check-unknown-caller) <br>
+    14.3 [iTunes](#itunes)  <br>
+    14.4 [Airpods Pro 2](#airpods-pro-2) <br>
+    14.4.a. [Cleaning](#cleaning) <br>
+    14.5. [Eye Tracking](#eye-tracking) <br>
 15. [Quotes](#quotes)  <br>
 16. [Songs](#songs)  <br>
 17. [iPhone](#iphone)  <br>
@@ -874,6 +875,13 @@
   [Goto Top](#documentation)  
 
 ## Apple <a name="apple"></a>
+
+### Tips <a name="tips"></a>
+
+  <details>
+    <summary>UseFul Tips</summary>
+     https://m.youtube.com/watch?v=Ba_TK9G7dBg
+  </details>
 
 ### Check Unknown Caller <a name="check-unknown-caller"></a>
   <details>
