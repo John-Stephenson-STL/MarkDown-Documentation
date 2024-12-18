@@ -308,6 +308,13 @@
 
   </details>
 
+  <details>
+    <summary>$185 Speakers</summary>
+      https://m.youtube.com/watch?v=zwkJU37unVE
+
+   [Goto Top](#documentation)  
+  </details>
+
 ## TECHNICAL <a name="technical"></a>
 
   #### Gadgets <a name="gadgets"></a>
