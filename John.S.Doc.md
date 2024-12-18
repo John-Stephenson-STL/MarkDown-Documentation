@@ -23,58 +23,59 @@
     6.5. [QR Codes](#qr-codes) <br>
     6.6. [Car Exhaust](#car-exhaust) <br>
 7. [P.C. Setup](#pc-setup) <br>
-8. [Technical](#technical) <br>
-    8.1. [Gadgets](#gadgets) <br>
-    8.2. [LibreOffice](#libreoffice) <br>
-    8.3. [IDE](#ide) <br>
-    8.4. [NAS](#nas) <br>
-    8.5  [Halloween](#halloween) <br>
-    8.6. [Christmas](#christmas) <br>
-9. [Programming](#programming) <br>
-    9.1. [Table of Contents](#table-of-contents) <br>
-    9.2. [Markdown Reeadme](#markdown-readme) <br>
-    9.3. [Markdown](#markdown)  <br>
-10. [Build Tools](#build-tools)  <br>
-    10.1. [GIT](#git) <br>
-    10.2. [Languages](#languages) <br>  
-11. [How To](#how-to) <br>
-    11.1 [Cartoon Image](#cartoon-image) <br>
-    11.2 [Cool Ideas](#cool-ideas)  <br>
-    11.3 [PineWood Derby](#pinewood-derby)  <br>
-    11.4 [Cool Ideas](#cool-ideas) <br>
-    11.5 [Stupidity](#stupidity) <br>
-    11.6 [Funeral](#funeral) <br>
-    11.7 [Eye Glasses](#eye-glasses) <br>
-    11.8 [Prevent Windshield Ice](#windshield-icing) <br>
-12. [Setup Writing ](#setup-writing) <br>
-13. [Anonymous E-mail](#send-anonymous-email) <br>
-14. [Apple](#apple)  <br>
-    14.1 [Tips](#tips) <br>
-    14.2 [Check Unknown Caller](#check-unknown-caller) <br>
-    14.3 [iTunes](#itunes)  <br>
-    14.4 [Airpods Pro 2](#airpods-pro-2) <br>
-    14.4.a. [Cleaning](#cleaning) <br>
-    14.5. [Eye Tracking](#eye-tracking) <br>
-15. [Quotes](#quotes)  <br>
-16. [Songs](#songs)  <br>
-17. [iPhone](#iphone)  <br>
-18. [MagSafe](#magsafe)  <br>
-19. [EyeGlasses](#eyeglasses) <br> 
-20. [D.I.Y.](#diy)  <br>
-21. [Food](#food)  <br>
-    21.1.  [Doughnuts](#doughnuts) <br>
-    21.2.  [Oreos](#oreos) <br>
-    21.3.  [Popcorn](#popcorn) <br>
-    21.4.  [Grill Cheese](#grill-cheese)  <br>
-    21.5.  [Pizza](#pizza)  <br>
-    21.6.  [Peanut Butter](#peanut-butter)  <br>
-    21.7.  [Spaghetti](#spaghetti) <br>
-    21.8.  [Lasagna](#lasagna)  <br>
-    21.9.  [Soup](#soup)  <br>
-    21.10.  [Candy](#candy)  <br>
-    21.11. [Eggs](#eggs)  <br>
-    21.12. [Ice Cream](#ice-cream) <br>
-    21.13. [Hot Chocolate](#hot-chocolate) <br>
+8. [Home Theater](#home-theater) <br>
+9. [Technical](#technical) <br>
+    9.1. [Gadgets](#gadgets) <br>
+    9.2. [LibreOffice](#libreoffice) <br>
+    9.3. [IDE](#ide) <br>
+    9.4. [NAS](#nas) <br>
+    9.5  [Halloween](#halloween) <br>
+    9.6. [Christmas](#christmas) <br>
+10. [Programming](#programming) <br>
+    10.1. [Table of Contents](#table-of-contents) <br>
+    10.2. [Markdown Reeadme](#markdown-readme) <br>
+    10.3. [Markdown](#markdown)  <br>
+11. [Build Tools](#build-tools)  <br>
+    11.1. [GIT](#git) <br>
+    11.2. [Languages](#languages) <br>  
+12. [How To](#how-to) <br>
+    12.1 [Cartoon Image](#cartoon-image) <br>
+    12.2 [Cool Ideas](#cool-ideas)  <br>
+    12.3 [PineWood Derby](#pinewood-derby)  <br>
+    12.4 [Cool Ideas](#cool-ideas) <br>
+    12.5 [Stupidity](#stupidity) <br>
+    12.6 [Funeral](#funeral) <br>
+    12.7 [Eye Glasses](#eye-glasses) <br>
+    12.8 [Prevent Windshield Ice](#windshield-icing) <br>
+13. [Setup Writing ](#setup-writing) <br>
+14. [Anonymous E-mail](#send-anonymous-email) <br>
+15. [Apple](#apple)  <br>
+    15.1 [Tips](#tips) <br>
+    15.2 [Check Unknown Caller](#check-unknown-caller) <br>
+    15.3 [iTunes](#itunes)  <br>
+    15.4 [Airpods Pro 2](#airpods-pro-2) <br>
+    15.4.a. [Cleaning](#cleaning) <br>
+    15.5. [Eye Tracking](#eye-tracking) <br>
+16. [Quotes](#quotes)  <br>
+17. [Songs](#songs)  <br>
+18. [iPhone](#iphone)  <br>
+19. [MagSafe](#magsafe)  <br>
+20. [EyeGlasses](#eyeglasses) <br> 
+21. [D.I.Y.](#diy)  <br>
+22. [Food](#food)  <br>
+    22.1.  [Doughnuts](#doughnuts) <br>
+    22.2.  [Oreos](#oreos) <br>
+    22.3.  [Popcorn](#popcorn) <br>
+    22.4.  [Grill Cheese](#grill-cheese)  <br>
+    22.5.  [Pizza](#pizza)  <br>
+    22.6.  [Peanut Butter](#peanut-butter)  <br>
+    22.7.  [Spaghetti](#spaghetti) <br>
+    22.8.  [Lasagna](#lasagna)  <br>
+    22.9.  [Soup](#soup)  <br>
+    22.10.  [Candy](#candy)  <br>
+    22.11. [Eggs](#eggs)  <br>
+    22.12. [Ice Cream](#ice-cream) <br>
+    22.13. [Hot Chocolate](#hot-chocolate) <br>
 </details>  
 
 # ChangeLog <a name="changelog"></a>
@@ -297,6 +298,12 @@
   [Goto Top](#documentation)  
 
 </details>  
+
+## Home Theater <a name="home-theater"></a>
+  <details>
+    <summary>Build Your Speakers</summary>
+      https://m.youtube.com/watch?v=soFwOSlzLPc
+  </details>
 
 ## TECHNICAL <a name="technical"></a>
 
