@@ -69,13 +69,14 @@
     22.4.  [Grill Cheese](#grill-cheese)  <br>
     22.5.  [Pizza](#pizza)  <br>
     22.6.  [Peanut Butter](#peanut-butter)  <br>
-    22.7.  [Spaghetti](#spaghetti) <br>
-    22.8.  [Lasagna](#lasagna)  <br>
-    22.9.  [Soup](#soup)  <br>
-    22.10.  [Candy](#candy)  <br>
-    22.11. [Eggs](#eggs)  <br>
-    22.12. [Ice Cream](#ice-cream) <br>
-    22.13. [Hot Chocolate](#hot-chocolate) <br>
+    22.7.  [Pasta](#pasta) <br>
+    22.7.a.  [Spaghetti](#spaghetti) <br>
+    22.7.b.  [Lasagna](#lasagna)  <br>
+    22.8.  [Soup](#soup)  <br>
+    22.9.  [Candy](#candy)  <br>
+    22.10. [Eggs](#eggs)  <br>
+    22.11. [Ice Cream](#ice-cream) <br>
+    22.12. [Hot Chocolate](#hot-chocolate) <br>
 </details>  
 
 # ChangeLog <a name="changelog"></a>
@@ -1424,12 +1425,15 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   [Goto Top](#documentation)  
 
-  ### Spaghetti <a name="spaghetti"></a>
+  ### Pasta <a name="pasta"></a>
+  [Make Pasta](https://m.youtube.com/watch?v=fUKYrm4o1UU)
+
+  #### Spaghetti <a name="spaghetti"></a>
    [Spaghetti & Meatballs](https://www.epicurious.com/video/watch/epicurious-101-the-best-spaghetti-and-meatballs-youll-ever-make-restaurant-quality)  
 
   [Goto Top](#documentation)  
 
-  ### Lasagna <a name="lasagna"></a>
+  #### Lasagna <a name="lasagna"></a>
    [Lasnaga](https://m.youtube.com/watch?v=qhMP4tEWD_I)   
 
   [Goto Top](#documentation)  
