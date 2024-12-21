@@ -1028,7 +1028,7 @@
 
 ### Password Manager <a name="password-manager"></a>
    <details>
-    <summary>Password Managers<summary>
+    <summary>Password Managers</summary>
       https://m.youtube.com/watch?v=4VMhGm3x3oI
 
    [Goto Top](#documentation)  
