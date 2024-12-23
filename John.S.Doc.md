@@ -1488,7 +1488,8 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   ### Hot Chocolate <a name="hot-chocolate"></a>
    <details>
     <summary>Inspiration</summary>
-   [YouTube Demo](https://m.youtube.com/watch?v=RcywJvBZsY8) <br>
+
+  [YouTube Demo](https://m.youtube.com/watch?v=RcywJvBZsY8) <br>
 
    [Recipe](https://downshiftology.com/recipes/best-hot-chocolate/) <br>
 
