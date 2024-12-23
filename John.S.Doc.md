@@ -11,7 +11,8 @@
 2. [Informational](#informational) <br>
     2.1. [Math Tips](#math-tips) <br>
     2.2. [Verticle Nail Ridges](#vertical-nail-ridges) <br>
-    2.3.  [Watch What Happens](#mix-salt-vinegar) <br>
+    2.3. [Watch What Happens](#mix-salt-vinegar) <br>
+    2.4. [Japanese.Gift Wrapping](#hapanese-gift-wrapping) </br>
 3. [Initial P.C. Setup](#initial-pc-setup) <br>
 4. [P.C. Backup](#pc-backup) <br>
 5. [Databases](#databases) <br>
@@ -193,6 +194,12 @@
   [Goto Top](#documentation)  
 </details>  
 
+</details>
+
+## Japanese Gift Wrapping
+<details>
+  <summary>Japanese Wrapping</summary>
+    https://m.youtube.com/watch?v=263owAmjgxY
 </details>
 
 ### Initial P.C. Setup <a name="initial-pc-setup"></a>
