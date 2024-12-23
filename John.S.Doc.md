@@ -200,6 +200,8 @@
 <details>
   <summary>Japanese Wrapping</summary>
     https://m.youtube.com/watch?v=263owAmjgxY
+
+  [Goto Top](#documentation)  
 </details>
 
 ### Initial P.C. Setup <a name="initial-pc-setup"></a>
