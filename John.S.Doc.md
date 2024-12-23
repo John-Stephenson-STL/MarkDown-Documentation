@@ -472,6 +472,13 @@
    [Goto Top](#documentation)
   </details>
 
+  <details>
+    <summary>Hilarious Light Show</summary>
+      https://m.youtube.com/watch?v=bua18A09xfQ
+
+   [Goto Top](#documentation)
+  </details>
+
 ### LibreOffice <a name="libreoffice"></a>
   [LibreOffice](https://m.youtube.com/watch?v=q-PoKzTlJY8)  
   [LibreOffice Official](https://www.libreoffice.org)  
@@ -1483,5 +1490,6 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
    [Recipe](https://downshiftology.com/recipes/best-hot-chocolate/)
 
+   [Vieal Recipe](https://m.youtube.com/watch?v=oCC2xP1SD2k)
   [Goto Top](#documentation)  
 
