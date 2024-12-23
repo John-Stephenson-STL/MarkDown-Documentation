@@ -12,7 +12,7 @@
     2.1. [Math Tips](#math-tips) <br>
     2.2. [Verticle Nail Ridges](#vertical-nail-ridges) <br>
     2.3. [Watch What Happens](#mix-salt-vinegar) <br>
-    2.4. [Japanese.Gift Wrapping](#hapanese-gift-wrapping) </br>
+    2.4. [Japanese Gift Wrapping](#japanese-gift-wrapping) </br>
 3. [Initial P.C. Setup](#initial-pc-setup) <br>
 4. [P.C. Backup](#pc-backup) <br>
 5. [Databases](#databases) <br>
