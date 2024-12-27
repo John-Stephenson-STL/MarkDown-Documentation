@@ -1091,25 +1091,31 @@ Unless someone like you cares a whole awful lot, nothing is going to get better.
 <details>
     <summary>Voting</summary>  
      Florida Voting<br />    
-     https://m.youtube.com/watch?v=MmPtfy9P714  
+     https://m.youtube.com/watch?v=MmPtfy9P714  <br>
+
+  [Goto Top](#documentation)  
 </details>  
 
 <details>
   <summary>Halloween</summary>  
    Devil Went Down to Georgia  
-  https://m.youtube.com/watch?v=qMiiqbKkmYQ  
+  https://m.youtube.com/watch?v=qMiiqbKkmYQ  <br>
+
+  [Goto Top](#documentation)  
 </details>
 
 <details>
   <summary>Funny Bumper Sticker</summary>  
-   https://www.amazon.com/C60337-bumper-humper-brakes-insurance/dp/B01KAJHEUO
+   https://www.amazon.com/C60337-bumper-humper-brakes-insurance/dp/B01KAJHEUO <br>
+
+  [Goto Top](#documentation)  
 </details>  
 
 <details>
 
   <summary>Men in Coats in HQ</summary>  
 
-https://m.youtube.com/watch?v=4Z6WmIfa1xc  
+  https://m.youtube.com/watch?v=4Z6WmIfa1xc  
 
   [Goto Top](#documentation)  
 
@@ -1385,10 +1391,10 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 #### Wireless Charging <a name="wireless-charging"></a>
   <details>
     <summary>New way for Wireless Charging</summary>
-      https://m.youtube.com/watch?v=lCxEM4ensFI
+      https://m.youtube.com/watch?v=lCxEM4ensFI <br>
+
+   [Goto Top](#documentation)  
   </details>
-
-
 
 ### MagSafe <a name="magsafe"></a>
  
