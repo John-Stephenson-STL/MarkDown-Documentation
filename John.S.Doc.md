@@ -54,13 +54,14 @@
     15.1 [Tips](#tips) <br>
     15.2 [Check Unknown Caller](#check-unknown-caller) <br>
     15.3 [iTunes](#itunes)  <br>
-    15.4 [Airpods Pro 2](#airpods-pro-2) <br>
-    15.4.a. [Cleaning](#cleaning) <br>
-    15.5. [Eye Tracking](#eye-tracking) <br>
-    15.6. [Password Manager](#password-manager) <br>
+    15.4 [iPhone](#iphone) <br>
+    15.5. [Airpods Pro 2](#airpods-pro-2) <br>
+    15.5.a. [Cleaning](#cleaning) <br>
+    15.6. [Eye Tracking](#eye-tracking) <br>
+    15.7. [Password Manager](#password-manager) <br>
 16. [Quotes](#quotes)  <br>
 17. [Songs](#songs)  <br>
-18. [iPhone](#iphone)  <br>
+18. [Wireless Charging](#wireless-charging)  <br>
 19. [MagSafe](#magsafe)  <br>
 20. [EyeGlasses](#eyeglasses) <br> 
 21. [D.I.Y.](#diy)  <br>
@@ -417,7 +418,7 @@
   </details>
 
   <details>
-    <summary>What sn Illusion</summary>
+    <summary>What's an Illusion</summary>
      https://m.youtube.com/watch?v=2aEWnhmJnJs  
       [Goto Top](#documentation)  
   </details>
@@ -974,7 +975,9 @@
 ### Eye Tracking <a name="eye-tracking"></a>
   <details>
     <summary>Eye Tracking</summary>
-      https://m.youtube.com/watch?v=OZ2oOREbQ4E
+      https://m.youtube.com/watch?v=OZ2oOREbQ4E <br>
+
+   [Goto Top](#documentation)  
   </details>
     
   </details>
@@ -1007,6 +1010,31 @@
   [Goto Top](#documentation)  
 
 </details>  
+
+### iPhone <a name="iphone"></a>
+
+  [Make Your Volume Louder](https://m.youtube.com/watch?v=8bVnXilcAPc)  
+
+  [How to Add Your Name](https://m.youtube.com/watch?v=hchBGUEDh0c)  
+
+  [Buy iPhone from](https://m.youtube.com/watch?v=6xWTbwgX_X4)  
+
+[How to Change Lighting Port to UBC-C](https://m.youtube.com/watch?v=1yudWXta6dM)  
+
+  [Goto Top](#documentation)  
+
+<details>
+<summary>How I optimized my iPhone 13 Pro Max</summary>  
+
+These steps are to get the most usage out of your iPhone.  
+
+I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.  
+
+&nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.  
+
+  [Goto Top](#documentation)  
+
+</details>
 
 ### Airpods Pro 2 <a name="airpods-pro-2"></a>
   <details>
@@ -1354,30 +1382,13 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
   [Goto Top](#documentation)  
 
-#### iPhone <a name="iphone"></a>
+#### Wireless Charging <a name="wireless-charging"></a>
+  <details>
+    <summary>New way for Wireless Charging</summary>
+      https://m.youtube.com/watch?v=lCxEM4ensFI
+  </details>
 
-  [Make Your Volume Louder](https://m.youtube.com/watch?v=8bVnXilcAPc)  
 
-  [How to Add Your Name](https://m.youtube.com/watch?v=hchBGUEDh0c)  
-
-  [Buy iPhone from](https://m.youtube.com/watch?v=6xWTbwgX_X4)  
-
-[How to Change Lighting Port to UBC-C](https://m.youtube.com/watch?v=1yudWXta6dM)  
-
-  [Goto Top](#documentation)  
-
-<details>
-<summary>How I optimized my iPhone 13 Pro Max</summary>  
-
-These steps are to get the most usage out of your iPhone.  
-
-I turn off BlueTooth which drains my battery as I only have two physical keyboards connected.  
-
-&nbsp;&nbsp;Whenever I need to use either keyboard I will go into settings and turn Bluetooth back on.  
-
-  [Goto Top](#documentation)  
-
-</details>
 
 ### MagSafe <a name="magsafe"></a>
  
