@@ -334,6 +334,16 @@
    [Goto Top](#documentation)  
   </details>
 
+  <details>
+    <summary>This Changes DIY Audio.. </summary>
+    https://m.youtube.com/watch?v=sFCkj2yKWck <br>
+
+   [Goto Top](#documentation)  
+  </details>
+
+
+
+
 ## TECHNICAL <a name="technical"></a>
 
   #### Gadgets <a name="gadgets"></a>
