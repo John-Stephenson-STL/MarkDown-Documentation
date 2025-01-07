@@ -1480,6 +1480,11 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
    [The Pizza Cheese Experiment](https://m.youtube.com/watch?v=SZV8uhtJ3ls)
 
+  <details>
+    <summary>How to make Detroit Style Pizza</summary>
+    https://m.youtube.com/watch?v=R3S_4EdvkQo
+  </details>
+
   [Goto Top](#documentation)  
 
   ### Peanut Butter <a name="peanut-butter"></a>
