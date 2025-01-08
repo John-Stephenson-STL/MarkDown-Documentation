@@ -1494,6 +1494,9 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
    [YouTube Detroit Pizza Recipe](https://m.youtube.com/watch?v=9v60RaIPcRA) <br>
 
+   [Updated Make Detroit-Style Pizza](https://m.youtube.com/watch?v=W05V4u5LYtk) < br>
+
+
    [Goto Top](#documentation)  
   </details>
 
