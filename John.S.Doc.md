@@ -1492,6 +1492,8 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
     [YouTube Detroit Stule](https://m.youtube.com/watch?v=R3S_4EdvkQo) <br>
     [Written Recipe](https://www.charlieandersoncooking.com/recipes/ultimate-detroit-style-pizza) <br>
 
+   [YouTube Detroit Pizza Recipe](https://m.youtube.com/watch?v=9v60RaIPcRA) <br>
+
    [Goto Top](#documentation)  
   </details>
 
