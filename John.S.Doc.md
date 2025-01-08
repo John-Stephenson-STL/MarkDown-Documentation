@@ -837,10 +837,10 @@
 
   <details>
     <summary>Make Oneself aCartoon Image</summary>
-    https://m.youtube.com/watch?v=0fAIuajsGw4
-  </details>
+    https://m.youtube.com/watch?v=0fAIuajsGw4 <br>
 
   [Goto Top](#documentation)  
+  </details>
 
   <details>
     <summary>How ShotGuns Work</summary>
