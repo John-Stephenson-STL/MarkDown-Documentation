@@ -1392,6 +1392,13 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
    </details>
 </details>  
 
+  <details>
+   <summary>Peanuts</summary>
+   https://m.youtube.com/watch?v=9WsbOLin8qc
+
+   [Goto Top](#documentation
+  </details>
+
   [Candy Man](https://m.youtube.com/watch?v=OWYcMvMbUiE)  
 
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
