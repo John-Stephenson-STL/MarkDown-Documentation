@@ -1361,14 +1361,14 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
   <details>
     <summary>NEW. -  Devil Went Down to Georgia</summary>
-    https://m.youtube.com/watch?v=L0XUTD7QYcs&t=267s&pp=2AGLApACAQ%3D%3D
+    https://m.youtube.com/watch?v=L0XUTD7QYcs&t=267s&pp=2AGLApACAQ%3D%3D <br>
     
-   [Goto Top](#documentation)  
-    </details>
+   [Goto Top](#documentation)   
+   </details>
 
   <details>
    <summary>Blue Man Group</summary>
-    https://m.youtube.com/watch?v=WXnt_yE2sgA
+    https://m.youtube.com/watch?v=WXnt_yE2sgA <br>
     
    [Goto Top](#documentation)  
   
@@ -1378,14 +1378,14 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   <summary>Shambala</summary>  
    <details>
     <summary>Daniel Moore</summary>  
-     https://m.youtube.com/watch?v=tC88ayYrfx8
+     https://m.youtube.com/watch?v=tC88ayYrfx8 <br>
 
    [Goto Top](#documentation)  
   </details>  
 
    <details>  
     <summary>3DN -Three Dog Night</summary>
-       https://m.youtube.com/watch?v=xnyh6i9NvmE
+       https://m.youtube.com/watch?v=xnyh6i9NvmE <br>
     
    [Goto Top](#documentation)  
 
@@ -1394,9 +1394,9 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
   <details>
    <summary>Peanuts</summary>
-   https://m.youtube.com/watch?v=9WsbOLin8qc
+   https://m.youtube.com/watch?v=9WsbOLin8qc <br>
 
-   [Goto Top](#documentation
+   [Goto Top](#documentation)
   </details>
 
   [Candy Man](https://m.youtube.com/watch?v=OWYcMvMbUiE)  
