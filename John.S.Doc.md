@@ -1487,15 +1487,36 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
    [The Pizza Cheese Experiment](https://m.youtube.com/watch?v=SZV8uhtJ3ls)
 
+<details>
+  <summary>Detroit Style Pizza</summary>  
+   <details>
+    <summary>YouTube Video</summary>  
+     https://m.youtube.com/watch?v=R3S_4EdvkQo <br>
+
+   [Goto Top](#documentation)  
+  </details>  
+
+   <details>  
+    <summary>3DN -Three Dog Night</summary>
+       https://m.youtube.com/watch?v=xnyh6i9NvmE <br>
+    
+   [Goto Top](#documentation)  
+
+   </details>
+   <details>
+    <summary>Written Instructions</summary>
+    https://www.charlieandersoncooking.com/recipes/ultimate-detroit-style-pizza
+  </details>
+
   <details>
-    <summary>Detroit Style Pizza</summary>
-    [YouTube Detroit Stule](https://m.youtube.com/watch?v=R3S_4EdvkQo) <br>
-    [Written Recipe](https://www.charlieandersoncooking.com/recipes/ultimate-detroit-style-pizza) <br>
+    <summary>YouTube Detroit Pizza Recipe</summary>
+    https://m.youtube.com/watch?v=9v60RaIPcRA) <br>
+  </details>
 
-   [YouTube Detroit Pizza Recipe](https://m.youtube.com/watch?v=9v60RaIPcRA) <br>
-
-   [Updated Make Detroit-Style Pizza](https://m.youtube.com/watch?v=W05V4u5LYtk) <br>
-
+  <details>
+   <summary>Updated Make Detroit-Style Pizza</summary>
+    https://m.youtube.com/watch?v=W05V4u5LYtk
+  </details>
 
    [Goto Top](#documentation)  
   </details>
