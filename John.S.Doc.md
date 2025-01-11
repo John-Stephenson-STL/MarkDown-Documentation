@@ -314,10 +314,10 @@
 ## Home Theater <a name="home-theater"></a>
   <details>
     <summary>Hi-Fi && Home Theater Terms</summary>
-    https://m.youtube.com/watch?v=6hOMPRunGxI <br>
+    https://m.youtube.com/watch?v=6hOMPRunGxI <p>
 
   [Goto Top](#documentation)  
-  </details> <br>
+  </details>
 
   <details>
     <summary>Build Your Speakers</summary>
