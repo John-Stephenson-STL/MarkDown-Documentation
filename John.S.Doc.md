@@ -59,27 +59,27 @@
     15.5.a. [Cleaning](#cleaning) <br>
     15.6. [Eye Tracking](#eye-tracking) <br>
     15.7. [Password Manager](#password-manager) <br>
+    15.8. [Wireless Charging](#wireless-charging)  <br>
+    15.9. [MagSafe](#magsafe)  <br>
 16. [Quotes](#quotes)  <br>
 17. [Songs](#songs)  <br>
-18. [Wireless Charging](#wireless-charging)  <br>
-19. [MagSafe](#magsafe)  <br>
-20. [EyeGlasses](#eyeglasses) <br> 
-21. [D.I.Y.](#diy)  <br>
-22. [Food](#food)  <br>
-    22.1.  [Doughnuts](#doughnuts) <br>
-    22.2.  [Oreos](#oreos) <br>
-    22.3.  [Popcorn](#popcorn) <br>
-    22.4.  [Grill Cheese](#grill-cheese)  <br>
-    22.5.  [Pizza](#pizza)  <br>
-    22.6.  [Peanut Butter](#peanut-butter)  <br>
-    22.7.  [Pasta](#pasta) <br>
-    22.7.a.  [Spaghetti](#spaghetti) <br>
-    22.7.b.  [Lasagna](#lasagna)  <br>
-    22.8.  [Soup](#soup)  <br>
-    22.9.  [Candy](#candy)  <br>
-    22.10. [Eggs](#eggs)  <br>
-    22.11. [Ice Cream](#ice-cream) <br>
-    22.12. [Hot Chocolate](#hot-chocolate) <br>
+18. [EyeGlasses](#eyeglasses) <br> 
+19. [D.I.Y.](#diy)  <br>
+20. [Food](#food)  <br>
+    20.1.  [Doughnuts](#doughnuts) <br>
+    20.2.  [Oreos](#oreos) <br>
+    20.3.  [Popcorn](#popcorn) <br>
+    20.4.  [Grill Cheese](#grill-cheese)  <br>
+    20.5.  [Pizza](#pizza)  <br>
+    20.6.  [Peanut Butter](#peanut-butter)  <br>
+    20.7.  [Pasta](#pasta) <br>
+    20.7.a.  [Spaghetti](#spaghetti) <br>
+    20.7.b.  [Lasagna](#lasagna)  <br>
+    20.8.  [Soup](#soup)  <br>
+    20.9.  [Candy](#candy)  <br>
+    20.10. [Eggs](#eggs)  <br>
+    20.11. [Ice Cream](#ice-cream) <br>
+    20.12. [Hot Chocolate](#hot-chocolate) <br>
 </details>  
 
 # ChangeLog <a name="changelog"></a>
@@ -1095,6 +1095,43 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
    [Goto Top](#documentation)  
    </details>
 
+
+#### Wireless Charging <a name="wireless-charging"></a>
+  <details>
+    <summary>New way for Wireless Charging</summary>
+      https://m.youtube.com/watch?v=lCxEM4ensFI <br>
+
+   [Goto Top](#documentation)  
+  </details>
+
+### MagSafe <a name="magsafe"></a>
+
+  <details>
+   <summary>DIY Phone Dock Station</summary>
+    https://m.youtube.com/watch?v=Zc-le6IxSvQ
+  </details>
+
+  <details>
+   <summary>Wooden Magsafe Stand</summary>
+    https://m.youtube.com/watch?v=uWxjmtm9-zk
+  </details>
+
+  [Anker's MagSafe](https://www.amazon.com/Anker-Magnetic-Wireless-Charging-Detachable/dp/B09B38GW7G/ref=asc_df_B09B385PDW/?tag=hyprod-20&linkCode=df0&hvadid=563823052931&hvpos=&hvnetw=g&hvrand=9724247907471239455&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-1485907903573&psc=1&mcid=973e2fcff27f3de6bd7288801f144b95&th=1)  
+
+  [Apple MagSafe 2Meter](https://www.apple.com/shop/product/MX6Y3LL/A/magsafe-charger-2-m?fnode=8f06300c0da2398fe251a67bb460f0fdc4fa6bd46b5b27a26cc893dede2c453767276299c978aa4f099ebcc648d03d5ea13a8d77b990a38994cd3af9d5627be70226e3a65dadbd57913f4d4d09b2a470419292b915af58751c094760c6481da6707558e7b0f51d100901b11c49732590)  
+
+  [Make device MagSafe](https://www.instagram.com/reel/C5Tr8aPxygr/?utm_source=ig_web_copy_link)
+  
+   [CreDream](https://www.amazon.com/CreaDream-Aluminum-Accessories-Compatible-Included-Silver/dp/B08X4G9RQ2)  
+        [iPhone Stand-by Mode Dock - Youtube](https://m.youtube.com/watch?v=L3nWw8qSYgk)  
+        [iPhone Standby Mode Dock](https://makerworld.com/en/models/615378#profileId-538769)  
+        [iPhone as a Computer](https://www.ipodhacks142.com/how-to-install-full-mac-os-x-on-the-iphone-or-ipad-using-utm-no-jailbreak/)  
+        [iPhone as a Computer No JailBreak](https://www.ipodhacks142.com/how-to-install-any-tweaked-hacked-app-ipa-on-ios-13-using-altstore-no-revoke-no-jailbreak/)  
+        [MagSafe or Qi2](https://www.macworld.com/article/2128673/what-is-qi2-is-qi2-iphone-wireless-charging-better-than-magsafe.html)  
+        [Remaker](https://remarkable.com/)  
+
+  [Goto Top](#documentation) 
+
 ## Quotes <a name="quotes"></a>
 <details>
 <summary>Dr. Seuss</summary><br/ >
@@ -1411,37 +1448,7 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   [Hello Muddah, Hello Fadduh](https://m.youtube.com/watch?v=4yFTOvO0utY)  
 
   [Goto Top](#documentation)  
-
-#### Wireless Charging <a name="wireless-charging"></a>
-  <details>
-    <summary>New way for Wireless Charging</summary>
-      https://m.youtube.com/watch?v=lCxEM4ensFI <br>
-
-   [Goto Top](#documentation)  
-  </details>
-
-### MagSafe <a name="magsafe"></a>
-
-  <details>
-   <summary>Wooden Magsafe Stand</summary>
-    https://m.youtube.com/watch?v=uWxjmtm9-zk
-  </details>
-
-  [Anker's MagSafe](https://www.amazon.com/Anker-Magnetic-Wireless-Charging-Detachable/dp/B09B38GW7G/ref=asc_df_B09B385PDW/?tag=hyprod-20&linkCode=df0&hvadid=563823052931&hvpos=&hvnetw=g&hvrand=9724247907471239455&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9022900&hvtargid=pla-1485907903573&psc=1&mcid=973e2fcff27f3de6bd7288801f144b95&th=1)  
-
-  [Apple MagSafe 2Meter](https://www.apple.com/shop/product/MX6Y3LL/A/magsafe-charger-2-m?fnode=8f06300c0da2398fe251a67bb460f0fdc4fa6bd46b5b27a26cc893dede2c453767276299c978aa4f099ebcc648d03d5ea13a8d77b990a38994cd3af9d5627be70226e3a65dadbd57913f4d4d09b2a470419292b915af58751c094760c6481da6707558e7b0f51d100901b11c49732590)  
-
-  [Make device MagSafe](https://www.instagram.com/reel/C5Tr8aPxygr/?utm_source=ig_web_copy_link)
-  
-   [CreDream](https://www.amazon.com/CreaDream-Aluminum-Accessories-Compatible-Included-Silver/dp/B08X4G9RQ2)  
-        [iPhone Stand-by Mode Dock - Youtube](https://m.youtube.com/watch?v=L3nWw8qSYgk)  
-        [iPhone Standby Mode Dock](https://makerworld.com/en/models/615378#profileId-538769)  
-        [iPhone as a Computer](https://www.ipodhacks142.com/how-to-install-full-mac-os-x-on-the-iphone-or-ipad-using-utm-no-jailbreak/)  
-        [iPhone as a Computer No JailBreak](https://www.ipodhacks142.com/how-to-install-any-tweaked-hacked-app-ipa-on-ios-13-using-altstore-no-revoke-no-jailbreak/)  
-        [MagSafe or Qi2](https://www.macworld.com/article/2128673/what-is-qi2-is-qi2-iphone-wireless-charging-better-than-magsafe.html)  
-        [Remaker](https://remarkable.com/)  
-
-  [Goto Top](#documentation)  
+ 
 
 ## EyeGlasses <a name="eyeglasses"></a>
   [Duduma EyeGlasses](https://www.amazon.com/Duduma-Polarized-Sunglasses-Running-Unbreakable/dp/B015T1199K/ref=mp_s_a_1_3?adgrpid=1345802795096478&dib=eyJ2IjoiMSJ9.F1rlLqOeFp-lVkqzH9b-LLj5wUdF28FOctAXznBQnmsAuTkskK2Z7sB_NfORsDhbpbaAwU3gGUqVKwoThmZ9WWvKTGLMTl1MuGCyLC1-kDJGPffG6xiCliPi2W5TmdRzW8RLd3ClI227OqZlJMQyWoSjNbpUOnrUPwkL9qs8dMzeUyr7oyTEPzT58lGYxF8TnzabTkitPuFOaGT8rqNc4FotFYFFfOovlnOKP5YXknLWA1_5rpL2opTYMIpcyjv1BeT1ZjllYn-797b7M581E2dNUGHPhdlSC_e5ytGKm0U.HQ0owO4bgf7uC3zsJqbii_WV20jf3Z3LjPnLyooqLyk&dib_tag=se&hvadid=84112889576671&hvbmt=be&hvdev=m&hvlocphy=90315&hvnetw=o&hvqmt=e&hvtargid=kwd-84113015252572%3Aloc-190&hydadcr=11806_13276027&keywords=duduma+sunglasses&qid=1726097881&sr=8-3)  
