@@ -312,6 +312,12 @@
 </details>  
 
 ## Home Theater <a name="home-theater"></a>
+
+  <details>
+    <summary>Selecting the Best Drivers for your project</summary>
+    https://m.youtube.com/watch?v=LM2RJf0Xf1k
+  </details>
+
   <details>
     <summary>Hi-Fi && Home Theater Terms</summary>
     https://m.youtube.com/watch?v=6hOMPRunGxI <p>
