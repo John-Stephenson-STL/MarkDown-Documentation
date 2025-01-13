@@ -314,8 +314,17 @@
 ## Home Theater <a name="home-theater"></a>
 
   <details>
+    <summary>Maximizing Your Hi-Fi and Home Theater Experience</summary>
+    https://m.youtube.com/watch?v=PsbORx6iNyk
+
+   [Goto Top](#documentation)  
+  </details>
+
+  <details>
     <summary>Selecting the Best Drivers for your project</summary>
     https://m.youtube.com/watch?v=LM2RJf0Xf1k
+
+   [Goto Top](#documentation)  
   </details>
 
   <details>
