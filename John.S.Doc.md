@@ -1565,6 +1565,8 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   ### Pasta <a name="pasta"></a>
   [Make Pasta](https://m.youtube.com/watch?v=fUKYrm4o1UU)
 
+  [Chicken Strip Pasta](https://m.youtube.com/watch?v=fUKYrm4o1UU) <p>
+
   #### Spaghetti <a name="spaghetti"></a>
    [Spaghetti & Meatballs](https://www.epicurious.com/video/watch/epicurious-101-the-best-spaghetti-and-meatballs-youll-ever-make-restaurant-quality)  
 
