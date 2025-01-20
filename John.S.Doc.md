@@ -953,7 +953,7 @@
 
 ## Apple <a name="apple"></a>
 
-## Keylogger< a name="keylogger"></a>
+## Keylogger <a name="keylogger"></a>
 
   <details>
     <summary>Check for Keyloggers</summary>
