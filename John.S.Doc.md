@@ -81,6 +81,7 @@
     20.10. [Eggs](#eggs)  <br>
     20.11. [Ice Cream](#ice-cream) <br>
     20.12. [Hot Chocolate](#hot-chocolate) <br>
+
 </details>  
 
 # ChangeLog <a name="changelog"></a>
