@@ -488,12 +488,14 @@
 ### Christmas <a name="christmas"></a>
   <details>
     <summary>Christmas && Grimm Reaper</summary>
-     https://m.youtube.com/watch?v=dAVVsdoPQ5Y&list=PLGAB0BfrfIPJuc3sLF6sPdKB0nkJwcbze&index=17&pp=iAQB
+     https://m.youtube.com/watch?v=dAVVsdoPQ5Y&list=PLGAB0BfrfIPJuc3sLF6sPdKB0nkJwcbze&index=17&pp=iAQB <br>
+      
+   [Goto Top](#documentation)
   </details>
 
   <details>
     <summary>Christmas Tree idea</summary>
-    https://m.youtube.com/watch?v=3sfYdbIj6Sg&pp=ygUpY2hyaXN0bWFzIHRyZWUgaWRlYXMgcGFwZXIgY2hyaXN0bWFzIHRyZWU%3D
+    https://m.youtube.com/watch?v=3sfYdbIj6Sg&pp=ygUpY2hyaXN0bWFzIHRyZWUgaWRlYXMgcGFwZXIgY2hyaXN0bWFzIHRyZWU%3D <br>
     
    [Goto Top](#documentation)
   </details>
