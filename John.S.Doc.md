@@ -494,6 +494,13 @@
   </details>
 
   <details>
+    <summary>Santa Ornaments</summary>
+      https://m.youtube.com/watch?v=ne0nD-LrT0Y
+
+   [Goto Top](#documentation)
+  </details>
+
+  <details>
     <summary>Christmas Tree idea</summary>
     https://m.youtube.com/watch?v=3sfYdbIj6Sg&pp=ygUpY2hyaXN0bWFzIHRyZWUgaWRlYXMgcGFwZXIgY2hyaXN0bWFzIHRyZWU%3D <br>
     
