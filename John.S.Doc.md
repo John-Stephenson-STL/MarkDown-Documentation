@@ -1170,7 +1170,15 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   [Goto Top](#documentation) 
 
-## Quotes <a name="quotes"></a>
+## Quotes && Humor <a name="quotes"></a>
+
+<details>
+  <summary>Humor Snow Shovelling</summary>
+    https://m.youtube.com/watch?v=GQzTMZKsutA <br>
+
+  [Goto Top](#documentation) 
+</details>
+
 <details>
 <summary>Dr. Seuss</summary><br/ >
 
