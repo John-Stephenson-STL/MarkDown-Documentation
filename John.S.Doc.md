@@ -316,6 +316,13 @@
 ## Home Theater <a name="home-theater"></a>
 
   <details>
+    <summary> Eclipsa Audio: Dolby Atmos alternative</summary>
+     move over dolby atmos what is eclipse audio <p>
+
+   [Goto Top](#documentation)  
+  </details>
+
+  <details>
     <summary>Maximizing Your Hi-Fi and Home Theater Experience</summary>
     https://m.youtube.com/watch?v=PsbORx6iNyk
 
