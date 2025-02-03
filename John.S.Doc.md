@@ -1531,6 +1531,8 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   ### Doughnuts <a name="doughnuts"></a>
    [Home-made Doughnuts](https://m.youtube.com/watch?v=ACxRbS5yhM4)
 
+  [1 Ingredient Doughnuts](https://m.youtube.com/watch?v=gY6Ptth-NUU) <br>
+
   [Goto Top](#documentation)  
 
 
