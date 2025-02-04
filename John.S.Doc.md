@@ -1655,6 +1655,8 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   ### Ice Cream <a name="ice-cream"></a>
    [Banana Chocolate Ice Cream](https://m.youtube.com/watch?v=YwTaxIYm_94&pp=ygVTSXTigJlzIHNvIGRlbGljaW91cyBJIG1ha2UgaXQgYWxtb3N0IGV2ZXJ5IHdlZWtlbmQgRGVsbGljaW91cyByZWNpcGUgd2l0aCBjb25kZW5zZWQ%3D)
 
+   [Don't Buy Ice Cream from the Supermarket](https://m.youtube.com/shorts/zGoBSuUBNZM) <p>
+
    [Taste Test](https://m.youtube.com/watch?v=-gxC4B_WGYI)
 
   [Goto Top](#documentation)  
