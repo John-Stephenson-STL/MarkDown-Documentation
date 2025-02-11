@@ -162,23 +162,9 @@
 
   <details>
     <summary>Back-End Duties</summary>
+    [U.S.P.S. Back-End](https://github.com/vuejs/vue)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   [GoTo Top](#documentation)
   </details>
 
 ## Math Tips <a name="math-tips"></a>
