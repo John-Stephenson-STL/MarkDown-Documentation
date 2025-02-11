@@ -489,7 +489,7 @@
 
   <details>
     <summary>What's an Illusion</summary>
-     https://m.youtube.com/watch?v=2aEWnhmJnJs  <p>
+     https://m.youtube.com/watch?v=2aEWnhmJnJs 
      [Goto Top](#documentation)  
   </details>
 
