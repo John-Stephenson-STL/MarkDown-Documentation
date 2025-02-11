@@ -985,7 +985,7 @@
 
 ## Apple <a name="apple"></a>
 
-## Keylogger <a name="keylogger"></a>
+### Keylogger <a name="keylogger"></a>
 
   <details>
     <summary>Check for Keyloggers</summary>
@@ -1085,6 +1085,10 @@
 </details>  
 
 ### iPhone <a name="iphone"></a>
+  <details>
+    <summary>Make iPhone Faster</summary>
+      https://m.youtube.com/watch?v=IOCEWghQq1w
+  </details>
 
   [Make Your Volume Louder](https://m.youtube.com/watch?v=8bVnXilcAPc)  
 
