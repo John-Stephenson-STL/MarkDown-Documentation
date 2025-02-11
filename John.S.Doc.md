@@ -160,6 +160,27 @@
   [Goto Top](#documentation)  
   </details>
 
+  <details>
+    <summary>Back-End Duties</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </details>
+
 ## Math Tips <a name="math-tips"></a>
 
 <details>  
@@ -382,9 +403,6 @@
 
    [Goto Top](#documentation)  
   </details>
-
-
-
 
 ## TECHNICAL <a name="technical"></a>
 
