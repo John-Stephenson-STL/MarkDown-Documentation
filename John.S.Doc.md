@@ -334,6 +334,13 @@
 ## Home Theater <a name="home-theater"></a>
 
   <details>
+    <summary>Repairing Infinity Speakers</summary>
+      https://m.youtube.com/watch?v=dYdamZhwJhE
+
+   [Goto Top](#documentation)  
+  </details€
+
+  <details>
     <summary> Eclipsa Audio: Dolby Atmos alternative</summary>
      https://m.youtube.com/watch?time_continue=148&v=7SdH19i2-GA&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2F&source_ve_path=MTM5MTE3LDI4NjY2 <p>
 
