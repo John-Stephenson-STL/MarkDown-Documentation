@@ -338,7 +338,7 @@
       https://m.youtube.com/watch?v=dYdamZhwJhE
 
    [Goto Top](#documentation)  
-  </details€
+  </details>
 
   <details>
     <summary> Eclipsa Audio: Dolby Atmos alternative</summary>
