@@ -155,17 +155,6 @@
 ## U.S.P.S. <a name="usps"></a>
 [U.S.P.S. - Back-End](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/U.S.P.S._Back-End)  
 
-
-
-
-
-
-
-
-
-
-
-
   <details>
     <summary>UBBM</summary>
     https://m.youtube.com/watch?v=KwdWJgSU8o4 <br>
@@ -345,6 +334,13 @@
 </details>  
 
 ## Home Theater <a name="home-theater"></a>
+
+  <details>
+    <summary>Steps to DIY Speakers</summary>
+      https://www.instructables.com/How-to-Build-Custom-Speakers/
+
+   [Goto Top](#documentation)  
+  </details>
 
   <details>
     <summary>Repairing Infinity Speakers</summary>
