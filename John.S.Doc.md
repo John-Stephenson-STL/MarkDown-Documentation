@@ -346,7 +346,7 @@
       https://www.dolby.com/experience/home-entertainment/improve-your-setup/  <br >
      [Goto Top](#documentation)  
     </details>
-   <details>
+   </details>
 
   <details>
     <summary>Add WiFi to any speaker</summary>
