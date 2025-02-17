@@ -334,6 +334,12 @@
 </details>  
 
 ## Home Theater <a name="home-theater"></a>
+  <details>
+    <summary>Add WiFi to any speaker</summary>
+      https://m.youtube.com/watch?v=CkRj_SMRg6Y <br>
+
+   [Goto Top](#documentation)  
+  </details>
 
   <details>
     <summary>Steps to DIY Speakers</summary>
