@@ -335,11 +335,18 @@
 
 ## Home Theater <a name="home-theater"></a>
   <details>
-    <summary>Dolby setup</summary>
-      https://www.dolby.com/experience/home-entertainment/articles/how-to-set-up-your-home-theater-with-dolby-atmos/#choosingyouraudio
+    <summary>Dolby</summary>
+    <details>
+      <summary>Dolby setup</summary>
+        https://www.dolby.com/experience/home-entertainment/articles/how-to-set-up-your-home-theater-with-dolby-atmos/#choosingyouraudio  <br >
+      [Goto Top](#documentation)  
+    </details>
+    <details>
     <summary>Improve your Home Entertainment Experience</summary>
-      https://www.dolby.com/experience/home-entertainment/improve-your-setup/
-  </details>
+      https://www.dolby.com/experience/home-entertainment/improve-your-setup/  <br >
+     [Goto Top](#documentation)  
+    </details>
+   <details>
 
   <details>
     <summary>Add WiFi to any speaker</summary>
