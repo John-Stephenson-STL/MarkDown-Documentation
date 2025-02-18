@@ -346,6 +346,11 @@
       https://www.dolby.com/experience/home-entertainment/improve-your-setup/  <br >
      [Goto Top](#documentation)  
     </details>
+    <details>
+      <summary>Setting up the ultimate Home Theater</summary>
+      https://www.dolby.com/experience/home-entertainment/articles/how-to-set-up-your-home-theater-with-dolby-atmos/#considerationsbeforebuildingyourtheater <p>
+     [Goto Top](#documentation)  
+    </details>
    </details>
 
   <details>
