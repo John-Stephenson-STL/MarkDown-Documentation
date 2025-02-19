@@ -63,7 +63,7 @@
     15.8. [Password Manager](#password-manager) <br>
     15.9. [Wireless Charging](#wireless-charging)  <br>
     15.1. [MagSafe](#magsafe)  <br>
-16. [Quotes](#quotes)  <br>
+16. [Quotes & Humor](#quotes)  <br>
 17. [Songs](#songs)  <br>
 18. [EyeGlasses](#eyeglasses) <br> 
 19. [D.I.Y.](#diy)  <br>
@@ -1244,6 +1244,13 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   [Goto Top](#documentation) 
 
 ## Quotes && Humor <a name="quotes"></a>
+
+  <details>
+    <summary>Half-Wits</summary>
+    https://m.youtube.com/watch?v=saPQH7CAbJU
+
+  [Goto Top](#documentation) 
+  </details>
 
 <details>
   <summary>Humor Snow Shovelling</summary>
