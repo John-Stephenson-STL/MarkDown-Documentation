@@ -1247,7 +1247,7 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   <details>
     <summary>Half-Wits</summary>
-    https://m.youtube.com/watch?v=saPQH7CAbJU
+    https://m.youtube.com/watch?v=eTDsJd1l7Aw
 
   [Goto Top](#documentation) 
   </details>
