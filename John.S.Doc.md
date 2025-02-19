@@ -1711,6 +1711,8 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   [Goto Top](#documentation)  
 
   ### Eggs <a name="eggs"></a>
+   [Add 2 Egss to a can of Corn](https://m.youtube.com/watch?v=cBXJbklXzt8) 
+
    [French Omlette](https://m.youtube.com/shorts/R5RLADALjQU)
 
   [Goto Top](#documentation)  
