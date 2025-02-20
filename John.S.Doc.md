@@ -219,6 +219,14 @@
 
 </details>
 
+## Watches
+  <details>
+    <summary>Better way to open the back of a watch</summary>
+      https://www.youtube.com/watch?v=2EYaHokmpRc
+
+   [Goto Top](#documentation)  
+  </details>
+
 ## Japanese Gift Wrapping
 <details>
   <summary>Japanese Wrapping</summary>
