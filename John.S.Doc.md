@@ -1144,6 +1144,13 @@
 </details>  
 
 ### iPhone <a name="iphone"></a>
+  <detail>
+    <summary>Rotating Icons</summary>
+    https://m.youtube.com/watch?v=QEDKDEG_OnA  
+
+  [Goto Top](#documentation)  
+  </details>
+
   <details>
     <summary>Doubling iPhone Battery</summary>
     https://m.youtube.com/watch?v=KUWuKDTYRAQ
