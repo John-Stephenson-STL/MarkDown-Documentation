@@ -1145,8 +1145,17 @@
 
 ### iPhone <a name="iphone"></a>
   <details>
+    <summary>Doubling iPhone Battery</summary>
+    https://m.youtube.com/watch?v=KUWuKDTYRAQ
+
+  [Goto Top](#documentation)  
+  </details>
+
+  <details>
     <summary>Make iPhone Faster</summary>
       https://m.youtube.com/watch?v=IOCEWghQq1w
+
+  [Goto Top](#documentation)  
   </details>
 
   [Make Your Volume Louder](https://m.youtube.com/watch?v=8bVnXilcAPc)  
