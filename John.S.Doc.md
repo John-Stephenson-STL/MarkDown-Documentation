@@ -1144,7 +1144,7 @@
 </details>  
 
 ### iPhone <a name="iphone"></a>
-  <detail>
+  <details>
     <summary>Rotating Icons</summary>
     https://m.youtube.com/watch?v=QEDKDEG_OnA  
 
