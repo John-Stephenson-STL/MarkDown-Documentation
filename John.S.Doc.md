@@ -1742,6 +1742,8 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   [Goto Top](#documentation)  
 
   ### Ice Cream <a name="ice-cream"></a>
+   [Make Your Own Ice Cream](https://m.youtube.com/watch?v=LRu9z85BJIk) <p>
+
    [Banana Chocolate Ice Cream](https://m.youtube.com/watch?v=YwTaxIYm_94&pp=ygVTSXTigJlzIHNvIGRlbGljaW91cyBJIG1ha2UgaXQgYWxtb3N0IGV2ZXJ5IHdlZWtlbmQgRGVsbGljaW91cyByZWNpcGUgd2l0aCBjb25kZW5zZWQ%3D)
 
    [Don't Buy Ice Cream from the Supermarket](https://m.youtube.com/shorts/zGoBSuUBNZM) <p>
