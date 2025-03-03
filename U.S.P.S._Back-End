@@ -7,6 +7,15 @@
 2. [Duties](#duties) <br>
 3. [Setup](#setup) <br>
 4. [Carriers](#carriers) <br>
+5. [935](#
+6. [950](#
+7. [FedEx](#
+8. [Driver Pickup](#
+9. [File Cabinet](#
+10. [MailBox](#
+11. [Outside Mailbox](#
+
+
 
 # ChangeLog <a name="changelog"></a>
 <details>
@@ -42,37 +51,37 @@ If there's a tracking code:
   2 ==> Caller Service
 
 # Returns <a name="returns"></a>
-## 935
+## 935 <a name="935"></a>
    Scan the parcel / package
     Stamp the package with the current date
     Place back into the Tonka.
 
     NOTE: 48 hours are needed before processing.
 
-##  950
+##  950 <a name="950"></a>
 
-## FedEx
+## FedEx <a name="fedex"></a>
   There is NO returns for FedEx.
   Don't accept returns from FedEx.
 
-# Driver Pickup
+# Driver Pickup <a name="driverpickup"></a>
   The driver usually arrives with his tractor trailer truck around 5 p.m.  He will pick up the pallets around 6:15.
 
   He will take the Gray Bag and then he'll sign the book.
 
-# File Cabinet 
+# File Cabinet <a name="filecabinet"></a>
 The keys are located in the accounting room.
 
 The first drawer is where the Arrow Keys && Gas Cards should be stored.
 
 The third drawer is for the accountables.
 
-# MailBox
+# MailBox < a name="mailbox"></a>
   If no one is at the Back-End desk the carriers will drop their Arrow Keys and/ or Gas Catss in.
 
   I rey to match the number on the back-side of the key with thw number on the carrier's route on their printed sheet.
 
-# Outside Mailbox
+# Outside Mailbox 
   Need to get the key from the Accountable room.
   Need to get a hand-scanner.  Preferably one with Internet Connection.
   Need to have a U-Cart.
