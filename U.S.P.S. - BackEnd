@@ -1,7 +1,89 @@
 | title | author | date created
 | -------- | ------- | -------|
-| Documentation | John Stephenson | 03-02-2025 |  
+| Documentation | John Stephenson | 9-07-2024 |  
+  
+# Documentation  
 
-<details>  
+<details>
 <summary>Table of Contents</summary>  
-</details>
+
+1. [ChangeLog](#changelog) <br>
+2. [Informational](#informational) <br>
+    2.1. [U.S.P.S.](#usps) <br>
+    2.2. [Math Tips](#math-tips) <br>
+    2.3. [Verticle Nail Ridges](#vertical-nail-ridges) <br>
+    2.4. [Watch What Happens](#mix-salt-vinegar) <br>
+    2.5. [Japanese Gift Wrapping](#japanese-gift-wrapping) </br>
+3. [Initial P.C. Setup](#initial-pc-setup) <br>
+4. [P.C. Backup](#pc-backup) <br>
+5. [Databases](#databases) <br>
+6. [Warnings](#warnings) <br>
+    6.1. [Check for Scammers](#phone-scam) <br>
+    6.2. [Scammers](#scammers) <br>
+    6.3. [Firefox Browser](#firefox-browser) <br>
+    6.4. [JavaScript](#javascript) <br>
+    6.5. [QR Codes](#qr-codes) <br>
+    6.6. [Car Exhaust](#car-exhaust) <br>
+7. [P.C. Setup](#pc-setup) <br>
+8. [Home Theater](#home-theater) <br>
+9. [Technical](#technical) <br>
+    9.1. [Gadgets](#gadgets) <br>
+    9.2. [LibreOffice](#libreoffice) <br>
+    9.3. [IDE](#ide) <br>
+    9.4. [NAS](#nas) <br>
+    9.5  [Halloween](#halloween) <br>
+    9.6. [Christmas](#christmas) <br>
+10. [Programming](#programming) <br>
+    10.1. [Table of Contents](#table-of-contents) <br>
+    10.2. [Markdown Readme](#markdown-readme) <br>
+    10.3. [Markdown](#markdown)  <br>
+11. [Build Tools](#build-tools)  <br>
+    11.1. [GIT](#git) <br>
+    11.2. [Languages](#languages) <br>  
+12. [How To](#how-to) <br>
+    12.1 [Cartoon Image](#cartoon-image) <br>
+    12.2 [Cool Ideas](#cool-ideas)  <br>
+    12.3 [PineWood Derby](#pinewood-derby)  <br>
+    12.4 [Cool Ideas](#cool-ideas) <br>
+    12.5 [Stupidity](#stupidity) <br>
+    12.6 [Funeral](#funeral) <br>
+    12.7 [Eye Glasses](#eye-glasses) <br>
+    12.8 [Prevent Windshield Ice](#windshield-icing) <br>
+13. [Setup Writing ](#setup-writing) <br>
+14. [Anonymous E-mail](#send-anonymous-email) <br>
+15. [Apple](#apple)  <br>
+    15.1. [Keyloggers](#keylogger) <br>
+    15.2. [Tips](#tips) <br>
+    15.3. [Check Unknown Caller](#check-unknown-caller) <br>
+    15.4. [iTunes](#itunes)  <br>
+    15.5. [iPhone](#iphone) <br>
+    15.6. [Airpods Pro 2](#airpods-pro-2) <br>
+    15.6.a. [Cleaning](#cleaning) <br>
+    15.7. [Eye Tracking](#eye-tracking) <br>
+    15.8. [Password Manager](#password-manager) <br>
+    15.9. [Wireless Charging](#wireless-charging)  <br>
+    15.1. [MagSafe](#magsafe)  <br>
+16. [Quotes & Humor](#quotes)  <br>
+17. [Songs](#songs)  <br>
+18. [EyeGlasses](#eyeglasses) <br> 
+19. [D.I.Y.](#diy)  <br>
+20. [Food](#food)  <br>
+    20.1.  [Doughnuts](#doughnuts) <br>
+    20.2.  [Oreos](#oreos) <br>
+    20.3.  [Popcorn](#popcorn) <br>
+    20.4.  [Grill Cheese](#grill-cheese)  <br>
+    20.5.  [Biscuit](#biscuit) <br>
+    20.6.  [Pizza](#pizza)  <br>
+    20.7.  [Peanut Butter](#peanut-butter)  <br>
+    20.8.  [Pasta](#pasta) <br>
+    20.8.a.  [Spaghetti](#spaghetti) <br>
+    20.8.b.  [Lasagna](#lasagna)  <br>
+    20.9.  [Soup](#soup)  <br>
+    20.10.  [Candy](#candy)  <br>
+    20.11. [Eggs](#eggs)  <br>
+    20.12. [Ice Cream](#ice-cream) <br>
+    20.13. [Hot Chocolate](#hot-chocolate) <br>
+    20.14. [Enchiladas](#enchiladas) <p>
+
+</details>  
+
