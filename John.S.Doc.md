@@ -81,9 +81,10 @@
     20.9.  [Soup](#soup)  <br>
     20.10.  [Candy](#candy)  <br>
     20.11. [Eggs](#eggs)  <br>
-    20.12. [Ice Cream](#ice-cream) <br>
-    20.13. [Hot Chocolate](#hot-chocolate) <br>
-    20.14. [Enchiladas](#enchiladas) <p>
+    28.12. [Crispy & Eggs Pancakes](#crispyeggspancakes) <br>
+    20.13. [Ice Cream](#ice-cream) <br>
+    20.14. [Hot Chocolate](#hot-chocolate) <br>
+    20.15. [Enchiladas](#enchiladas) <p>
 
 </details>  
 
@@ -1741,6 +1742,11 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
   [Goto Top](#documentation)  
 
+  ### Crispy & Eggs Pancakes <a name="crispyeggpancake"></a>
+   [Crispy & Eggs Pancakes](https://m.youtube.com/watch?v=7XOqY2OyZs0)
+
+  [Goto Top](#documentation)  
+
   ### Ice Cream <a name="ice-cream"></a>
    [Make Your Own Ice Cream](https://m.youtube.com/watch?v=LRu9z85BJIk) <p>
 
@@ -1773,5 +1779,3 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
   [Goto Top](#documentation)  
   </details>
-
-
