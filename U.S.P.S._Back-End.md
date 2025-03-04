@@ -7,6 +7,182 @@
 2. [Duties](#duties) <br>
 3. [Setup](#setup) <br>
 4. [Carriers](#carriers) <br>
+4.a. [935](#935) <br>
+4.b. [950](#950) <br>
+4.c. [FedEx](#fedex) <br>
+5. [Empty Equipment](#emptyequipment) <br>
+6. [Returns](#returns) <br>
+5. [Driver Pickup](#driverpickup) <br>
+6. [File Cabinet](#filecabinet) <br>
+7. [MailBox](#mailbox) <br>
+8. [Outside Mailbox](#outsidemailbox) <br>
+9. [Mail Drop](#maildrop) <br>
+10. [UBBM](#ubbm)
+
+</details>
+
+# ChangeLog <a name="changelog"></a>
+<details>
+
+| Date | Owner | Reason for Change |
+| --- | --- | --- |
+| 02/10/2025 | STL John S | Initial Commit |
+</details>
+
+# Duties <a name="duties"></a>
+  1. Empty Equipment
+  2. Clean Dock
+  3. Pallet Jacks inside
+  4. Tonkas organized and out of isles
+  5. File Attempted Mail
+  6. Lock Doors
+  7. Secure Keys and Gas Cards <br>
+    a) Let Management ( supervisors) know if keys are missing.
+  8. Pickup UBBM
+  9. Help throw Parcels
+
+  [GoTo Top](#back-end)
+
+# Setup <a name="setup"></a>
+
+The setup involves the following:
+1) Letters
+    Use a half Gaylord
+2) Flats
+    Use a wired cage ( Preferably with Shelves)
+3) 1 - 2 bins for Priority
+    Use a half Gaylord
+
+1) Express / HazMat
+    Use Wired Hanging Bag for Express.
+    Use a Bucket for HazMat.
+2) 1 - 2  bins for Ground
+    Use a full-size Gaylord
+
+  [GoTo Top](#back-end)
+
+# What to do when Carriers Return <a name="carriers"></a>
+If there's a tracking code: <br>
+  use the hand scanner <br>
+  Enter <br>
+  2 ==> Available for Pickup <br>
+  2 ==> Caller Service <br>
+
+The carrier's will bring gas receipts and postage due money. <br>
+  Create 2 different envelopes labeled: <br>
+    1. Postage Due ( Make sure to stamp the date as well ). <br>
+    2. Gas Receipts 
+
+  [GoTo Top](#back-end)
+
+# Empty Equipment <a name="emptyequipment"></a>
+  The Empty Cages are used for DPS, behind the Rural Carriers.<br>
+    Move the Empty Cage to the back-End desk.<br>  here you'll put an Empty Transport placard on.<br>
+    Move the Empty Cage to an empty place on the trailer, or if the trailers' full move the Empty Cage onto the dock.
+
+  [GoTo Top](#back-end)
+
+# Returns <a name="returns"></a>
+## 935 <a name="935"></a>
+   Scan the parcel / package <br>
+    Stamp the package with the current date<br>
+    Place the item back into the Tonka.
+
+    NOTE: 48 hours are needed before processing.
+
+  [GoTo Top](#back-end)
+
+##  950 <a name="950"></a>
+
+  [GoTo Top](#back-end)
+
+## FedEx <a name="fedex"></a>
+  There is NO returns for FedEx.
+  Don't accept returns from FedEx.
+
+  [GoTo Top](#back-end)
+
+# Driver Pickup <a name="driverpickup"></a>
+  The driver usually arrives with his tractor trailer truck around 5 p.m.  He will pick up the pallets around 6:15.
+
+  He will take the Gray Bag and then he'll sign the book.
+
+  [GoTo Top](#back-end)
+
+# File Cabinet <a name="filecabinet"></a>
+The keys are located in the accounting room.
+
+The first drawer is where the Arrow Keys && Gas Cards should be stored.
+
+The third drawer is for the accountables.
+
+    NOTE: There should be NO Arrow Keys nor Gas Cards in this drawer.
+
+  [GoTo Top](#back-end)
+
+# MailBox <a name="mailbox"></a>
+  If no one is at the Back-End desk the carriers will drop their Arrow Keys and/ or Gas Catss in the mailbox on the back-end desk.
+
+  I rey to match the number on the back-side of the key with thw number on the carrier's route on their printed sheet.
+
+  [GoTo Top](#back-end)
+
+# Outside Mailbox <a name="outsidemailbox"></a>
+  Need to get the key from the Accountable room.
+  Need to get a hand-scanner.  Preferably one with Internet Connection.
+  Need to have a U-Cart.
+
+  Wxit the warehouse using the door to enter the retail office.
+  Turn the deadbolt so the door doesn't close preventing you from entering again.
+  On the door shelf is a block of wood.  This is used to prop open the external door open when the retail office is closed.
+
+  At the outside box, after opening, use the hand scanner to scan the bar-code.
+    Just need to use the 1st option for scanning.
+
+NOTE: Do NOT scan the bar-code before the required time.
+
+  [GoTo Top](#back-end)
+
+# Mail Drop <a name="maildrop"></a>
+  Whenever the scheduled time to check for mail, DON'T scan the bar code early.
+
+  [GoTo Top](#back-end)
+
+# UBBM <a name="ubbm"></a>
+  Under each carrier's cage is a tub possibly labeled UBBM.
+  Need to stand at each carrier's cage to verify UBBM.
+
+More information on UBBM:
+  https://www.reddit.com/r/USPS/comments/j2ylut/what_type_of_mail_can_go_in_the_ubm_bucket/?rdt=39804
+
+  Need to verify the following:
+    1. First Class Mail
+    2. Second Class Mail
+    3. Doesn't have return/electronic service requested' on it
+    4. Political Mail
+
+  [GoTo Top](#back-end)
+
+
+
+
+
+
+
+
+
+
+
+
+# Back-End  
+
+<details>
+<summary>Table of Contents</summary>  
+
+1. [ChangeLog](#changelog) <br>
+2. [Duties](#duties) <br>
+3. [Setup](#setup) <br>
+4. [Carriers](#carriers) <br>
 4.a. [935](#935)
 4.b. [950](#950)
 4.c. [FedEx](#fedex)
