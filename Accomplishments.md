@@ -54,7 +54,7 @@
 # Duties <a name="duties"></a>
   1. Empty Equipment
   2. Clean Dock
-  3. Paller Jacks inside
+  3. Pallet Jacks inside
   4. Tonkas organized and out of isles
   5. File Attempted Mail
   6. Lock Doors
