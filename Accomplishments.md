@@ -29,16 +29,16 @@
 2. [Duties](#duties) <br>
 3. [Setup](#setup) <br>
 4. [Carriers](#carriers) <br>
-4.a. [935](#935)
-4.b. [950](#950)
-4.c. [FedEx](#fedex)
-5. [Empty Equipment](#emptyequipment)
-6. [Returns](#returns)
-5. [Driver Pickup](#driverpickup)
-6. [File Cabinet](#filecabinet)
-7. [MailBox](#mailbox)
-8. [Outside Mailbox](#outsidemailbox)
-9. [Mail Drop](maildrop)
+4.a. [935](#935) <br>
+4.b. [950](#950) <br>
+4.c. [FedEx](#fedex) <br>
+5. [Empty Equipment](#emptyequipment) <br>
+6. [Returns](#returns) <br>
+5. [Driver Pickup](#driverpickup) <br>
+6. [File Cabinet](#filecabinet) <br>
+7. [MailBox](#mailbox) <br>
+8. [Outside Mailbox](#outsidemailbox) <br>
+9. [Mail Drop](maildrop) <br>
 10. [UBBM](#ubbm)
 
 </details>
