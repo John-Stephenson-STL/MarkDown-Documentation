@@ -106,9 +106,9 @@ The carrier's will bring gas receipts and postage due money. <br>
 
 # Returns <a name="returns"></a>
 ## 935 <a name="935"></a>
-   Scan the parcel / package
-    Stamp the package with the current date
-    Place back into the Tonka.
+   Scan the parcel / package <br>
+    Stamp the package with the current date<br>
+    Place the item back into the Tonka.
 
     NOTE: 48 hours are needed before processing.
 
@@ -137,6 +137,8 @@ The keys are located in the accounting room.
 The first drawer is where the Arrow Keys && Gas Cards should be stored.
 
 The third drawer is for the accountables.
+
+  NOTE: There should be NO Arrow Keys in this drawer.
 
   [GoTo Top](#back-end)
 
