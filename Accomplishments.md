@@ -90,9 +90,9 @@ If there's a tracking code: <br>
   2 ==> Available for Pickup <br>
   2 ==> Caller Service <br>
 
-The carrier's will bring gas receipts and postage due money.
-  Create 2 different entrances labeled:
-    1. Postage Due ( Make sure to stamp the date as well ).
+The carrier's will bring gas receipts and postage due money. <br>
+  Create 2 different envelopes labeled: <br>
+    1. Postage Due ( Make sure to stamp the date as well ). <br>
     2. Gas Receipts 
 
   [GoTo Top](#back-end)
