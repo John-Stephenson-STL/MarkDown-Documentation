@@ -82,6 +82,8 @@ PAY DAY
 | F | 02/14/2025 | 04:50 | 12:54 | 12:54 | 12:55 | 08:05 | 00:05 | 01:50 |         | 02:38                         |<br>
 
 PAY DAY
+</details>
+
 
 WEEK 18
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT | Penalty | Transitional Emp Negative Cros |
