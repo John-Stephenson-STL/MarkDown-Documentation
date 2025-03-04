@@ -138,7 +138,7 @@ The first drawer is where the Arrow Keys && Gas Cards should be stored.
 
 The third drawer is for the accountables.
 
-  NOTE: There should be NO Arrow Keys in this drawer.
+    NOTE: There should be NO Arrow Keys nor Gas Cards in this drawer.
 
   [GoTo Top](#back-end)
 
