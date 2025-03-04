@@ -63,7 +63,9 @@
   8. Pickup UBBM
   9. Help throw Parcels
 
-# Setup <a name="dsetup"></a>
+  [GoTo Top](#back-end)
+
+# Setup <a name="setup"></a>
 
 The setup involves the following:
 1) Letters
