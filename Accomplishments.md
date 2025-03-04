@@ -98,8 +98,8 @@ The carrier's will bring gas receipts and postage due money. <br>
   [GoTo Top](#back-end)
 
 # Empty Equipment <a name="emptyequipment"></a>
-  The Empty Cages are used for DPS, for Rural Carriers.
-    Move the Empty Cage to the back-End desk.  here you'll put an Empty Transport placard on.
+  The Empty Cages are used for DPS, behind the Rural Carriers.<br>
+    Move the Empty Cage to the back-End desk.  here you'll put an Empty Transport placard on.<br>
     Move the Empty Cage to an empty place on the trailer, or if the trailers' full move the Empty Cage onto the sock.
 
   [GoTo Top](#back-end)
