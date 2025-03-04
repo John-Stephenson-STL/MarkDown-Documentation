@@ -41,6 +41,8 @@
 9. [Mail Drop](maildrop)
 10. [UBBM](#ubbm)
 
+</details>
+
 # ChangeLog <a name="changelog"></a>
 <details>
 
@@ -77,7 +79,7 @@ The setup involves the following:
 2) 1 - 2 Ground
     Use a full-size Gaylord
 
-# What to do when Carriers Return < a name="carriers"></a>
+# What to do when Carriers Return <a name="carriers"></a>
 If there's a tracking code:
   use the hand scanner 
   Enter
@@ -120,7 +122,7 @@ The first drawer is where the Arrow Keys && Gas Cards should be stored.
 
 The third drawer is for the accountables.
 
-# MailBox < a name="mailbox"></a>
+# MailBox <a name="mailbox"></a>
   If no one is at the Back-End desk the carriers will drop their Arrow Keys and/ or Gas Catss in the mailbox on the back-end desk.
 
   I rey to match the number on the back-side of the key with thw number on the carrier's route on their printed sheet.
