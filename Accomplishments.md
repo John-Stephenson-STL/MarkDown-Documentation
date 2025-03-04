@@ -72,13 +72,13 @@ The setup involves the following:
     Use a half Gaylord
 2) Flats
     Use a wired cage ( Preferably with Shelves)
-3) 1 - 2 Priority
+3) 1 - 2 bins for Priority
     Use a half Gaylord
 
 1) Express / HazMat
     Use Wired Hanging Bag for Express.
     Use a Bucket for HazMat.
-2) 1 - 2 Ground
+2) 1 - 2  bins for Ground
     Use a full-size Gaylord
 
   [GoTo Top](#back-end)
