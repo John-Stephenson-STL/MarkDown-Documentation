@@ -94,8 +94,10 @@ WEEK 18
 | W | 02/19/2025 | HAVE DAY OFF  |
 | R | 02/20/2025 | 04:50 | 12:06 | 12:06 | 12:07 | 07:57 |       | 01:50 |         |
 | F | 02/21/2025 | 04:50 | 13:03 | 13:04 | 13:10 | 08:59 | 00;59 | 01:50 |         |
+</details>
 
-WEEK 19
+<details>
+<summary>WEEK 9          CUMULATIVE 19</summary>
 | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT | Penalty | Transitional Emp Negative Cros |
 | S | 02/22/2025 | 04:50 | 13:32 | 13:34 | 13:35 | 08;84 | 00:84 | 01:60 |         |
 | J | 02/23/2025 | 07:16 | 10:11 | 10:91 | 13:01 | 05:05 |       |       |         |
