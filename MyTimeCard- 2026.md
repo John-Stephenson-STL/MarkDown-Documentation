@@ -1,6 +1,6 @@
 <details>
   <summary>Week 1</summary>
-    | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT | Penalty | Transitional Emp Negative Cros |
+    | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT | Penalty | Transitional Emp Negative Cros |<br>
     | W | 01/01/2025 | HAVE DAY OFF | <br>
     | R | 01/02/2025 | 05:00 | 13:30 | 13:30 | 13:31 | 08:30 | 00:30 | 01:00 |         | 03:32                          | <br>
     | F | 01/03/2025 | 05:00 | 12:96 | 12:96 | 12:97 | 07:97 | 05:39 | 01:00 |         | 02:58                          |
@@ -8,14 +8,14 @@
 
 <details>
   <summary>WEEK 2          CUMULATIVE 12</summary>
-  | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT | Penalty | Transitional Emp Negative Cros |
-  | S | 01/04/2025 | 05:00 | 11:44 | 12:44 | 12:52 | 06;52 |       | 01:00 |         |
-  | J | 01/05/2025 | HAVE DAY OFF  |
-  | M | 01/06/2025 | 05:80 | 13:10 | 13:11 | 13:11 | 07:30 |       | 00:20 |         |
-  | T | 01/07/2025 | 05:00 | 10:53 | 10:53 | 10:54 | 05:54 |       | 01:00 |         |
-  | W | 01/08/2025 | 05:00 | 11:69 | 11:70 | 11:70 | 06:69 |       | 01:00 |         |
-  | R | 01/09/2025 | HAVE DAY OFF  |
-  | F | 01/10/2025 | 05:00 | 11:93 | 12:43 | 15:03 | 09:53 | 01:53 | 01:00 |         |
+  | DAY |   DATE   |   BT  |  OL   |   IL  |   ET  | WORK  |  OT   | NIGHT | Penalty | Transitional Emp Negative Cros |<br>
+  | S | 01/04/2025 | 05:00 | 11:44 | 12:44 | 12:52 | 06;52 |       | 01:00 |         |<br>
+  | J | 01/05/2025 | HAVE DAY OFF  |<br>
+  | M | 01/06/2025 | 05:80 | 13:10 | 13:11 | 13:11 | 07:30 |       | 00:20 |         |<br>
+  | T | 01/07/2025 | 05:00 | 10:53 | 10:53 | 10:54 | 05:54 |       | 01:00 |         |<br>
+  | W | 01/08/2025 | 05:00 | 11:69 | 11:70 | 11:70 | 06:69 |       | 01:00 |         |<br>
+  | R | 01/09/2025 | HAVE DAY OFF  |<br>
+  | F | 01/10/2025 | 05:00 | 11:93 | 12:43 | 15:03 | 09:53 | 01:53 | 01:00 |         |<br>
 </details>
 
 <details>
