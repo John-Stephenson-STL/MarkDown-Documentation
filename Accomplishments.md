@@ -84,11 +84,11 @@ The setup involves the following:
   [GoTo Top](#back-end)
 
 # What to do when Carriers Return <a name="carriers"></a>
-If there's a tracking code:
-  use the hand scanner 
-  Enter
-  2 ==> Available for Pickup
-  2 ==> Caller Service
+If there's a tracking code: <br>
+  use the hand scanner <br>
+  Enter <br>
+  2 ==> Available for Pickup <br>
+  2 ==> Caller Service <br>
 
 The carrier's will bring gas receipts and postage due money.
   Create 2 different entrances labeled:
