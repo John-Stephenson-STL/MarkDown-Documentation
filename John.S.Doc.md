@@ -156,19 +156,7 @@
 ## U.S.P.S. <a name="usps"></a>
 [U.S.P.S. - Back-End](https://github.com/John-Stephenson-STL/MarkDown-Documentation/blob/main/U.S.P.S._Back-End.md)  
 
-  <details>
-    <summary>UBBM</summary>
-    https://m.youtube.com/watch?v=KwdWJgSU8o4 <br>
-
   [Goto Top](#documentation)  
-  </details>
-
-  <details>
-    <summary>Back-End Duties</summary>
-  [U.S.P.S. Back-End](https://github.com/vuejs/vue)
-
-   [GoTo Top](#documentation)
-  </details>
 
 ## Math Tips <a name="math-tips"></a>
 
