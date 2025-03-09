@@ -14,6 +14,7 @@
     2.3. [Verticle Nail Ridges](#vertical-nail-ridges) <br>
     2.4. [Watch What Happens](#mix-salt-vinegar) <br>
     2.5. [Japanese Gift Wrapping](#japanese-gift-wrapping) </br>
+    2.6. [Magic Eye](#https://m.youtube.com/watch?v=v8O8Em_RPNg) <br>
 3. [Initial P.C. Setup](#initial-pc-setup) <br>
 4. [P.C. Backup](#pc-backup) <br>
 5. [Databases](#databases) <br>
@@ -146,6 +147,7 @@
 | 12/13/2024 | STL John S | Added Hot Chocolate to Food section |
 | 12/15/2024 | STL John S | Added Mix Salt Vinegar to Informational section <br>
 | 12/16/2024 | STL John S | Added to Christmas section |
+| 03/09/2025 | STL John S | Added Magic Eye section |
 
   [Goto Top](#documentation)  
 
@@ -225,6 +227,14 @@
 
   [Goto Top](#documentation)  
 </details>
+
+## Magic Eye
+  <details>
+    <summary>YouTube Magic Eye</summary>
+      https://m.youtube.com/watch?v=v8O8Em_RPNg
+
+  [Goto Top](#documentation)  
+  </details>
 
 ### Initial P.C. Setup <a name="initial-pc-setup"></a>
 
