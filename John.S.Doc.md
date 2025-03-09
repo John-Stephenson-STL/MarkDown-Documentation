@@ -14,7 +14,7 @@
     2.3. [Verticle Nail Ridges](#vertical-nail-ridges) <br>
     2.4. [Watch What Happens](#mix-salt-vinegar) <br>
     2.5. [Japanese Gift Wrapping](#japanese-gift-wrapping) </br>
-    2.6. [Magic Eye](#https://m.youtube.com/watch?v=v8O8Em_RPNg) <br>
+    2.6. [Magic Eye](#magiceye) <br>
 3. [Initial P.C. Setup](#initial-pc-setup) <br>
 4. [P.C. Backup](#pc-backup) <br>
 5. [Databases](#databases) <br>
@@ -228,7 +228,7 @@
   [Goto Top](#documentation)  
 </details>
 
-## Magic Eye
+## Magic Eye <a name="magiceye></a>
   <details>
     <summary>YouTube Magic Eye</summary>
       https://m.youtube.com/watch?v=v8O8Em_RPNg
