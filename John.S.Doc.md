@@ -231,7 +231,7 @@
 ## Magic Eye <a name="magic-eye"></a>
   <details>
     <summary>YouTube Magic Eye</summary>
-      https://m.youtube.com/watch?v=v8O8Em_RPNg
+      https://m.youtube.com/watch?v=v8O8Em_RPNg <br>
 
   [Goto Top](#documentation)  
   </details>
