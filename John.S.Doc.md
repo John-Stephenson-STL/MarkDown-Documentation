@@ -63,7 +63,8 @@
     15.7. [Eye Tracking](#eye-tracking) <br>
     15.8. [Password Manager](#password-manager) <br>
     15.9. [Wireless Charging](#wireless-charging)  <br>
-    15.1. [MagSafe](#magsafe)  <br>
+    15.10. [MagSafe](#magsafe)  <br>
+    15.11. [Watch](#watch)<br>
 16. [Quotes & Humor](#quotes)  <br>
 17. [Songs](#songs)  <br>
 18. [EyeGlasses](#eyeglasses) <br> 
@@ -148,6 +149,7 @@
 | 12/15/2024 | STL John S | Added Mix Salt Vinegar to Informational section <br>
 | 12/16/2024 | STL John S | Added to Christmas section |
 | 03/09/2025 | STL John S | Added Magic Eye section |
+| 03/11/2025 | STL John S | Added Watch to Apple section |
 
   [Goto Top](#documentation)  
 
