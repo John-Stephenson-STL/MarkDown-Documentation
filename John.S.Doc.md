@@ -1268,6 +1268,14 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
   [Goto Top](#documentation) 
 
+## Watch
+  <details>
+    ~summary>Replace Watch Crystal</summary>
+    https://m.youtube.com/watch?v=sxFv358_JSg
+
+  [Goto Top](#documentation) 
+  </details>
+
 ## Quotes && Humor <a name="quotes"></a>
 
   <details>
