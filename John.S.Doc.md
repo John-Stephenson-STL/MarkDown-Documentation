@@ -1724,6 +1724,13 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
   [Goto Top](#documentation)  
   </details>
 
+  <details>
+    <summary>Taco-Bell Pizza</summary>
+     https://fedbysab.com/mexican-pizza-taco-bell-copycat-recipe/
+
+  [Goto Top](#documentation)  
+  </details>
+
   ### Peanut Butter <a name="peanut-butter"></a>
    [PeanutButter Cookies](https://kirbiecravings.com/2-ingredient-soft-peanut-butter-cookies/)
 
