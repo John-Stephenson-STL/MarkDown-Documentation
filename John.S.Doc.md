@@ -65,6 +65,7 @@
     15.9. [Wireless Charging](#wireless-charging)  <br>
     15.10. [MagSafe](#magsafe)  <br>
     15.11. [Watch](#watch)<br>
+    15.12. [Record Phone Calls on iPhone](#recordcalls)<br>
 16. [Quotes & Humor](#quotes)  <br>
 17. [Songs](#songs)  <br>
 18. [EyeGlasses](#eyeglasses) <br> 
@@ -1274,6 +1275,14 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
   <details>
     <summary>Replace Watch Crystal</summary>
     https://m.youtube.com/watch?v=sxFv358_JSg
+
+  [Goto Top](#documentation) 
+  </details>
+
+## Record Phone Calls <a name="recordcalls"></a>
+  <details>
+    <summary>Record Phone Calls<summary>
+      https://m.youtube.com/watch?v=dUuuyjUvPos
 
   [Goto Top](#documentation) 
   </details>
