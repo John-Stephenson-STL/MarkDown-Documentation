@@ -15,6 +15,7 @@
     2.4. [Watch What Happens](#mix-salt-vinegar) <br>
     2.5. [Japanese Gift Wrapping](#japanese-gift-wrapping) </br>
     2.6. [Magic Eye](#magic-eye) <br>
+    2.7. [Mosquito Coil Use](#mosquito-coil)<br>
 3. [Initial P.C. Setup](#initial-pc-setup) <br>
 4. [P.C. Backup](#pc-backup) <br>
 5. [Databases](#databases) <br>
@@ -237,6 +238,14 @@
       https://m.youtube.com/watch?v=v8O8Em_RPNg <o>
 
   [Goto Top](#documentation)  
+  </details>
+
+# Mosquito Coil Re-Use <a name="mosquito-coil")</a>
+  <details>
+    <summary>Re-using Mosquito Coil</summary>
+      https://m.youtube.com/watch?v=mfnVeH-4a2U
+
+   [Goto Top](#documentation)  
   </details>
 
 ### Initial P.C. Setup <a name="initial-pc-setup"></a>
