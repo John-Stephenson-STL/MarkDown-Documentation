@@ -90,6 +90,7 @@
     21.13. [Ice Cream](#ice-cream) <br>
     21.14. [Hot Chocolate](#hot-chocolate) <br>
     21.15. [Enchiladas](#enchiladas) <p>
+    21.16. [Hamburger](#hamburger)<br>
 
 </details>  
 
@@ -1823,4 +1824,10 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
     [Enchiladas](https://m.youtube.com/watch?v=synjlYSkvU4) <p>
 
   [Goto Top](#documentation)  
+  </details>
+
+## Hamburger <a name="hamburger"></a>
+  <details>
+    <summary>Hamburger Casserole</summary>
+      https://m.youtube.com/watch?v=SqMHE8cWBZQ&pp=0gcJCfcAhR29_xXO
   </details>
