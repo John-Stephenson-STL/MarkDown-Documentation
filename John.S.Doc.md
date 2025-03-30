@@ -1860,4 +1860,4 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
     [Chicken Parmesan](https://m.youtube.com/watch?v=59hTOW0kv1Y) <br>
 
    [Goto Top](#documentation) 
-  <details>
+  </details>
