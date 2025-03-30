@@ -94,7 +94,7 @@
     21.27. [Mexican](#mexican)<br>
     21.17.a. [Enchiladas](#enchiladas) <br>
     21.27.b. [Sabrosos](#sabrosos)<br>
-    21.18 [Chicken](#chicken)<br>
+    21.18  [Chicken](#chicken)<br>
 
 </details>  
 
