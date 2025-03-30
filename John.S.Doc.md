@@ -94,6 +94,7 @@
     21.27. [Mexican](#mexican)<br>
     21.17.a. [Enchiladas](#enchiladas) <br>
     21.27.b. [Sabrosos](#sabrosos)<br>
+    21.18 [Chicken](#chicken)<br>
 
 </details>  
 
@@ -1853,3 +1854,10 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
 
    [Goto Top](#documentation) 
    </details>
+
+## Chicken <a name="chicken></a>
+  <details>
+    [Chicken Parmesan](https://m.youtube.com/watch?v=59hTOW0kv1Y) <br>
+
+   [Goto Top](#documentation
+  <details>
