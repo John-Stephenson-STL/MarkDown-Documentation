@@ -1214,27 +1214,26 @@ I turn off BlueTooth which drains my battery as I only have two physical keyboar
 
 ### Reset Ringer <a name="reset-ringer"></a>
   <details>
-    <summary>How to Reset iPhone's Ringing</summary>
+    <summary>How to Reset iPhone's Ringing</summary><br>
     FIRST: Are there missed calls in Phone/Recents on the phone? If they are not the problem is in the network, because the calls aren’t getting to your phone. Contact your carrier: 
 check with your carrier that they don’t have a local outage, and that you didn’t have any settings that would have immediately invoked voicemail, such as call forwarding.
-check up on them at Down Detector - Crowdsourced outage checker
+check up on them at Down Detector - Crowdsourced outage checker<br>
 
-If they are in Recents here’s what to check:
+If they are in Recents here’s what to check:<br>
 
 Check the MUTE switch on the left side of the phone, above the volume buttons. It should be towards the screen
 Check the volume setting. With the Home screen displayed, press the VOLUME UP button on the left side of the phone. It’s above the VOLUME DOWN button.
 Go to Settings/Phone. There’s a switch for Silence Unknown Callers. If it is on any calls from numbers not in your contacts will go directly to voicemail.
 If you keep it on, in Settings/Phone make sure Dial Assist is enabled; it is needed to accurately match an incoming call to a contact.
 Remember that banks, doctors and other professionals may not call you from the same number that you have in your contacts for them.
-Also in Settings/Phone: Make sure Call Forwarding is off.
-iOS 14 & older: Go to Settings/Do not Disturb. Turn it off if it is on. Also turn off Scheduled. With both off none of the other switches there matter.
-iOS 15: Go to Settings/Focus, and verify that all focus settings are disabled.
-iOS 16: Open the Control Center and turn off Focus.
-Go to Settings/Sounds & Haptics. Make sure there is a sound assigned to Ringtone.
-Go to Settings/Accessibility/Touch/Call Audio Routing and make sure Auto-Answer Calls is off.
-Go to Settings/Screen Time/Communications Limits. Tap each of the 2 entries and make sure both are “Everyone"
-Restart your phone-->Restart your iPhone, iPad, or iPod touch - Apple Support
-If all else fails, talk your carrier into replacing your SIM card (thanks to ASC user DShelbyD)
+Also in Settings/Phone: Make sure Call Forwarding is off.<br>
+
+iOS 16: Open the Control Center and turn off Focus.<br>
+Go to Settings/Sounds & Haptics. Make sure there is a sound assigned to Ringtone.<br>
+Go to Settings/Accessibility/Touch/Call Audio Routing and make sure Auto-Answer Calls is off.<br>
+Go to Settings/Screen Time/Communications Limits. Tap each of the 2 entries and make sure both are “Everyone"<br>
+Restart your phone-->Restart your iPhone, iPad, or iPod touch - Apple Support<br>
+If all else fails, talk your carrier into replacing your SIM card (thanks to ASC user DShelbyD)<br>
 
    [Goto Top](#documentation)  
   </details>
