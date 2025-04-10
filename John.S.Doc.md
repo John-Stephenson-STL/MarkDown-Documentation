@@ -59,6 +59,7 @@
     15.3. [Check Unknown Caller](#check-unknown-caller) <br>
     15.4. [iTunes](#itunes)  <br>
     15.5. [iPhone](#iphone) <br>
+    15.5.a. [Remove Doc Background](#Remove-doc)<br>
     15.5.a. [Reset Phone Call](#reset-ringer)<br>
     15.6. [Airpods Pro 2](#airpods-pro-2) <br>
     15.6.a. [Cleaning](#cleaning) <br>
@@ -1168,6 +1169,12 @@
 </details>  
 
 ### iPhone <a name="iphone"></a>
+### Removing iPhone Doc Image < a name="Remove-doc"></>
+  <details>
+    <summary>Removing iPhone Doc Background</summary>
+      https://m.youtube.com/watch?v=mhPlLnKoy6I
+  </details>
+
   <details>
     <summary>Rotating Icons</summary>
     https://m.youtube.com/watch?v=QEDKDEG_OnA  
