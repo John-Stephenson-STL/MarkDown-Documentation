@@ -59,8 +59,8 @@
     15.3. [Check Unknown Caller](#check-unknown-caller) <br>
     15.4. [iTunes](#itunes)  <br>
     15.5. [iPhone](#iphone) <br>
-    15.5.a. [Remove Doc Background](#Remove-doc)<br>
-    15.5.a. [Reset Phone Call](#reset-ringer)<br>
+    15.5.a. [Remove Doc Background](#remove-doc)<br>
+    15.5.b. [Reset Phone Call](#reset-ringer)<br>
     15.6. [Airpods Pro 2](#airpods-pro-2) <br>
     15.6.a. [Cleaning](#cleaning) <br>
     15.7. [Eye Tracking](#eye-tracking) <br>
@@ -160,6 +160,7 @@
 | 12/16/2024 | STL John S | Added to Christmas section |
 | 03/09/2025 | STL John S | Added Magic Eye section |
 | 03/11/2025 | STL John S | Added Watch to Apple section |
+| 04/08/2025 | STL John S | Added iPhone Remove DoccBackground |
 
   [Goto Top](#documentation)  
 
@@ -1169,7 +1170,7 @@
 </details>  
 
 ### iPhone <a name="iphone"></a>
-### Removing iPhone Doc Image < a name="Remove-doc"></>
+### Removing iPhone Doc Background <a name="remove-doc"></>
   <details>
     <summary>Removing iPhone Doc Background</summary>
       https://m.youtube.com/watch?v=mhPlLnKoy6I
