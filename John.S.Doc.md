@@ -1170,7 +1170,7 @@
 </details>  
 
 ### iPhone <a name="iphone"></a>
-### Removing iPhone Doc Background <a name="remove-doc"></>
+### Removing iPhone Doc Background <a name="remove-doc"></a>
   <details>
     <summary>Removing iPhone Doc Background</summary>
       https://m.youtube.com/watch?v=mhPlLnKoy6I
