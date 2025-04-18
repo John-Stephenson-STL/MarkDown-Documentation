@@ -95,8 +95,9 @@
     21.16. [Hot Chocolate](#hot-chocolate) <br>
     21.27. [Mexican](#mexican)<br>
     21.17.a. [Enchiladas](#enchiladas) <br>
-    21.27.b. [Sabrosos](#sabrosos)<br>
-    21.18  [Chicken](#chicken)<br>
+    21.27.b. [Sabrosos](#sabrosos)<br><br>
+    21.18  [Chicken](#chicken)<br><br>
+    21.19. [CheeseCake](#cheesecake)<br>
 
 </details>  
 
@@ -1895,4 +1896,10 @@ https://m.youtube.com/watch?v=HLC1pURhfYc
     [Chicken Parmesan](https://m.youtube.com/watch?v=59hTOW0kv1Y) <br>
 
    [Goto Top](#documentation) 
+  </details>
+
+## CheeseCake <a name="cheesecake"></a>
+  <details>
+    <summary>New York Cheesecake</summary>
+      https://m.youtube.com/watch?v=2CacF42sglE
   </details>
