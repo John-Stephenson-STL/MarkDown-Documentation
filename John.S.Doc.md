@@ -28,7 +28,8 @@
     6.6. [Car Exhaust](#car-exhaust) <br>
 7. [P.C. Setup](#pc-setup) <br>
 8. [Home Theater](#home-theater) <br>
-8.1 [BlueTooth Speakers](#speakers)</br>
+8.1. [BlueTooth Speakers](#bluetooth-speakers)</br>
+8.2. [Speakers](#speakers) <br>
 9. [Technical](#technical) <br>
     9.1. [Gadgets](#gadgets) <br>
     9.2. [LibreOffice](#libreoffice) <br>
@@ -367,7 +368,7 @@
 </details>  
 
 ## Home Theater <a name="home-theater"></a>
-### Speakers <a name="speakers"></a>
+### BlueTooth Speakers <a name="sbluetooth-peakers"></a>
   <details>
     <summary>BlueTooth Speakers</summary>
       https://m.youtube.com/watch?v=B66_Zq6l0_s&pp=0gcJCdgAo7VqN5tD
@@ -396,6 +397,7 @@
   [Goto Top](#documentation)  
   </details>
 
+ ### Speakers <a name="speakers></a>
   <details>
     <summary>Placement of Dolby Atmos Speakers</summary>
      https://m.youtube.com/watch?v=vuZ56_zHLTI
