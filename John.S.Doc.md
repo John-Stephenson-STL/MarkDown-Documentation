@@ -373,7 +373,7 @@
       https://m.youtube.com/watch?v=B66_Zq6l0_s&pp=0gcJCdgAo7VqN5tD
 
    <details>
-    <summary>Needed Products</summary>
+    <summary>Needed Products</summary>  
   1) 2Pack 1001B Bluetooth Amplifier Board
    https://www.amazon.com/dp/B0DZHCXVPH?&linkCode=sl1&tag=rogergadgetgu-20&linkId=973bbad8bb12cf3a60b379948bb67c7a&language=en_US&ref_=as_li_ss_tl
 
