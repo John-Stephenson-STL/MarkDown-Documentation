@@ -163,6 +163,7 @@
 | 03/09/2025 | STL John S | Added Magic Eye section |
 | 03/11/2025 | STL John S | Added Watch to Apple section |
 | 04/08/2025 | STL John S | Added iPhone Remove DoccBackground |
+| 04/26/2025 | STL John S | Added BlueTooth Seakers to Home Theater |
 
   [Goto Top](#documentation)  
 
@@ -373,22 +374,22 @@
 
    <details>
     <summary>Needed Products</summary>
-  2Pack 1001B Bluetooth Amplifier Board
+  1) 2Pack 1001B Bluetooth Amplifier Board
    https://www.amazon.com/dp/B0DZHCXVPH?&linkCode=sl1&tag=rogergadgetgu-20&linkId=973bbad8bb12cf3a60b379948bb67c7a&language=en_US&ref_=as_li_ss_tl
 
-  Manual Craft Drill Sharp HSS Micro Mini Twist Drill Bits Set
+  2) Manual Craft Drill Sharp HSS Micro Mini Twist Drill Bits Set
    https://www.amazon.com/dp/B09TT6964Q?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=d964433a22b5e53c66aa732a046e2a2b&language=en_US&ref_=as_li_ss_tl
 
-  STEP DRILL BIT
+  3) STEP DRILL BIT
    https://www.amazon.com/dp/B08Y96Z669?&linkCode=sl1&tag=rogergadgetgu-20&linkId=caebf883b41ab28448f75d60c8c56198&language=en_US&ref_=as_li_ss_tl
 
-  Brass Standoff Spacers Nuts Screws Kit,240pcs
+  4) Brass Standoff Spacers Nuts Screws Kit,240pcs
    https://www.amazon.com/dp/B06XCNF6HK?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=bc29230faf2efd89f2a7b8700b7f251a&language=en_US&ref_=as_li_ss_tl
 
-  6 Packs Rectangle Small Clear Plastic Storage Containers
+  5) 6 Packs Rectangle Small Clear Plastic Storage Containers
    https://www.amazon.com/dp/B0BMKGWH8S?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=dbf1aa61fc905fc438aafe0dd9609b5e&language=en_US&ref_=as_li_ss_tl
 
-  12V 3A Power Supply Adapter 36W 100V-240V AC to DC
+  6) 12V 3A Power Supply Adapter 36W 100V-240V AC to DC
    https://www.amazon.com/dp/B097XZ36JC?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=c9e4ca68f970bb8b76c14b268509df03&language=en_US&ref_=as_li_ss_tl
 
    </details>
