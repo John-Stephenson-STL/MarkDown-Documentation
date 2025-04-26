@@ -403,7 +403,9 @@
   <details>
     <summary>Placement of Dolby Atmos Speakers</summary>
      https://m.youtube.com/watch?v=vuZ56_zHLTI
-    [Goto Top](#documentation)  
+
+  [Goto Top](#documentation)  
+
   </details>
 
   <details>
