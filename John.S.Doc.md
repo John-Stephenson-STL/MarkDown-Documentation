@@ -28,6 +28,7 @@
     6.6. [Car Exhaust](#car-exhaust) <br>
 7. [P.C. Setup](#pc-setup) <br>
 8. [Home Theater](#home-theater) <br>
+8.1 [BlueTooth Speakers](#speakers)</br>
 9. [Technical](#technical) <br>
     9.1. [Gadgets](#gadgets) <br>
     9.2. [LibreOffice](#libreoffice) <br>
@@ -255,10 +256,6 @@
     <summary>Re-using Mosquito Coil</summary>
       https://m.youtube.com/watch?v=mfnVeH-4a2U
 
-
-
-
-
    [Goto Top](#documentation)  
   </details>
 
@@ -369,6 +366,35 @@
 </details>  
 
 ## Home Theater <a name="home-theater"></a>
+### Speakers <a name="speakers"></a>
+  <details>
+    <summary>BlueTooth Speakers</summary>
+      https://m.youtube.com/watch?v=B66_Zq6l0_s&pp=0gcJCdgAo7VqN5tD
+
+   <details>
+    <summary>Needed Products</summary>
+  2Pack 1001B Bluetooth Amplifier Board
+   https://www.amazon.com/dp/B0DZHCXVPH?&linkCode=sl1&tag=rogergadgetgu-20&linkId=973bbad8bb12cf3a60b379948bb67c7a&language=en_US&ref_=as_li_ss_tl
+
+  Manual Craft Drill Sharp HSS Micro Mini Twist Drill Bits Set
+   https://www.amazon.com/dp/B09TT6964Q?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=d964433a22b5e53c66aa732a046e2a2b&language=en_US&ref_=as_li_ss_tl
+
+  STEP DRILL BIT
+   https://www.amazon.com/dp/B08Y96Z669?&linkCode=sl1&tag=rogergadgetgu-20&linkId=caebf883b41ab28448f75d60c8c56198&language=en_US&ref_=as_li_ss_tl
+
+  Brass Standoff Spacers Nuts Screws Kit,240pcs
+   https://www.amazon.com/dp/B06XCNF6HK?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=bc29230faf2efd89f2a7b8700b7f251a&language=en_US&ref_=as_li_ss_tl
+
+  6 Packs Rectangle Small Clear Plastic Storage Containers
+   https://www.amazon.com/dp/B0BMKGWH8S?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=dbf1aa61fc905fc438aafe0dd9609b5e&language=en_US&ref_=as_li_ss_tl
+
+  12V 3A Power Supply Adapter 36W 100V-240V AC to DC
+   https://www.amazon.com/dp/B097XZ36JC?th=1&linkCode=sl1&tag=rogergadgetgu-20&linkId=c9e4ca68f970bb8b76c14b268509df03&language=en_US&ref_=as_li_ss_tl
+
+   </details>
+   [Goto Top](#documentation)  
+  </details>
+
   <details>
     <summary>Placement of Dolby Atmos Speakers</summary>
      https://m.youtube.com/watch?v=vuZ56_zHLTI
