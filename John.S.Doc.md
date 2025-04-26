@@ -397,7 +397,7 @@
   [Goto Top](#documentation)  
   </details>
 
- ### Speakers <a name="speakers></a>
+ ### Speakers <a name="speakers"></a>
   <details>
     <summary>Placement of Dolby Atmos Speakers</summary>
      https://m.youtube.com/watch?v=vuZ56_zHLTI
