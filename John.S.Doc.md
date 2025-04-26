@@ -368,7 +368,7 @@
 </details>  
 
 ## Home Theater <a name="home-theater"></a>
-### BlueTooth Speakers <a name="sbluetooth-peakers"></a>
+### BlueTooth Speakers <a name="bluetooth-speakers"></a>
   <details>
     <summary>BlueTooth Speakers</summary>
       https://m.youtube.com/watch?v=B66_Zq6l0_s&pp=0gcJCdgAo7VqN5tD
