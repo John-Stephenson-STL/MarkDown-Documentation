@@ -1365,6 +1365,13 @@ If all else fails, talk your carrier into replacing your SIM card (thanks to ASC
 
 ## Watch
   <details>
+    <summary>Display Step Count on Apple Watch</summary>
+      https://m.youtube.com/watch?v=JWk3ZVwqwCQ
+
+  [Goto Top](#documentation) 
+  </details>
+
+  <details>
     <summary>Replace Watch Crystal</summary>
     https://m.youtube.com/watch?v=sxFv358_JSg
 
