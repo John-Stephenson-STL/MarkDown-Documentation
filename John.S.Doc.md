@@ -203,7 +203,7 @@
     https://m.youtube.com/watch?v=vFbDHm1bpiA
   </details>
 
-** Farts <a name="farts--1"></a>
+## Farts <a name="farts--1"></a>
 <details>
   <summary>Informational</summary>  <br />
 
